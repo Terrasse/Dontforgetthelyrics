@@ -53,7 +53,6 @@ $route['404_override'] = '';
 
 $route['home'] = 'home';
 $route['profile/(.*)'] = 'player/profile/$1';
-$route['login'] = 'connection';
 
 
 // ////////////////////////////////////////////////////////////////////

@@ -11413,3 +11413,7480 @@ DEBUG - 2015-05-05 22:37:01 --> Input Class Initialized
 DEBUG - 2015-05-05 22:37:01 --> Global POST and COOKIE data sanitized
 DEBUG - 2015-05-05 22:37:01 --> Language Class Initialized
 ERROR - 2015-05-05 22:37:01 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:39:02 --> Config Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:39:02 --> URI Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Router Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Output Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Security Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Input Class Initialized
+DEBUG - 2015-05-05 22:39:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:39:02 --> Language Class Initialized
+ERROR - 2015-05-05 22:39:02 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:39:03 --> Config Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:39:03 --> URI Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Router Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Output Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Security Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Input Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:39:03 --> Language Class Initialized
+ERROR - 2015-05-05 22:39:03 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:39:03 --> Config Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:39:03 --> URI Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Router Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Output Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Security Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Input Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:39:03 --> Language Class Initialized
+ERROR - 2015-05-05 22:39:03 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:39:03 --> Config Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:39:03 --> URI Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Router Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Output Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Security Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Input Class Initialized
+DEBUG - 2015-05-05 22:39:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:39:03 --> Language Class Initialized
+ERROR - 2015-05-05 22:39:03 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:36 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:36 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:36 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:36 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:36 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:36 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:36 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:36 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:39 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:39 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:39 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:39 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:40 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:40 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:40 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:40 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:40 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:40 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:40 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:40 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:40 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:40 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:41 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:41 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:41 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:41 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:41 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:41 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:41 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:41 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:42 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:42 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:42 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:42 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:44 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:44 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:44 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:44 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:40:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:46 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:47 --> Language Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:40:47 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Session Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:40:47 --> Session routines successfully run
+DEBUG - 2015-05-05 22:40:47 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:40:47 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:40:47 --> Final output sent to browser
+DEBUG - 2015-05-05 22:40:47 --> Total execution time: 0.1476
+DEBUG - 2015-05-05 22:40:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:48 --> Language Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:40:48 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Session Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:40:48 --> Session routines successfully run
+DEBUG - 2015-05-05 22:40:48 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Model Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Model Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:40:48 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:40:48 --> Final output sent to browser
+DEBUG - 2015-05-05 22:40:48 --> Total execution time: 0.0393
+DEBUG - 2015-05-05 22:40:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:48 --> Router Class Initialized
+ERROR - 2015-05-05 22:40:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:40:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:40:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Router Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Output Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Security Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Input Class Initialized
+DEBUG - 2015-05-05 22:40:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:40:57 --> Language Class Initialized
+ERROR - 2015-05-05 22:40:57 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:42:55 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:55 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Output Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Security Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Input Class Initialized
+DEBUG - 2015-05-05 22:42:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:42:55 --> Language Class Initialized
+ERROR - 2015-05-05 22:42:55 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:42:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Output Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Security Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Input Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:42:56 --> Language Class Initialized
+ERROR - 2015-05-05 22:42:56 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:42:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Output Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Security Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Input Class Initialized
+DEBUG - 2015-05-05 22:42:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:42:56 --> Language Class Initialized
+ERROR - 2015-05-05 22:42:56 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:42:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:57 --> Router Class Initialized
+ERROR - 2015-05-05 22:42:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Output Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Security Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Input Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:42:58 --> Language Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:42:58 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Session Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:42:58 --> Session routines successfully run
+DEBUG - 2015-05-05 22:42:58 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Model Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Model Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:42:58 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:42:58 --> Final output sent to browser
+DEBUG - 2015-05-05 22:42:58 --> Total execution time: 0.0418
+DEBUG - 2015-05-05 22:42:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:58 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> URI Class Initialized
+ERROR - 2015-05-05 22:42:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:58 --> Router Class Initialized
+ERROR - 2015-05-05 22:42:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:58 --> Router Class Initialized
+ERROR - 2015-05-05 22:42:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Output Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Security Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Input Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:42:59 --> Language Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:42:59 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Session Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:42:59 --> Session routines successfully run
+DEBUG - 2015-05-05 22:42:59 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Model Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Model Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:42:59 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:42:59 --> Final output sent to browser
+DEBUG - 2015-05-05 22:42:59 --> Total execution time: 0.0380
+DEBUG - 2015-05-05 22:42:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Router Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:59 --> URI Class Initialized
+ERROR - 2015-05-05 22:42:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:59 --> Router Class Initialized
+ERROR - 2015-05-05 22:42:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:42:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:42:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:42:59 --> Router Class Initialized
+ERROR - 2015-05-05 22:42:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:00 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:00 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:00 --> Language Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:43:00 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Session Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:43:00 --> Session routines successfully run
+DEBUG - 2015-05-05 22:43:00 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Model Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Model Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:43:00 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:43:00 --> Final output sent to browser
+DEBUG - 2015-05-05 22:43:00 --> Total execution time: 0.0370
+DEBUG - 2015-05-05 22:43:00 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:00 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:00 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:00 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:00 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:00 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:00 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:00 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:00 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:00 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:01 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:01 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:01 --> Language Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:43:01 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Session Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:43:01 --> Session routines successfully run
+DEBUG - 2015-05-05 22:43:01 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:43:01 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:43:01 --> Final output sent to browser
+DEBUG - 2015-05-05 22:43:01 --> Total execution time: 0.0372
+DEBUG - 2015-05-05 22:43:01 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:01 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:01 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:01 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:01 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:01 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:01 --> Router Class Initialized
+ERROR - 2015-05-05 22:43:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:43:07 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:07 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:07 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:07 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:45 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:45 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:46 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:46 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:46 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:46 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:46 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:46 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:46 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:46 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:46 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:47 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:47 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:47 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:47 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:47 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:47 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:48 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:48 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:48 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:48 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:48 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:48 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:48 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:48 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:48 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:48 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:49 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:49 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:43:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:43:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Output Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Security Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Input Class Initialized
+DEBUG - 2015-05-05 22:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:43:50 --> Language Class Initialized
+ERROR - 2015-05-05 22:43:50 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:45:29 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:29 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:29 --> Language Class Initialized
+ERROR - 2015-05-05 22:45:29 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:45:29 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:29 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:29 --> Language Class Initialized
+ERROR - 2015-05-05 22:45:29 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:45:30 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:30 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:30 --> Language Class Initialized
+ERROR - 2015-05-05 22:45:30 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:45:30 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:30 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:30 --> Language Class Initialized
+ERROR - 2015-05-05 22:45:30 --> 404 Page Not Found --> connection/index
+DEBUG - 2015-05-05 22:45:44 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:44 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:44 --> Language Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:45:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Session Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:45:44 --> Session routines successfully run
+DEBUG - 2015-05-05 22:45:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:45:44 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:45:44 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:45:44 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:45:44 --> Final output sent to browser
+DEBUG - 2015-05-05 22:45:44 --> Total execution time: 0.0420
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:45 --> Language Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:45:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Session Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:45:45 --> Session routines successfully run
+DEBUG - 2015-05-05 22:45:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:45:45 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:45:45 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:45:45 --> Final output sent to browser
+DEBUG - 2015-05-05 22:45:45 --> Total execution time: 0.0430
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Router Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Output Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Security Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Input Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:45:57 --> Language Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:45:57 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Session Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:45:57 --> Session routines successfully run
+DEBUG - 2015-05-05 22:45:57 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Model Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:45:57 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:45:57 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:45:57 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:45:57 --> Final output sent to browser
+DEBUG - 2015-05-05 22:45:57 --> Total execution time: 0.2109
+DEBUG - 2015-05-05 22:45:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:45:57 --> Config Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:45:57 --> URI Class Initialized
+DEBUG - 2015-05-05 22:45:57 --> Router Class Initialized
+ERROR - 2015-05-05 22:45:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:02 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:02 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Router Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Output Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Security Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Input Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:46:02 --> Language Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:46:02 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Session Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:46:02 --> Session routines successfully run
+DEBUG - 2015-05-05 22:46:02 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:46:02 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:46:02 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:46:02 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:46:02 --> Final output sent to browser
+DEBUG - 2015-05-05 22:46:02 --> Total execution time: 0.0463
+DEBUG - 2015-05-05 22:46:02 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:02 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:02 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:02 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:02 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:02 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:02 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:02 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:02 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:02 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:06 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:06 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Router Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Output Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Security Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Input Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:46:06 --> Language Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:46:06 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Session Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:46:06 --> Session routines successfully run
+DEBUG - 2015-05-05 22:46:06 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:46:06 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:46:06 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:46:06 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:46:06 --> Final output sent to browser
+DEBUG - 2015-05-05 22:46:06 --> Total execution time: 0.0454
+DEBUG - 2015-05-05 22:46:06 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:06 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:06 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:06 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:06 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:06 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:06 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:06 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:06 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:06 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:13 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:13 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Router Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Output Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Security Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Input Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:46:13 --> Language Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:46:13 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Session Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:46:13 --> Session routines successfully run
+DEBUG - 2015-05-05 22:46:13 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:46:13 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:46:13 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:46:13 --> XSS Filtering completed
+ERROR - 2015-05-05 22:46:13 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:46:13 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:13 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Router Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Output Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Security Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Input Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:46:13 --> Language Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:46:13 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Session Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:46:13 --> Session routines successfully run
+DEBUG - 2015-05-05 22:46:13 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:46:13 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:46:13 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:46:13 --> Final output sent to browser
+DEBUG - 2015-05-05 22:46:13 --> Total execution time: 0.2018
+DEBUG - 2015-05-05 22:46:13 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:13 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:13 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:13 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:13 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:13 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:13 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:13 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:13 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:13 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:32 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:32 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Router Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Output Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Security Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Input Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:46:32 --> Language Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:46:32 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Session Class Initialized
+DEBUG - 2015-05-05 22:46:32 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:46:33 --> Session routines successfully run
+DEBUG - 2015-05-05 22:46:33 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Model Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:46:33 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:46:33 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:46:33 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:46:33 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:46:33 --> Final output sent to browser
+DEBUG - 2015-05-05 22:46:33 --> Total execution time: 0.1814
+DEBUG - 2015-05-05 22:46:33 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:33 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:33 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:33 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:33 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:33 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:33 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:33 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:46:33 --> Config Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:46:33 --> URI Class Initialized
+DEBUG - 2015-05-05 22:46:33 --> Router Class Initialized
+ERROR - 2015-05-05 22:46:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:56 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Router Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Output Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Security Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Input Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:49:58 --> Language Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:49:58 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Session Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:49:58 --> Session routines successfully run
+DEBUG - 2015-05-05 22:49:58 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:49:58 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:49:58 --> Final output sent to browser
+DEBUG - 2015-05-05 22:49:58 --> Total execution time: 0.0368
+DEBUG - 2015-05-05 22:49:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:58 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:58 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:58 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:58 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Router Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Output Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Security Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Input Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:49:59 --> Language Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:49:59 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Session Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:49:59 --> Session routines successfully run
+DEBUG - 2015-05-05 22:49:59 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Model Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Model Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:49:59 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:49:59 --> Final output sent to browser
+DEBUG - 2015-05-05 22:49:59 --> Total execution time: 0.0378
+DEBUG - 2015-05-05 22:49:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:49:59 --> Config Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:49:59 --> URI Class Initialized
+DEBUG - 2015-05-05 22:49:59 --> Router Class Initialized
+ERROR - 2015-05-05 22:49:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:07 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:07 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Router Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Output Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Security Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Input Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:50:07 --> Language Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:50:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Session Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:50:07 --> Session routines successfully run
+DEBUG - 2015-05-05 22:50:07 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:50:07 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:50:07 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:50:07 --> Final output sent to browser
+DEBUG - 2015-05-05 22:50:07 --> Total execution time: 0.0432
+DEBUG - 2015-05-05 22:50:07 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:07 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:07 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:07 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:07 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:07 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:07 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:16 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:16 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Router Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Output Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Security Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Input Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:50:16 --> Language Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:50:16 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Session Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:50:16 --> Session garbage collection performed.
+DEBUG - 2015-05-05 22:50:16 --> Session routines successfully run
+DEBUG - 2015-05-05 22:50:16 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:50:16 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:50:16 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:50:16 --> XSS Filtering completed
+ERROR - 2015-05-05 22:50:16 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:50:16 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:16 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Router Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Output Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Security Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Input Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:50:16 --> Language Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:50:16 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:50:16 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Session Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:50:17 --> Session routines successfully run
+DEBUG - 2015-05-05 22:50:17 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:50:17 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:50:17 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:50:17 --> Final output sent to browser
+DEBUG - 2015-05-05 22:50:17 --> Total execution time: 0.2176
+DEBUG - 2015-05-05 22:50:17 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:17 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:17 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:17 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:17 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:17 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:17 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:17 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:17 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:17 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:50:42 --> Language Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:50:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:50:42 --> Session routines successfully run
+DEBUG - 2015-05-05 22:50:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:50:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:50:42 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:50:42 --> XSS Filtering completed
+ERROR - 2015-05-05 22:50:42 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:50:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:50:42 --> Language Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:50:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:50:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:50:43 --> Session routines successfully run
+DEBUG - 2015-05-05 22:50:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:50:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:50:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:50:43 --> Final output sent to browser
+DEBUG - 2015-05-05 22:50:43 --> Total execution time: 0.1962
+DEBUG - 2015-05-05 22:50:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:50:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:50:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:50:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:50:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:51:49 --> Language Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:51:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Session Class Initialized
+DEBUG - 2015-05-05 22:51:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:51:50 --> Session routines successfully run
+DEBUG - 2015-05-05 22:51:50 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:51:50 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:51:50 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:51:50 --> Final output sent to browser
+DEBUG - 2015-05-05 22:51:50 --> Total execution time: 0.2220
+DEBUG - 2015-05-05 22:51:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Hooks Class Initialized
+ERROR - 2015-05-05 22:51:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:50 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:50 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:51 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:51 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Output Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Security Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Input Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:51:51 --> Language Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:51:51 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Session Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:51:51 --> Session routines successfully run
+DEBUG - 2015-05-05 22:51:51 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:51:51 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:51:51 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:51:51 --> Final output sent to browser
+DEBUG - 2015-05-05 22:51:51 --> Total execution time: 0.0418
+DEBUG - 2015-05-05 22:51:51 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:51 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:51 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> URI Class Initialized
+ERROR - 2015-05-05 22:51:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:51 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:51 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:51 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:51 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Output Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Security Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Input Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:51:53 --> Language Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:51:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Session Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:51:53 --> Session routines successfully run
+DEBUG - 2015-05-05 22:51:53 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:51:53 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:51:53 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:51:53 --> XSS Filtering completed
+ERROR - 2015-05-05 22:51:53 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:51:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Router Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Output Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Security Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Input Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:51:53 --> Language Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:51:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Session Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:51:53 --> Session routines successfully run
+DEBUG - 2015-05-05 22:51:53 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:51:53 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:51:53 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:51:53 --> Final output sent to browser
+DEBUG - 2015-05-05 22:51:53 --> Total execution time: 0.1964
+DEBUG - 2015-05-05 22:51:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:51:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:51:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:51:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:51:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:38 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:38 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Router Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Output Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Security Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Input Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:52:38 --> Language Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:52:38 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Session Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:52:38 --> Session routines successfully run
+DEBUG - 2015-05-05 22:52:38 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:52:38 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:52:38 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:52:38 --> XSS Filtering completed
+ERROR - 2015-05-05 22:52:38 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:52:38 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:38 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Router Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Output Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Security Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Input Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:52:38 --> Language Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:52:38 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Session Class Initialized
+DEBUG - 2015-05-05 22:52:38 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:52:39 --> Session routines successfully run
+DEBUG - 2015-05-05 22:52:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:52:39 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:52:39 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:52:39 --> Final output sent to browser
+DEBUG - 2015-05-05 22:52:39 --> Total execution time: 0.1962
+DEBUG - 2015-05-05 22:52:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:52:40 --> Language Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:52:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Session Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:52:40 --> Session routines successfully run
+DEBUG - 2015-05-05 22:52:40 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:52:40 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:52:40 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:52:40 --> XSS Filtering completed
+ERROR - 2015-05-05 22:52:40 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:52:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:52:40 --> Language Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:52:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Session Class Initialized
+DEBUG - 2015-05-05 22:52:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:52:41 --> Session routines successfully run
+DEBUG - 2015-05-05 22:52:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Model Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:52:41 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:52:41 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:52:41 --> Final output sent to browser
+DEBUG - 2015-05-05 22:52:41 --> Total execution time: 0.3462
+DEBUG - 2015-05-05 22:52:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:52:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:52:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:52:41 --> Router Class Initialized
+ERROR - 2015-05-05 22:52:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:39 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:39 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:39 --> Session garbage collection performed.
+DEBUG - 2015-05-05 22:53:39 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:39 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:39 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:39 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:39 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:39 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:39 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:39 --> Session garbage collection performed.
+DEBUG - 2015-05-05 22:53:39 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:39 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:39 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:39 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:39 --> Total execution time: 0.2065
+DEBUG - 2015-05-05 22:53:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:39 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:39 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:39 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:40 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:40 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:40 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:40 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:40 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:40 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:40 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:40 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:40 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:40 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:40 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:40 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:40 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:40 --> Total execution time: 0.2251
+DEBUG - 2015-05-05 22:53:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:40 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:40 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:40 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:41 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:41 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:41 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:41 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:41 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:41 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:42 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:42 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:42 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:42 --> Total execution time: 0.1879
+DEBUG - 2015-05-05 22:53:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:43 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:43 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:43 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:43 --> Total execution time: 0.1315
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+ERROR - 2015-05-05 22:53:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:44 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:44 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:44 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:44 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:44 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:44 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:44 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:44 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:44 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:44 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:44 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:45 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:45 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:45 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:45 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:45 --> Total execution time: 0.2876
+DEBUG - 2015-05-05 22:53:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:45 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:46 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:46 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:46 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:46 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:46 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:46 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:46 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:46 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:46 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:46 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:46 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:46 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:46 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:46 --> Total execution time: 0.2298
+DEBUG - 2015-05-05 22:53:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:46 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:46 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:46 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:46 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:46 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:47 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:47 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:53:47 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:47 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:47 --> Total execution time: 0.1059
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:47 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:47 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:47 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:47 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 22:53:47 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:47 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:47 --> Total execution time: 0.0388
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:47 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:47 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:47 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:53 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:53 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:53 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:53 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:53 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:53 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:53 --> Total execution time: 0.0412
+DEBUG - 2015-05-05 22:53:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:53 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:53 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:53 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:55 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:55 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:55 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:55 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:55 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:55 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:55 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:53:55 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:53:55 --> XSS Filtering completed
+ERROR - 2015-05-05 22:53:55 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:53:55 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:55 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Router Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Output Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Security Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Input Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:53:55 --> Language Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:53:55 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Session Class Initialized
+DEBUG - 2015-05-05 22:53:55 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:53:56 --> Session routines successfully run
+DEBUG - 2015-05-05 22:53:56 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Model Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:53:56 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:53:56 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:53:56 --> Final output sent to browser
+DEBUG - 2015-05-05 22:53:56 --> Total execution time: 0.1876
+DEBUG - 2015-05-05 22:53:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:53:56 --> Config Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:53:56 --> URI Class Initialized
+DEBUG - 2015-05-05 22:53:56 --> Router Class Initialized
+ERROR - 2015-05-05 22:53:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:42 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:42 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:54:42 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:54:42 --> XSS Filtering completed
+ERROR - 2015-05-05 22:54:42 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:54:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:42 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:42 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:54:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:54:42 --> Final output sent to browser
+DEBUG - 2015-05-05 22:54:42 --> Total execution time: 0.2710
+DEBUG - 2015-05-05 22:54:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:43 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:43 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:54:43 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:54:43 --> XSS Filtering completed
+ERROR - 2015-05-05 22:54:43 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:54:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:43 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:43 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:54:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:54:43 --> Final output sent to browser
+DEBUG - 2015-05-05 22:54:43 --> Total execution time: 0.2015
+DEBUG - 2015-05-05 22:54:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:44 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:44 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:44 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:44 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:44 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:44 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:54:44 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:54:44 --> XSS Filtering completed
+ERROR - 2015-05-05 22:54:44 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:54:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Router Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Output Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Security Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Input Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:54:45 --> Language Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:54:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Session Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:54:45 --> Session routines successfully run
+DEBUG - 2015-05-05 22:54:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Model Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:54:45 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:54:45 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:54:45 --> Final output sent to browser
+DEBUG - 2015-05-05 22:54:45 --> Total execution time: 0.1968
+DEBUG - 2015-05-05 22:54:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:54:45 --> Config Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:54:45 --> URI Class Initialized
+DEBUG - 2015-05-05 22:54:45 --> Router Class Initialized
+ERROR - 2015-05-05 22:54:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:19 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:19 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:19 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:19 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:19 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:19 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:19 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:56:19 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:56:19 --> Final output sent to browser
+DEBUG - 2015-05-05 22:56:19 --> Total execution time: 0.1157
+DEBUG - 2015-05-05 22:56:19 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:19 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:19 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:19 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 22:56:19 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:19 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:19 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:19 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:19 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:20 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:20 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:20 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:20 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:20 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:20 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:20 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:56:20 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:56:20 --> Final output sent to browser
+DEBUG - 2015-05-05 22:56:20 --> Total execution time: 0.0462
+DEBUG - 2015-05-05 22:56:20 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:20 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:20 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 22:56:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:20 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:20 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:20 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:21 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:21 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:21 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:21 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:21 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:21 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:21 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:56:21 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:56:21 --> XSS Filtering completed
+ERROR - 2015-05-05 22:56:21 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:56:21 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:21 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:21 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:21 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:21 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:21 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:21 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:56:21 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:56:21 --> Final output sent to browser
+DEBUG - 2015-05-05 22:56:21 --> Total execution time: 0.2628
+DEBUG - 2015-05-05 22:56:21 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:21 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:21 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:21 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:21 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:21 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:21 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:24 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:24 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:24 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:24 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:24 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:24 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:24 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:24 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:56:24 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:56:24 --> XSS Filtering completed
+ERROR - 2015-05-05 22:56:24 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:56:25 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:25 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Router Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Output Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Security Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Input Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:56:25 --> Language Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:56:25 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Session Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:56:25 --> Session routines successfully run
+DEBUG - 2015-05-05 22:56:25 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Model Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:56:25 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:56:25 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:56:25 --> Final output sent to browser
+DEBUG - 2015-05-05 22:56:25 --> Total execution time: 0.1870
+DEBUG - 2015-05-05 22:56:25 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:25 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:25 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:25 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:25 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:25 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:56:25 --> Config Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:56:25 --> URI Class Initialized
+DEBUG - 2015-05-05 22:56:25 --> Router Class Initialized
+ERROR - 2015-05-05 22:56:25 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:29 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:29 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Router Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Output Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Security Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Input Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:57:29 --> Language Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:57:29 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Session Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:57:29 --> Session routines successfully run
+DEBUG - 2015-05-05 22:57:29 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Model Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Model Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:57:29 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:57:29 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:57:29 --> XSS Filtering completed
+ERROR - 2015-05-05 22:57:29 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:57:29 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:29 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Router Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 22:57:29 --> Output Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Security Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Input Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:57:29 --> Language Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:57:29 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Session Class Initialized
+DEBUG - 2015-05-05 22:57:29 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:57:30 --> Session routines successfully run
+DEBUG - 2015-05-05 22:57:30 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:57:30 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:57:30 --> Final output sent to browser
+DEBUG - 2015-05-05 22:57:30 --> Total execution time: 0.1901
+DEBUG - 2015-05-05 22:57:30 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:30 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:30 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:30 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:30 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:30 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:30 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:32 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:32 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:32 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:32 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:32 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:32 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:57:32 --> Config Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:57:32 --> URI Class Initialized
+DEBUG - 2015-05-05 22:57:32 --> Router Class Initialized
+ERROR - 2015-05-05 22:57:32 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Output Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Security Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Input Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:59:18 --> Language Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:59:18 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Session Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:59:18 --> Session routines successfully run
+DEBUG - 2015-05-05 22:59:18 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:59:18 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:59:18 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:59:18 --> Final output sent to browser
+DEBUG - 2015-05-05 22:59:18 --> Total execution time: 0.1306
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:18 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:18 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:18 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:41 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:41 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Router Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Output Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Security Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Input Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:59:41 --> Language Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:59:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:59:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Session Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:59:42 --> Session routines successfully run
+DEBUG - 2015-05-05 22:59:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 22:59:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:59:42 --> Final output sent to browser
+DEBUG - 2015-05-05 22:59:42 --> Total execution time: 0.0365
+DEBUG - 2015-05-05 22:59:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:42 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:42 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:42 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:43 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:43 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:43 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:59:49 --> Language Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:59:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Session Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:59:49 --> Session routines successfully run
+DEBUG - 2015-05-05 22:59:49 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:59:49 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 22:59:49 --> XSS Filtering completed
+DEBUG - 2015-05-05 22:59:49 --> XSS Filtering completed
+ERROR - 2015-05-05 22:59:49 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 38
+DEBUG - 2015-05-05 22:59:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Router Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Output Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Security Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Input Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 22:59:49 --> Language Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Loader Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 22:59:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Session Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 22:59:49 --> Session routines successfully run
+DEBUG - 2015-05-05 22:59:49 --> Controller Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Model Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 22:59:49 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 22:59:49 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 22:59:49 --> Final output sent to browser
+DEBUG - 2015-05-05 22:59:49 --> Total execution time: 0.1964
+DEBUG - 2015-05-05 22:59:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:49 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 22:59:49 --> Config Class Initialized
+DEBUG - 2015-05-05 22:59:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 22:59:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 22:59:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 22:59:50 --> URI Class Initialized
+DEBUG - 2015-05-05 22:59:50 --> Router Class Initialized
+ERROR - 2015-05-05 22:59:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:28 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:28 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Router Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Output Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Security Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Input Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:03:28 --> Language Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:03:28 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Session Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:03:28 --> Session routines successfully run
+DEBUG - 2015-05-05 23:03:28 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:03:28 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:03:28 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:03:28 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:03:28 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:28 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:03:28 --> Final output sent to browser
+DEBUG - 2015-05-05 23:03:28 --> Total execution time: 0.2060
+DEBUG - 2015-05-05 23:03:28 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:28 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Router Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Hooks Class Initialized
+ERROR - 2015-05-05 23:03:28 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:28 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:28 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:28 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:28 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:28 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:28 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:28 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:28 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Output Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Security Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Input Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:03:29 --> Language Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:03:29 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Session Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:03:29 --> Session routines successfully run
+DEBUG - 2015-05-05 23:03:29 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:03:29 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:03:29 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:03:29 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:03:29 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:29 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:03:29 --> Final output sent to browser
+DEBUG - 2015-05-05 23:03:29 --> Total execution time: 0.0415
+DEBUG - 2015-05-05 23:03:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:03:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:03:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:03:34 --> Session routines successfully run
+DEBUG - 2015-05-05 23:03:34 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:03:34 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:03:34 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:03:34 --> XSS Filtering completed
+ERROR - 2015-05-05 23:03:34 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 39
+DEBUG - 2015-05-05 23:03:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:03:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:03:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:03:34 --> Session routines successfully run
+DEBUG - 2015-05-05 23:03:34 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:03:34 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:03:34 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:03:34 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:03:34 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:03:34 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:03:34 --> Final output sent to browser
+DEBUG - 2015-05-05 23:03:34 --> Total execution time: 0.2049
+DEBUG - 2015-05-05 23:03:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:03:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:03:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:03:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:03:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:47 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:47 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Output Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Security Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Input Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:04:47 --> Language Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:04:47 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Session Class Initialized
+DEBUG - 2015-05-05 23:04:47 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:04:48 --> Session routines successfully run
+DEBUG - 2015-05-05 23:04:48 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:04:48 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:04:48 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:04:48 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:04:48 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:48 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:04:48 --> Final output sent to browser
+DEBUG - 2015-05-05 23:04:48 --> Total execution time: 0.1195
+DEBUG - 2015-05-05 23:04:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:48 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 23:04:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Output Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Security Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Input Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:04:52 --> Language Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:04:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Session Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:04:52 --> Session routines successfully run
+DEBUG - 2015-05-05 23:04:52 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:04:52 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:04:52 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:04:52 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:04:52 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:52 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:04:52 --> Final output sent to browser
+DEBUG - 2015-05-05 23:04:52 --> Total execution time: 0.0455
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Output Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Security Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Input Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:04:53 --> Language Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:04:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Session Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:04:53 --> Session routines successfully run
+DEBUG - 2015-05-05 23:04:53 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:04:53 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:04:53 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:04:53 --> XSS Filtering completed
+ERROR - 2015-05-05 23:04:53 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 39
+DEBUG - 2015-05-05 23:04:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Output Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Security Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Input Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:04:53 --> Language Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:04:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Session Class Initialized
+DEBUG - 2015-05-05 23:04:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:04:54 --> Session routines successfully run
+DEBUG - 2015-05-05 23:04:54 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:04:54 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:04:54 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:04:54 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:04:54 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:54 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:04:54 --> Final output sent to browser
+DEBUG - 2015-05-05 23:04:54 --> Total execution time: 0.2375
+DEBUG - 2015-05-05 23:04:54 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:54 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:54 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:54 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:54 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:54 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:54 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:54 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:54 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:54 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Output Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Security Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Input Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:04:59 --> Language Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:04:59 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Session Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:04:59 --> Session garbage collection performed.
+DEBUG - 2015-05-05 23:04:59 --> Session routines successfully run
+DEBUG - 2015-05-05 23:04:59 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Model Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:04:59 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:04:59 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:04:59 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:04:59 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:04:59 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:04:59 --> Final output sent to browser
+DEBUG - 2015-05-05 23:04:59 --> Total execution time: 0.1210
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+ERROR - 2015-05-05 23:04:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:04:59 --> Config Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:04:59 --> URI Class Initialized
+DEBUG - 2015-05-05 23:04:59 --> Router Class Initialized
+ERROR - 2015-05-05 23:04:59 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:05:04 --> Config Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:05:04 --> URI Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Router Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Output Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Security Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Input Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:05:04 --> Language Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:05:04 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Session Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:05:04 --> Session routines successfully run
+DEBUG - 2015-05-05 23:05:04 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Model Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Model Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:05:04 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:05:04 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:05:04 --> XSS Filtering completed
+ERROR - 2015-05-05 23:05:04 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 39
+DEBUG - 2015-05-05 23:05:04 --> Config Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:05:04 --> URI Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Router Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Output Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Security Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Input Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:05:04 --> Language Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:05:04 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Session Class Initialized
+DEBUG - 2015-05-05 23:05:04 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:05:05 --> Session routines successfully run
+DEBUG - 2015-05-05 23:05:05 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Model Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Model Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:05:05 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:05:05 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:05:05 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:05:05 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:05:05 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:05:05 --> Final output sent to browser
+DEBUG - 2015-05-05 23:05:05 --> Total execution time: 0.2246
+DEBUG - 2015-05-05 23:05:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:05:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:05:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:05:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:05:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:05:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:05:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:05:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:05:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:05:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Output Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Security Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Input Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:06:14 --> Language Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:06:14 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Session Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:06:14 --> Session routines successfully run
+DEBUG - 2015-05-05 23:06:14 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Model Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Model Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:06:14 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:06:14 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:06:14 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:06:14 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:06:14 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:06:14 --> Final output sent to browser
+DEBUG - 2015-05-05 23:06:14 --> Total execution time: 0.1266
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+ERROR - 2015-05-05 23:06:14 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+ERROR - 2015-05-05 23:06:14 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+ERROR - 2015-05-05 23:06:14 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+ERROR - 2015-05-05 23:06:14 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:06:14 --> Config Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:06:14 --> URI Class Initialized
+DEBUG - 2015-05-05 23:06:14 --> Router Class Initialized
+ERROR - 2015-05-05 23:06:14 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:16 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:16 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Router Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Output Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Security Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Input Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:15:16 --> Language Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:15:16 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Session Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:15:16 --> Session routines successfully run
+DEBUG - 2015-05-05 23:15:16 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:15:16 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:15:16 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:15:16 --> Final output sent to browser
+DEBUG - 2015-05-05 23:15:16 --> Total execution time: 0.1210
+DEBUG - 2015-05-05 23:15:16 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:16 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:16 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:16 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:16 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:16 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:16 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:16 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:16 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:16 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Router Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Output Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Security Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Input Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:15:29 --> Language Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:15:29 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Session Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:15:29 --> Session routines successfully run
+DEBUG - 2015-05-05 23:15:29 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:15:29 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:15:29 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:15:29 --> Final output sent to browser
+DEBUG - 2015-05-05 23:15:29 --> Total execution time: 0.0415
+DEBUG - 2015-05-05 23:15:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:29 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:29 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:29 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:29 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:30 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:30 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Router Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Output Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Security Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Input Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:15:30 --> Language Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:15:30 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Session Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:15:30 --> Session routines successfully run
+DEBUG - 2015-05-05 23:15:30 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:15:30 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:15:30 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:15:30 --> Final output sent to browser
+DEBUG - 2015-05-05 23:15:30 --> Total execution time: 0.0423
+DEBUG - 2015-05-05 23:15:30 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:30 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:30 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:30 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:30 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:30 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:30 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Router Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Output Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Security Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Input Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:15:56 --> Language Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:15:56 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Session Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:15:56 --> Session routines successfully run
+DEBUG - 2015-05-05 23:15:56 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Model Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:15:56 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:15:56 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:15:56 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:15:56 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:15:56 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:15:56 --> Final output sent to browser
+DEBUG - 2015-05-05 23:15:56 --> Total execution time: 0.0419
+DEBUG - 2015-05-05 23:15:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Router Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:56 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 23:15:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:15:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:15:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:15:56 --> Router Class Initialized
+ERROR - 2015-05-05 23:15:56 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:00 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:00 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:00 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:00 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:00 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:00 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:00 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:00 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:16:00 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:16:00 --> XSS Filtering completed
+ERROR - 2015-05-05 23:16:00 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:16:01 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:01 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:01 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:01 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:01 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:01 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:01 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:16:01 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:16:01 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:16:01 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:01 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:16:01 --> Final output sent to browser
+DEBUG - 2015-05-05 23:16:01 --> Total execution time: 0.2000
+DEBUG - 2015-05-05 23:16:01 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:01 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:01 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:01 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:01 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:01 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:01 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:01 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:19 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:19 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:19 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:19 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:19 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:19 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:19 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:19 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:16:19 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:16:19 --> XSS Filtering completed
+ERROR - 2015-05-05 23:16:19 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:16:20 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:20 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:20 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:20 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:20 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:20 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:20 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:16:20 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:16:20 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:16:20 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:20 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:16:20 --> Final output sent to browser
+DEBUG - 2015-05-05 23:16:20 --> Total execution time: 0.1877
+DEBUG - 2015-05-05 23:16:20 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:20 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:20 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:20 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:20 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:20 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:20 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:21 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:21 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:21 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:21 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:21 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:21 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:21 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:16:21 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:16:21 --> XSS Filtering completed
+ERROR - 2015-05-05 23:16:21 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:16:21 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:21 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Router Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Output Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Security Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Input Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:16:21 --> Language Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:16:21 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Session Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:16:21 --> Session routines successfully run
+DEBUG - 2015-05-05 23:16:21 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Model Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:16:21 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:16:21 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:16:21 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:16:21 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:16:21 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:16:21 --> Final output sent to browser
+DEBUG - 2015-05-05 23:16:21 --> Total execution time: 0.2296
+DEBUG - 2015-05-05 23:16:21 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:21 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:21 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:21 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:16:21 --> Config Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:16:21 --> URI Class Initialized
+DEBUG - 2015-05-05 23:16:21 --> Router Class Initialized
+ERROR - 2015-05-05 23:16:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:17:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:41 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:41 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:41 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:41 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:41 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:17:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:43 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:43 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:43 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:43 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:17:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:44 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:44 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:44 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:44 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:17:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:44 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:44 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:44 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:44 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:17:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:45 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:45 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:45 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:45 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:17:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:17:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Router Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Output Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Security Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Input Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:17:45 --> Language Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:17:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Session Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:17:45 --> Session routines successfully run
+DEBUG - 2015-05-05 23:17:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:17:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:17:45 --> Form Validation Class Initialized
+ERROR - 2015-05-05 23:17:45 --> 404 Page Not Found --> connection/login
+DEBUG - 2015-05-05 23:18:47 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:47 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Output Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Security Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Input Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:18:47 --> Language Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:18:47 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Session Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:18:47 --> Session routines successfully run
+DEBUG - 2015-05-05 23:18:47 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:18:47 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:18:47 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:18:47 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:18:47 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:18:47 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:47 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:18:47 --> Final output sent to browser
+DEBUG - 2015-05-05 23:18:47 --> Total execution time: 0.0413
+DEBUG - 2015-05-05 23:18:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:48 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:48 --> 404 Page Not Found --> assets
+ERROR - 2015-05-05 23:18:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Output Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Security Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Input Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:18:49 --> Language Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:18:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Session Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:18:49 --> Session routines successfully run
+DEBUG - 2015-05-05 23:18:49 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:18:49 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:18:49 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:18:49 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:18:49 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:49 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:18:49 --> Final output sent to browser
+DEBUG - 2015-05-05 23:18:49 --> Total execution time: 0.0430
+DEBUG - 2015-05-05 23:18:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Hooks Class Initialized
+ERROR - 2015-05-05 23:18:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:49 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Output Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Security Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Input Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:18:56 --> Language Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:18:56 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Session Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:18:56 --> Session routines successfully run
+DEBUG - 2015-05-05 23:18:56 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:18:56 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:18:56 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:18:56 --> XSS Filtering completed
+ERROR - 2015-05-05 23:18:56 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:18:56 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:56 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Router Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Output Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Security Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Input Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:18:56 --> Language Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:18:56 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Session Class Initialized
+DEBUG - 2015-05-05 23:18:56 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:18:57 --> Session routines successfully run
+DEBUG - 2015-05-05 23:18:57 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Model Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:18:57 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:18:57 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:18:57 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:18:57 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:18:57 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:18:57 --> Final output sent to browser
+DEBUG - 2015-05-05 23:18:57 --> Total execution time: 0.3022
+DEBUG - 2015-05-05 23:18:57 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:57 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:57 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:57 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:18:57 --> Config Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:18:57 --> URI Class Initialized
+DEBUG - 2015-05-05 23:18:57 --> Router Class Initialized
+ERROR - 2015-05-05 23:18:57 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:03 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:03 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:03 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:03 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:03 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:03 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:03 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:03 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:03 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:03 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:05 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:05 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:05 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:05 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:21:05 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:05 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:05 --> Total execution time: 0.2630
+DEBUG - 2015-05-05 23:21:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:05 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:05 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:05 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:05 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:07 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:07 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:07 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:07 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:07 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:07 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:21:07 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:07 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:21:07 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:07 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:21:07 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:07 --> Total execution time: 0.0408
+DEBUG - 2015-05-05 23:21:07 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:07 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:07 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:07 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:07 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:07 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:07 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:09 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:09 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:09 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:09 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:09 --> Session garbage collection performed.
+DEBUG - 2015-05-05 23:21:09 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:09 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:09 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:21:09 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:21:09 --> XSS Filtering completed
+ERROR - 2015-05-05 23:21:09 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:21:09 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:09 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:09 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:09 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:09 --> Session garbage collection performed.
+DEBUG - 2015-05-05 23:21:09 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:09 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:09 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:21:09 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:09 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:21:09 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:09 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:21:09 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:09 --> Total execution time: 0.2064
+DEBUG - 2015-05-05 23:21:09 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:09 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:09 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:09 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:09 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:09 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:09 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:09 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:09 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:09 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:10 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:10 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:10 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:10 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:10 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:10 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:10 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:10 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:21:10 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:21:10 --> XSS Filtering completed
+ERROR - 2015-05-05 23:21:10 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:21:11 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:11 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:11 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:11 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:11 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:11 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:11 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:21:11 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:11 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:21:11 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:11 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:21:11 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:11 --> Total execution time: 0.2129
+DEBUG - 2015-05-05 23:21:11 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:11 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:11 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:11 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:11 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:11 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:11 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:11 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:11 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:11 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:18 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:18 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:18 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:18 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:18 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:18 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:18 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:21:18 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:21:18 --> XSS Filtering completed
+ERROR - 2015-05-05 23:21:18 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:21:18 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:18 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:18 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:18 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:18 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:18 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:18 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:21:18 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:18 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:21:18 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:18 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:21:18 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:18 --> Total execution time: 0.1989
+DEBUG - 2015-05-05 23:21:18 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:18 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:18 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:18 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:18 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:18 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:18 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:34 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:34 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:34 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:21:34 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:21:34 --> XSS Filtering completed
+ERROR - 2015-05-05 23:21:34 --> Severity: Notice  --> Undefined variable: username C:\wamp\www\dontforgetthelyrics\application\controllers\connection.php 40
+DEBUG - 2015-05-05 23:21:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:21:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:21:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:21:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:21:35 --> Session routines successfully run
+DEBUG - 2015-05-05 23:21:35 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:21:35 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:21:35 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:21:35 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:21:35 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:21:35 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:21:35 --> Final output sent to browser
+DEBUG - 2015-05-05 23:21:35 --> Total execution time: 0.2184
+DEBUG - 2015-05-05 23:21:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:21:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:21:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:21:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:21:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:35 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:35 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:35 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:22:35 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:35 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:22:35 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:22:35 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:22:35 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:35 --> Total execution time: 0.1785
+DEBUG - 2015-05-05 23:22:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:35 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> URI Class Initialized
+ERROR - 2015-05-05 23:22:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:38 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:38 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:38 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:38 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:38 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:38 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:38 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:38 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:22:38 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:22:38 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:22:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:22:39 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:39 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:39 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:39 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:39 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:39 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:39 --> Total execution time: 0.0376
+DEBUG - 2015-05-05 23:22:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:40 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:40 --> Session garbage collection performed.
+DEBUG - 2015-05-05 23:22:40 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:40 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:40 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:40 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:40 --> Total execution time: 0.0368
+DEBUG - 2015-05-05 23:22:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:40 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:41 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:41 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:41 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:22:41 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:41 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:41 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:41 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:41 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:41 --> Total execution time: 0.0376
+DEBUG - 2015-05-05 23:22:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:41 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:42 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:42 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:22:42 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:42 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:42 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:42 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:42 --> Total execution time: 0.0384
+DEBUG - 2015-05-05 23:22:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:43 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:43 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:22:43 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:43 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:43 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:43 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:43 --> Total execution time: 0.0349
+DEBUG - 2015-05-05 23:22:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:44 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:44 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Model Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:22:44 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Router Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:22:44 --> Output Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Security Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Input Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:22:44 --> Language Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:22:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Session Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:22:44 --> Session routines successfully run
+DEBUG - 2015-05-05 23:22:44 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:22:44 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:22:44 --> Final output sent to browser
+DEBUG - 2015-05-05 23:22:44 --> Total execution time: 0.0386
+DEBUG - 2015-05-05 23:22:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:22:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:22:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:22:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:22:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:33 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:33 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:33 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:33 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:33 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:33 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:33 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:33 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:33 --> Total execution time: 0.0363
+DEBUG - 2015-05-05 23:23:33 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:33 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:33 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:33 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:33 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:33 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:33 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:33 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:34 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:34 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:34 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 23:23:34 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:34 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:34 --> Total execution time: 0.0388
+DEBUG - 2015-05-05 23:23:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:34 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:34 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:34 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:35 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:35 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:35 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:35 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:35 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:35 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:35 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:35 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:35 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:35 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:35 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:35 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:35 --> Total execution time: 0.0359
+DEBUG - 2015-05-05 23:23:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:35 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:35 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:35 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:35 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:36 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:36 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:36 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:36 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:36 --> Session garbage collection performed.
+DEBUG - 2015-05-05 23:23:36 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:36 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:36 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:36 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:36 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:37 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:37 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:37 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:37 --> A session cookie was not found.
+DEBUG - 2015-05-05 23:23:37 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:37 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:37 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:37 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:37 --> Total execution time: 0.1084
+DEBUG - 2015-05-05 23:23:37 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:37 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:37 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:37 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:37 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:37 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:37 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:37 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:37 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:37 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:38 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:38 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:38 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:38 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:38 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:38 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 23:23:38 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:38 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:38 --> Total execution time: 0.0379
+DEBUG - 2015-05-05 23:23:38 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:38 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:38 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:38 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:38 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:38 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:38 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:38 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:38 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:38 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:39 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:39 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:39 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:39 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:39 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:39 --> Total execution time: 0.0355
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:39 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:39 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:39 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:39 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:39 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:23:39 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:39 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:23:39 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:39 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:23:39 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:39 --> Total execution time: 0.0409
+DEBUG - 2015-05-05 23:23:39 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:39 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:39 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:39 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:40 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:40 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:40 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:41 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:41 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:41 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:41 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:41 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:41 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:41 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:41 --> A session cookie was not found.
+DEBUG - 2015-05-05 23:23:42 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:42 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:42 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:42 --> Total execution time: 0.2000
+DEBUG - 2015-05-05 23:23:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:42 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:42 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:42 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:43 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:43 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:43 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:43 --> Total execution time: 0.0363
+DEBUG - 2015-05-05 23:23:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:43 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:43 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:43 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:43 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:43 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:43 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:43 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-05 23:23:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:43 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-05 23:23:43 --> Helper loaded: text_helper
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-05 23:23:43 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-05 23:23:43 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:43 --> Total execution time: 0.0414
+DEBUG - 2015-05-05 23:23:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:44 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:44 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:44 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:45 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:45 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:45 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-05 23:23:45 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:23:45 --> XSS Filtering completed
+DEBUG - 2015-05-05 23:23:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:45 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:45 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:45 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:45 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:45 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:45 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:45 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:45 --> Total execution time: 0.0369
+DEBUG - 2015-05-05 23:23:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:45 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:45 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:45 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:45 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:46 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:46 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:46 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:46 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:46 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:46 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 23:23:46 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:46 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:46 --> Total execution time: 0.0399
+DEBUG - 2015-05-05 23:23:46 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:46 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:46 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:46 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:46 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:46 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:46 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:46 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:48 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:48 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:48 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:48 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:48 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:48 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:48 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:48 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:48 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:48 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:48 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:48 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:48 --> Total execution time: 0.0377
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:48 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:48 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:48 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:48 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 23:23:48 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:48 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:48 --> Total execution time: 0.0379
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:48 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:48 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:48 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:48 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:49 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:49 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:49 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:49 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:49 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:49 --> Total execution time: 0.0372
+DEBUG - 2015-05-05 23:23:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:49 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:49 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:49 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:50 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:50 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:50 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:50 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:50 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:50 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:50 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:50 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:50 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:50 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:50 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:50 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:50 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:50 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:50 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:50 --> Total execution time: 0.0355
+DEBUG - 2015-05-05 23:23:50 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:50 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:50 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:50 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:50 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:50 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:50 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:50 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:51 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:51 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:51 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:51 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:51 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:51 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:51 --> Total execution time: 0.0360
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:51 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:51 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:51 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:51 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-05 23:23:51 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:51 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:51 --> Total execution time: 0.0387
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:51 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:51 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:51 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:51 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:52 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:52 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:52 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:52 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:52 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:52 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:52 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:52 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:52 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:52 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:52 --> Total execution time: 0.0381
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:52 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:52 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:52 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Model Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: form_helper
+DEBUG - 2015-05-05 23:23:52 --> Form Validation Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:52 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> No URI present. Default controller set.
+DEBUG - 2015-05-05 23:23:52 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:52 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:52 --> A session cookie was not found.
+DEBUG - 2015-05-05 23:23:52 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:52 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:52 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:52 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:52 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:52 --> Total execution time: 0.1855
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Output Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Security Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Input Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-05 23:23:53 --> Language Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Loader Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Helper loaded: url_helper
+DEBUG - 2015-05-05 23:23:53 --> Database Driver Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Session Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Helper loaded: string_helper
+DEBUG - 2015-05-05 23:23:53 --> Session routines successfully run
+DEBUG - 2015-05-05 23:23:53 --> Controller Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> File loaded: application/views/home.php
+DEBUG - 2015-05-05 23:23:53 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-05 23:23:53 --> Final output sent to browser
+DEBUG - 2015-05-05 23:23:53 --> Total execution time: 0.0350
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-05 23:23:53 --> Config Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Hooks Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Utf8 Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-05-05 23:23:53 --> URI Class Initialized
+DEBUG - 2015-05-05 23:23:53 --> Router Class Initialized
+ERROR - 2015-05-05 23:23:53 --> 404 Page Not Found --> assets
