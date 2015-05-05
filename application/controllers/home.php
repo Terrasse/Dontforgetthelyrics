@@ -11,11 +11,7 @@ class Home extends MY_Controller {
 	}
 	
 	public function index()
-	{	
-		
-		// Modeles
-		// $this->load->model('nouvelles/modnouvelles');
-
+	{
 		$this->layout->view('home');
 	}
 }

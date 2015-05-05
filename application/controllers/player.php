@@ -1,7 +1,8 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Accueil extends MY_Controller {
+class Player extends MY_Controller {
 	
+	//Constructor
 	public function __construct()
 	{
 		parent::__construct();
@@ -11,11 +12,7 @@ class Accueil extends MY_Controller {
 	}
 	
 	public function index()
-	{	
-		
-		// Modeles
-		// $this->load->model('nouvelles/modnouvelles');
-
-		$this->layout->view('player');
+	{
+		$this->layout->view('Profile/player_profile');
 	}
 }
