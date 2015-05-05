@@ -33,11 +33,11 @@ class Player extends MY_Controller {
 		if ($query_player->num_rows() > 0)
 		{
 			$premiereboucle = true;
-			foreach($query_recup->result() as $row)
+			foreach($query_player->result() as $row)
 			{
 				$datas_player['username'] = $row->username;
 				$datas_player['password'] = $row->password;
-				$datas_player['bestResult'] = $row->bestResult;
+				$datas_player['best_result'] = $row->best_result;
 			}
 		}
 			

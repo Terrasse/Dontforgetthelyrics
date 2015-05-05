@@ -1,13 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.1.14
+-- version 3.5.1
 -- http://www.phpmyadmin.net
 --
--- Client :  127.0.0.1
--- Généré le :  Mar 05 Mai 2015 à 19:35
--- Version du serveur :  5.6.17
--- Version de PHP :  5.5.12
+-- Client: localhost
+-- Généré le: Mar 05 Mai 2015 à 19:48
+-- Version du serveur: 5.5.24-log
+-- Version de PHP: 5.3.13
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de données :  `aig_fr`
+-- Base de données: `aig_fr`
 --
 
 -- --------------------------------------------------------
@@ -41,7 +41,8 @@ CREATE TABLE IF NOT EXISTS `ci_sessions` (
 --
 
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
-('3423934dc529a59aa79c781a136ca829', '127.0.0.1', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0', 1430847283, '');
+('1b4bb409aee8e0fcd2742e71c9bb7317', '127.0.0.1', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0', 1430850785, ''),
+('28862e918ca17f93c97d87befe9eb54a', '127.0.0.1', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0', 1430854892, '');
 
 -- --------------------------------------------------------
 
@@ -51,8 +52,8 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 
 CREATE TABLE IF NOT EXISTS `player` (
   `id_player` int(11) NOT NULL AUTO_INCREMENT,
-  `username_player` varchar(50) NOT NULL,
-  `top_score` int(11) NOT NULL,
+  `username` varchar(50) NOT NULL,
+  `best_result` int(11) NOT NULL,
   `password` varchar(50) NOT NULL,
   PRIMARY KEY (`id_player`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
@@ -61,7 +62,7 @@ CREATE TABLE IF NOT EXISTS `player` (
 -- Contenu de la table `player`
 --
 
-INSERT INTO `player` (`id_player`, `username_player`, `top_score`, `password`) VALUES
+INSERT INTO `player` (`id_player`, `username`, `best_result`, `password`) VALUES
 (1, 'Choudoor', 50, 'test');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

@@ -29,7 +29,7 @@
 					<a href="<?php echo site_url('home'); ?>">
 						<div class="menu_bouton menu_accueil">ACCUEIL</div>
 					</a>
-					<a href="<?php echo site_url('player/profile/'); ?>Choudoor">
+					<a href="<?php echo site_url('profile/1'); ?>">
 						<div class="menu_bouton menu_accueil">PLAYER</div>
 					</a>
 				</div>

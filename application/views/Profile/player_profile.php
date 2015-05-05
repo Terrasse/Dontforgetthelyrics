@@ -1,1 +1,1 @@
-PLAYER PROFILE
+<?php echo $username.' '.$password; ?>
