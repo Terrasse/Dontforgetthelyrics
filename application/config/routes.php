@@ -47,30 +47,14 @@
 $route['default_controller'] = "home";
 $route['404_override'] = '';
 
+
 // /////////////////////////////////////////////////////////////////////
-// //////////////////////// FONCTIONS ADMINS ///////////////////////////
+// //////////////////////// FONCTIONS DFTL /////////////////////////////
 // /////////////////////////////////////////////////////////////////////
 
-// NOUVELLE
-$route['admin/nouvelle/editer/([0-9]+)'] = 'admin/editer_nouvelle/$1';
-$route['admin/nouvelle/supprimer/([0-9]+)'] = 'admin/supprimer_nouvelle/$1';
-$route['admin/nouvelle/ecrire'] = 'admin/ecrire_nouvelle';
 
-// CAROUSEL
-$route['admin/carousel/ajout'] = 'admin/ajout_carousel';
-$route['admin/carousel/modif'] = 'admin/modif_carousel';
-$route['admin/carousel/accueil'] = 'admin/accueil_carousel';
-$route['admin/carousel/modif/([0-9]+)'] = 'admin/modif_carousel/$1';
+$route['player'] = 'player';
 
-// PAGE
-$route['admin/page/editer/(.*)'] = 'admin/editer_page/$1';
-
-// PRODUITS
-$route['admin/produits'] = 'admin/accueil_produits';
-$route['admin/produits/([0-9]+)'] = 'admin/produits/$1';
-$route['admin/menu/ajout/([0-9]+)'] = 'admin/ajout_menu/$1';
-$route['admin/ajout/galerie/([0-9]+)'] = 'admin/ajout_image_galerie/$1';
-$route['admin/produit/([0-9]+)/galerie/supprimer/image/(.*)'] = 'admin/supprimer_image_galerie/$1/$2';
 
 // ////////////////////////////////////////////////////////////////////
 // //////////////////////// FONCTIONS CLASSIQUES //////////////////////

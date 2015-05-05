@@ -1,22 +1,17 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Music extends CI_Model
+class Music_model extends CI_Model
 {
-	protected $id = '';
-	protected $path = '';
-	protected $title = '';
+	protected $tMusic = 'music';
 	
 	/**
-	 *	Ajoute un produit
+	 *	Add a music to the db
 	 */
-	public function ajouter_produits($libelle_produit, $description, $id_gamme, $lien_demo)
+	public function add_music($path, $title)
 	{
 		//	Ces données seront automatiquement échappées
-		$this->db->set('libelle_produit',   $libelle_produit);
-		$this->db->set('description', $description);
-		$this->db->set('id_gamme', $id_gamme);
-		$this->db->set('id_menu', $id_gamme);
-		$this->db->set('lien_demo', $lien_demo);
+		$this->db->set('title', $title);
+		$this->db->set('path', $path);
 		
 		//	Ces données ne seront pas échappées
 		// $this->db->set('date', 'NOW()', false);
@@ -49,18 +44,16 @@ class Music extends CI_Model
 		return $this->db->update($this->produits);
 	}
 	
-	public function editer_produits_fiche_pdf($id_produit, $lien_fiche_image = null, $lien_fiche = null)
+	public function update_music($id_music, $path = null, $title = null)
 	{
 		//	Il n'y a rien à éditer
-		if($lien_fiche == null AND $lien_fiche_image == null)
+		if($path == null AND $title == null)
 		{
 			return false;
 		}
 		
-		if($lien_fiche_image != null)
-			$this->db->set('lien_fiche_image', $lien_fiche_image);
-		else
-			$this->db->set('lien_fiche_image', 'defaut.png');
+		if($path != null)
+			$this->db->set('path', $path);
 		
 		if($lien_fiche != null)
 		{
@@ -73,15 +66,13 @@ class Music extends CI_Model
 		return $this->db->update($this->produits);
 	}
 	
-	
-	
 	/**
-	 *	Supprime un produit
+	 *	Remove a music from the db
 	 */
-	public function supprimer_produit($id_p)
+	public function remove_music($id_music)
 	{
-		return $this->db->where('id_produit', $id_p)
-						->delete($this->produits);
+		return $this->db->where('id_music', $id_music)
+						->delete($this->tMusic);
 	}
 	
 	/**
