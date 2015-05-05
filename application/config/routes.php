@@ -44,7 +44,7 @@
 
 
 // DEFAUT
-$route['default_controller'] = "accueil";
+$route['default_controller'] = "home";
 $route['404_override'] = '';
 
 // /////////////////////////////////////////////////////////////////////

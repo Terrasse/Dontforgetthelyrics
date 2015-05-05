@@ -16,6 +16,6 @@ class Accueil extends MY_Controller {
 		// Modeles
 		// $this->load->model('nouvelles/modnouvelles');
 
-		$this->layout->view('accueil');
+		$this->layout->view('player');
 	}
 }
