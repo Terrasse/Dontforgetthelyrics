@@ -9,6 +9,9 @@ class Player extends MY_Controller {
 	
 		// Bibliothèque de chargment des vues de template
 		$this->load->library('layout');
+		
+		// Modeles
+		$this->load->model('player_class');
 	}
 	
 	public function index()
@@ -17,6 +20,27 @@ class Player extends MY_Controller {
 		// Modeles
 		// $this->load->model('nouvelles/modnouvelles');
 
-		$this->layout->view('profile/player_profile');
+		// $this->layout->view('profile/player_profile');
+	}
+	
+	public function profile($id_player)
+	{	
+		
+		// Modeles
+		// $this->load->model('nouvelles/modnouvelles');
+		
+		$query_player = $this->player_class->getPlayer($id_player);
+		if ($query_player->num_rows() > 0)
+		{
+			$premiereboucle = true;
+			foreach($query_recup->result() as $row)
+			{
+				$datas_player['username'] = $row->username;
+				$datas_player['password'] = $row->password;
+				$datas_player['bestResult'] = $row->bestResult;
+			}
+		}
+			
+		$this->layout->view('profile/player_profile', $datas_player);
 	}
 }
