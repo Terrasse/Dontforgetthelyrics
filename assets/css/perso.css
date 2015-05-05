@@ -1,0 +1,2070 @@
+body {
+	margin : 0px;
+	padding: 0px;
+	font-family : Calibri, Arial, Verdana, sans-serif;
+	background-color : white/*#e3e3e3*/;
+	width : 100%;
+	height : 100%;
+}
+
+input, textarea { 
+    padding: 9px; 
+    border: solid 1px #E5E5E5; 
+    outline: 0; 
+    font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+    width: 200px; 
+    background: #FFFFFF url('bg_form.png') left top repeat-x; 
+    background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF)); 
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px); 
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 2px; 
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 2px; 
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 2px;  
+    }
+	
+input:hover, textarea:hover, 
+input:focus, textarea:focus { 
+    border-color: #C9C9C9; 
+    -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px; 
+}
+
+select {
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+
+a {
+	text-decoration: none;
+}
+
+.btn_ok { 
+	width: auto; 
+	padding: 9px 15px; 
+	background: #067451; 
+	border: 0; 
+	font-size: 14px; 
+	color: #FFFFFF; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+}
+
+.btn_ok:hover{
+	padding: 8px 14px;
+	border: 1px solid #067451;
+	background: #00A150;
+}
+
+.btn_delete { 
+	width: auto; 
+	padding: 9px 15px; 
+	background: #ff3600; 
+	border: 0; 
+	font-size: 14px; 
+	color: #FFFFFF; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+}
+
+.btn_delete:hover{
+	padding: 8px 14px;
+	border: 1px solid #ff3600;
+	background: #ff7800;
+}
+
+.floatable {
+	position: fixed;
+	top: 0;
+}
+
+.bouton_contact {
+	color: white;
+	margin: 15px 20px 0 20px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 18;
+	text-align: center;
+	width: 240px;
+	vertical-align: middle;
+	background: #00a150;
+	border-bottom: 4px solid #01795e;
+}
+
+.bouton_contact:hover {
+	color: white;
+	vertical-align: middle;
+	background: #CB2222;
+	border-bottom: 4px solid #600909;
+}
+
+#site {
+	/*background : url("../images/bg.png") top center no-repeat;
+	*/
+	min-height : 800px;
+	margin : auto;
+}
+
+#main {
+	background-color: white;
+	margin : auto;
+	width: 1200px;
+}
+
+
+
+
+
+
+
+/* 
+   ============================================================================================
+   ===================================== GROUPE ALLIANCES =====================================
+   ============================================================================================
+*/
+
+#panel_aig .slide-up,
+#panel_aifc  .slide-up
+{
+	background: #a5a5a5;
+	margin: 20px;
+	height: 460px; /* Égal à la hauteur de l'image */
+	width: 560px; /* Égal à la largeur de l'image */
+	overflow: hidden;
+	position: relative;
+}
+
+#panel_aig  div img,
+#panel_aifc  div img
+{
+	left: 0;
+	position: absolute;
+	top: 0;
+	transition: transform 0.5s ease-in-out;
+	-moz-transition: -moz-transform 0.5s ease-in-out;
+	-o-transition: -o-transform 0.5s ease-in-out;
+	-webkit-transition: -webkit-transform 0.5s ease-in-out
+}
+
+
+#panel_aig .slide-up:hover img,
+#panel_aifc .slide-up:hover img
+{
+	transform: translateY(-160px); /* Valeur négative égale à la hauteur de l'image */
+	-moz-transform: translateY(-160px);
+	-o-transform: translateY(-160px);
+	-webkit-transform: translateY(-160px);
+}
+
+.panel_lien{
+	width: 550px;
+	height: 30px;
+	position:absolute;
+	bottom:0px;
+	background-color: #067451;
+	color: white;
+	font-size: 18px;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.panel_lien:hover {
+	background-color: #cb2222;
+	color: white;
+}
+
+
+.apercu_panel {
+	padding: 260px 5px 0px 5px;
+	width: 550px;
+	height: 245px;
+	float: left;
+	bottom: 0px;
+}
+
+.titre_panel {
+	color: #005b49;
+	font-weight: bold;
+	margin: 0;
+}
+
+.text_apercu_panel {
+	text-align: justify;
+}
+
+
+/* 
+   ============================================================================================
+   ===================================== GROUPE ALLIANCES =====================================
+   ============================================================================================
+*/
+
+
+
+
+
+
+
+/* 
+   ====================================================================================
+   ===================================== CSS MENU =====================================
+   ====================================================================================
+*/
+
+#menu_bg {
+	color : white; 
+	height : 36px;
+	background-color: #00A150;
+	border-bottom: 4px solid #01795E;
+	margin : auto;
+}
+
+#menu {
+	line-height: 0.9em;
+	height: 36px;
+	width : 1200px;
+	margin : auto;
+	background-color: #00A150;
+	border-bottom: 4px solid #01795E;
+}
+
+.menu_bouton {
+	padding-top: 10px;
+	min-height : 26px;
+	text-align: center;
+	width: 160px;
+	float : left;
+	color: white;
+	text-decoration: none;
+	border-bottom: 4px solid #01795E;
+	border-left: 1px solid #00CE9E;
+	border-right: 1px solid #01795E;
+}
+
+.menu_bouton:hover {
+	background-color: #CB2222;
+	border-bottom: 4px solid #600909;
+	border-left: 1px solid #FF8484;
+}
+
+.menu_accueil,
+.menu_accueil:hover {
+	border-left: 0;
+}
+
+.menu_nos_competences {
+	width: 192px;
+}
+
+.menu_vos_besoins {
+
+}
+
+.menu_nos_solutions {
+
+}
+
+.menu_nos_solutions {
+
+}
+
+.menu_notre_entreprise {
+	width: 196px;
+}
+
+.menu_contactez_nous {
+
+}
+
+.menu_espace_client,
+.menu_espace_client:hover {
+	border-right: 0;
+}
+/* 
+   ====================================================================================
+   ===================================== FIN MENU =====================================
+   ====================================================================================
+*/
+
+#header {
+	background-color: #484747;
+}
+
+#logo_partenaire{
+	margin : auto;
+	width : 1200px;
+	height: 150px;
+	background-color: #484747;
+}
+
+#logo {
+	float: left;
+	padding-top : 18px;
+	padding-left : 15px;
+	width : 215 px;
+	height: 130 px;
+}
+
+#sociaux {
+	float: right;
+	height: 130px;
+	width : 300px;
+	text-align: left;
+}
+
+.titre_sociaux { 
+	padding: 35px 0 0 0;
+	color: white;
+	font-size: 14px;
+	display: block;
+	margin: 0 0 4px 0;
+	text-align: center;
+}
+
+.libelle_rs {
+	float: left;
+	height: 45px;
+	width: 43px;
+	padding: 0 0 0 20px;
+}
+
+#twitter_logo {
+	padding: 1px;
+	height: 43px;
+	width: 43px;
+	background: url("../images/tt_gris.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#facebook_logo {
+	padding: 1px;
+	height: 43px;
+	width: 43px;
+	background: url("../images/fb_gris.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#googlep_logo {
+	padding: 1px;
+	height: 43px;
+	width: 43px;
+	background: url("../images/ggp_gris.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#twitter_logo:hover {
+	background: url("../images/tt.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#googlep_logo:hover {
+	background: url("../images/ggp.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#facebook_logo:hover {
+	background: url("../images/fb.png") no-repeat;
+	background-size: 43px 43px;
+}
+
+#top_main {
+	width: 1200px;
+	height: 10px;
+	background-color : #00a150;
+	margin : auto;
+}
+
+#carousel {
+	padding-top : 15px;
+	width : 760px;
+	height: 250px;
+	float: left;
+	position: relative;
+	background-color : #ffffff;
+}
+
+/* 
+   ========================================================================================
+   ===================================== CSS RECOMPENSES ==================================
+   ========================================================================================
+*/
+
+#recompenses {
+	position:relative;
+	float: right;
+	margin-top : 15px;
+	margin-left : 20px;
+	width : 400px;
+	height: 250px;
+	background-color: #01795e;
+}
+
+#recompenses img {
+	position: absolute;
+}
+
+#recompenses img {
+	-webkit-animation-name: cf4FadeInOut;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 8s;
+	-moz-animation-name: cf4FadeInOut;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-duration: 8s;
+	-o-animation-name: cf4FadeInOut;
+	-o-animation-timing-function: ease-in-out;
+	-o-animation-iteration-count: infinite;
+	-o-animation-duration: 8s;
+	animation-name: cf4FadeInOut;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 8s;
+}
+
+@-webkit-keyframes cf4FadeInOut {
+	0% {
+	opacity:1;
+	}
+	17% {
+	opacity:1;
+	}
+	25% {
+	opacity:0;
+	}
+	92% {
+	opacity:0;
+	}
+	100% {
+	opacity:1;
+	}
+}
+
+@-moz-keyframes cf4FadeInOut {
+	0% {
+	opacity:1;
+	}
+	17% {
+	opacity:1;
+	}
+	25% {
+	opacity:0;
+	}
+	92% {
+	opacity:0;
+	}
+	100% {
+	opacity:1;
+	}
+}
+
+@-o-keyframes cf4FadeInOut {
+	0% {
+	opacity:1;
+	}
+	17% {
+	opacity:1;
+	}
+	25% {
+	opacity:0;
+	}
+	92% {
+	opacity:0;
+	}
+	100% {
+	opacity:1;
+	}
+}
+
+@keyframes cf4FadeInOut {
+	0% {
+	opacity:1;
+	}
+	17% {
+	opacity:1;
+	}
+	25% {
+	opacity:0;
+	}
+	92% {
+	opacity:0;
+	}
+	100% {
+	opacity:1;
+	}
+}
+
+#recompenses img:nth-of-type(1) {
+	-webkit-animation-delay: 6s;
+	-moz-animation-delay: 6s;
+	-o-animation-delay: 6s;
+	animation-delay: 6s;
+}
+
+#recompenses img:nth-of-type(2) {
+	-webkit-animation-delay: 4s;
+	-moz-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}
+
+#recompenses img:nth-of-type(3) {
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+#recompenses img:nth-of-type(4) {
+	-webkit-animation-delay: 0;
+	-moz-animation-delay: 0;
+	-o-animation-delay: 0;
+	animation-delay: 0;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN RECOMPENSES ==================================
+   ========================================================================================
+*/
+
+
+
+
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS NOUVELLES ====================================
+   ========================================================================================
+*/
+
+#nouvelles {
+	margin-top: 20px;
+	height: 200px;
+	width: 760px;
+	background-image: url("../images/bg_nouvelles.png");
+	float: left;
+}
+
+#nouvelles a{
+	text-decoration: none;
+}
+
+.voir_plus_nouvelles {
+	text-align: center;
+	padding-top: 5px;
+	color: #FFFFFF;
+	height: 25px;
+	width: 760px;
+	background-color : #00a150;
+	border-bottom: 5px solid #006b46;
+}
+
+.voir_plus_nouvelles:hover {
+	text-decoration: none;
+	background-color : #cb2222;
+	border-bottom: 5px solid #600909;
+}
+
+.ligne_nouvelle {
+	padding-right : 20px;
+	padding-left : 1px;
+	height: 82px;
+	width: 719px;
+}
+
+.ligne_nouvelle:hover {
+	background-color: #F2F2F2;
+}
+
+.interligne_nouvelle{
+	background-color: #ebebeb;
+	height : 1px;
+	line-height: 1px;
+}
+
+.image_nouvelle {
+	width: 82px;
+	height: 82px;
+	float: left; 
+}
+
+.apercu_nouvelle {
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 627px;
+	height: 72px;
+	float: right;
+}
+
+#nouvelle {
+	text-align: justify;
+	padding-bottom: 10px;
+	width: 740px;
+}
+
+#nouvelle h2{
+	margin-top: 0px;
+}
+
+.titre_nouvelle {
+	font-weight: bold;
+	color: #017939;
+	line-height: 1em;
+	margin: 0 0 4px 0;
+}
+
+.apercu_nouvelle {
+	color : black;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN NOUVELLES ====================================
+   ========================================================================================
+*/
+
+/* 
+   ========================================================================================
+   ===================================== CSS ASSISTANCE ===================================
+   ========================================================================================
+*/
+
+#assistance {
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 200px;
+	width: 400px;
+	background-image: url("../images/bg_assistance.png");
+	float: right;
+}
+
+#assistance a{
+	text-decoration: none;
+}
+
+.voir_plus_assistance {
+	text-align: center;
+	padding-top: 5px;
+	color: #FFFFFF;
+	height: 25px;
+	width: 400px;
+	background-color : #00a150;
+	border-bottom: 5px solid #006b46;
+}
+
+.voir_plus_assistance:hover {
+	text-decoration: none;
+	background-color : #cb2222;
+	border-bottom: 5px solid #600909;
+}
+
+.ligne_assistance {
+	text-align: center;
+	color : #017939;
+	padding-top: 15px;
+	padding-left : 20px;
+	padding-right : 20px;
+	width : 360px;
+	height: 67px;
+}
+
+.ligne_assistance:hover {
+	color : #cb2222;
+}
+
+.interligne_assistance{
+	background-color: #ebebeb;
+	height : 1px;
+	line-height: 1px;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN ASSISTANCE ===================================
+   ========================================================================================
+*/
+
+#contenu {
+	padding-top: 20px;
+	font-style: justify;
+	width: 740px;
+	min-height: 100%;
+	float: left;
+	margin-bottom: 15px;
+	
+}
+
+#contenu h2{
+	margin-top: 0px;
+}
+
+#contenu a{
+	text-decoration: none;
+	color: #017939;
+}
+
+#contenu a:hover{
+	text-decoration: none;
+	color: #8ec641;
+}
+
+/* 
+   ========================================================================================
+   ===================================== CSS PARTENAIRES ==================================
+   ========================================================================================
+*/
+
+#top_assistance {
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 5px;
+	color: #FFFFFF;
+	height: 25px;
+	width: 400px;
+	background-color : #00a150;
+	float: right;
+	border-bottom: 2px solid #006b46;
+}
+
+#partenaires_sage {
+	padding: 15px;
+	margin-bottom: 15px;
+	width: 370px;
+	min-height: 583px;
+	max-height: 583px;
+	float: right;
+	background-color : #c0e2b6;
+}
+
+#colonne_gauche_partenaire {
+	width: 180px;
+	float: left;
+}
+
+#colonne_droite_partenaire {
+	width: 180px;
+	margin-left: 10px;
+	float: right;
+}
+
+#colonne_unique_partenaire {
+	width: 370px;
+	min-height: 100%;
+	margin-top: 20px;
+	margin-left: 10px;
+	float: right;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN PARTENAIRES ==================================
+   ========================================================================================
+*/
+
+/* 
+   ========================================================================================
+   ===================================== CSS FOOTER =======================================
+   ========================================================================================
+*/
+
+#footer {
+	float : left; 
+	height: 360px;
+	min-width: 100%;
+}
+
+#agence_logo_navigation_contact_bg {
+	height: 300px;
+	width: 100%;
+	background-color : #3e3e3e;
+}
+
+#agence_logo_navigation_contact {
+	margin: auto;
+	height: 300px;
+	width: 1200px;
+}
+
+/* 
+   ========================================================================================
+   ===================================== CSS AGENCE =======================================
+   ========================================================================================
+*/
+
+#agence {
+	padding-top: 30px;
+	padding-right: 10px;
+	width: 410px;
+	height: 270px;
+	float: left;
+}
+
+.ligne_agence {
+	height: 84px;
+	width: 420px;
+	line-height: 1.3em;
+}
+/* 
+   ========================================================================================
+   ===================================== FIN AGENCE =======================================
+   ========================================================================================
+*/	
+
+
+
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS ACCUEIL ======================================
+   ========================================================================================
+*/
+
+#accueil {
+	width: 760px;
+	float: left;
+	margin-bottom: 30px;
+}
+
+#accueil .slide-up {
+	background: #C0E2B6;
+	margin-top: 20px;
+	height: 200px; /* Égal à la hauteur de l'image */
+	width: 240px; /* Égal à la largeur de l'image */
+	overflow: hidden;
+	position: relative;
+}
+
+#accueil div img {
+	left: 0;
+	position: absolute;
+	top: 0;
+	transition: transform 0.5s ease-in-out;
+	-moz-transition: -moz-transform 0.5s ease-in-out;
+	-o-transition: -o-transform 0.5s ease-in-out;
+	-webkit-transition: -webkit-transform 0.5s ease-in-out
+}
+
+.slide-up {
+	float: left;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+#accueil .slide-up:hover img {
+	transform: translateY(-200px); /* Valeur négative égale à la hauteur de l'image */
+	-moz-transform: translateY(-200px);
+	-o-transform: translateY(-200px);
+	-webkit-transform: translateY(-200px);
+}
+
+.apercu_produit {
+	padding: 5px 5px 0px 5px;
+	width: 220px;
+	height: 190px;
+	float: left;
+}
+
+.titre_produit {
+	color: #005b49;
+	font-weight: bold;
+	margin: 0;
+}
+
+.text_apercu_produit {
+	text-align: justify;
+}
+
+.plus_dinfos_produit {
+	width: 230px;
+	height: 30px;
+	position:absolute;
+	bottom:0px;
+	background-color: #067451;
+	color: white;
+	font-size: 18px;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.plus_dinfos_produit:hover {
+	background-color: #cb2222;
+	color: white;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN ACCUEIL ======================================
+   ========================================================================================
+*/
+
+
+
+
+
+	#logo_footer {
+		text-align: center;
+		background-image: url("../images/logo_footer_bg.png");
+		padding-top: 60px;
+		width: 320px;
+		height: 240px;
+		float: left;
+	}
+
+	/* 
+	   ========================================================================================
+	   ===================================== CSS NAVIGA =======================================
+	   ========================================================================================
+	*/
+
+	#navigation {
+		line-height: 1em;
+		padding-top: 30px;
+		padding-left: 40px;
+		width: 200px;
+		height: 270px;
+		float: left;
+	}
+	
+	#navigation a {
+		text-decoration: none;
+		color: #00a150;
+	}
+	
+	#navigation a:hover {
+		text-decoration: none;
+		color: #ffffff;
+	}
+	/* 
+	   ========================================================================================
+	   ===================================== FIN NAVIGA =======================================
+	   ========================================================================================
+	*/
+
+	/* 
+	   ========================================================================================
+	   ===================================== CSS CONTACT ======================================
+	   ========================================================================================
+	*/
+
+	#contact {
+		text-decoration: none;
+		padding-top: 30px;
+		line-height: 1em;
+		padding-left: 10px;
+		width: 190px;
+		height: 270px;
+		float: right;
+	}
+	
+	/* 
+	   ========================================================================================
+	   ===================================== FIN CONTACT ======================================
+	   ========================================================================================
+	*/
+
+	#tous_droits_aig_bg {
+		height: 60px;
+		width: 100%;
+		background-color : #272727;
+	}
+
+	#tous_droits_aig {
+		color: #FFFFFF;
+		font-size: 12px;
+		padding-top: 20px;
+		line-height: 1em;
+		margin: auto;
+		width: 1200px;
+		height: 40px;
+		text-align: right;
+	}
+	
+	#tous_droits_aig a {
+		text-decoration: none;
+		color: #FFFFFF;
+	}
+	
+	#tous_droits_aig a:hover{
+		color: #017939;
+		text-decoration: none;
+	}
+	
+	a.fb_bottom {
+		background-image: url("../images/fb_ico.png");
+		width: 24px;
+		height: 24px;
+		margin: 0 5px 0 0;
+		display: block;
+		float: left;
+	}
+	
+	a.ggp_bottom {
+		background-image: url("../images/ggplus_ico.png");
+		width: 24px;
+		height: 24px;
+		margin: 0 5px 0 0;
+		display: block;
+		float: left;
+	}
+	
+	a.tt_bottom {
+		background-image: url("../images/tt_ico.png");
+		width: 24px;
+		height: 24px;
+		display: block;
+		float: left;
+	}
+	
+	a.fb_bottom:hover {
+		background-image: url("../images/fb_ico_hover.png");
+		width: 24px;
+		height: 24px;
+		margin: 0 5px 0 0;
+		display: block;
+		float: left;
+	}
+	
+	a.ggp_bottom:hover {
+		background-image: url("../images/ggplus_ico_hover.png");
+		width: 24px;
+		height: 24px;
+		margin: 0 5px 0 0;
+		display: block;
+		float: left;
+	}
+	
+	a.tt_bottom:hover {
+		background-image: url("../images/tt_ico_hover.png");
+		width: 24px;
+		height: 24px;
+		display: block;
+		float: left;
+	}
+
+/* 
+   ========================================================================================
+   ===================================== FIN FOOTER =======================================
+   ========================================================================================
+*/
+
+
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS REFERENCES ===================================
+   ========================================================================================
+*/
+
+
+#top_references {
+	padding: 0 0 10px 0;
+	float : left; 
+	color : #00a150; 
+	height : 42px;
+	width : 100%;
+}
+
+#titre_references { 
+	height : 32px;
+	width : 1200px;
+	padding: 10px 0 0 40px;
+	margin: auto;
+	font-size: 24px;
+	/*background-image: url("../images/nos_references.png");*/
+}
+
+#contenu_references {
+	float : left; 
+	height: 190px;
+	width : 100%;
+	background-color: white;
+}
+
+#contenu_references_in {
+	height: 150px;
+	width : 1200px;
+	text-align: center;
+	margin: auto;
+	border-bottom: 1px solid #EBEBEB;
+	border-top: 1px solid #EBEBEB;
+}
+
+.topbot_contenu_references {
+	background-color: #00a150;
+	float: left;
+	height: 28px;
+	width : 100%;
+}
+
+.interligne_1_references {
+	background-color: #47a978;
+	float: left;
+	height: 1px;
+	width : 100%;
+}
+
+.interligne_2_references {
+	background-color: #00552a;
+	float: left;
+	height: 1px;
+	width : 100%;
+}
+
+
+/* 
+   ========================================================================================
+   ===================================== FIN REFERENCES ===================================
+   ========================================================================================
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS SLIDESHOW ====================================
+   ========================================================================================
+*/
+
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+.rslides {
+  margin: 0 auto;
+  }
+
+.rslides1_nav {
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 50%;
+  left: 0;
+  z-index: 99;
+  opacity: 0.7;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 61px;
+  width: 38px;
+  background: transparent url("../images/slideshow/themes.gif") no-repeat left top;
+  margin-top: -45px;
+  }
+
+.rslides1_nav:active {
+  opacity: 1.0;
+  }
+
+.rslides1_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 0;
+  }
+
+
+.rslides1_nav:focus {
+  outline: none;
+  }
+
+.rslides_tabs {
+  margin-top: 10px;
+  text-align: center;
+  }
+
+.rslides_tabs li {
+  display: inline;
+  float: none;
+  _float: left;
+  *float: left;
+  margin-right: 5px;
+  }
+
+.rslides_tabs a {
+  text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background: #ccc;
+  background: rgba(0,0,0, .2);
+  display: inline-block;
+  _display: block;
+  *display: block;
+  -webkit-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  -moz-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  width: 9px;
+  height: 9px;
+  }
+
+.rslides_tabs .rslides_here a {
+  background: #222;
+  background: rgba(0,0,0, .8);
+  }
+
+.caption {
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 0;
+  /* right: 0; */
+  right: 0;
+  padding: 15px;
+  text-align: center;
+  background: #01795E;
+  background: rgba(1,121,94, .8);
+  color: #fff;
+  font-size: 22px;
+  font-variant:small-caps;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  .github {
+    display: none;
+  }
+}
+  
+  /* 
+   ========================================================================================
+   ===================================== FIN SLIDESHOW ====================================
+   ========================================================================================
+*/
+
+.sous_titre {
+	height : 5px;
+	width : 100%;
+	background-color : #6faa5f;
+}
+
+/* 
+   ========================================================================================
+   ===================================== CSS PRODUIT ======================================
+   ========================================================================================
+*/
+
+#menu_produits{
+	float: left;
+	width: 290px;
+	margin: 20px 0px 30px 0px;
+}
+
+#menu_produits .menu, 
+#menu_produits .sousmenu {
+	text-align: left;
+}
+
+#menu_produits .menu {
+	height: 34px;
+	width: 290px;
+	padding: 0px 5px 0 5px;
+	border-bottom: 1px solid #e6e6e6;
+	font-size: 22px;
+	line-height: 1.7em;
+	color: #00883f;
+}
+
+#menu_produits .content_sous_menu {
+	padding: 0px 0px 10px 0px;
+}
+
+#menu_produits .sousmenu{
+	height: 20px;
+	width: 300px;
+	padding: 5px 5px 0px 15px;
+}
+
+#menu_produits .menu a,
+#menu_produits .sousmenu a {
+	text-decoration: none;
+	color: grey;
+}
+
+#menu_produits .sousmenu a{
+	display:block;
+	font-size:14px;
+	text-decoration:none;
+}
+
+#contenu_produits {
+	float: right;
+	width: 860px;
+	margin: 50px 0px 30px 0px;
+}
+
+.demonstration_produits {
+	float: right;
+	width: 860px;
+	margin: 20px 0px 30px 0px;
+}
+
+.libelle_produit_bg {
+	width: 860px;
+	height: 40px;
+	background-color: #067451;
+	float: right;
+}
+
+.top_gamme_produit {
+	width: 820px;
+	height: 190px;
+	background-image: url("../images/top_gamme.png");
+	padding: 40px 0 0 40px;
+	float: right;
+}
+
+.top_gamme_paie_rh {
+	background-image: url("../images/top_gamme_paie_rh.png");
+}
+
+.top_gamme_gp {
+	background-image: url("../images/top_gamme_gp.png");
+}
+
+.top_gamme_online {
+	background-image: url("../images/top_gamme_online.png");
+}
+
+.top_gamme_erp {
+	background-image: url("../images/top_gamme_erp.png");
+}
+
+.top_gamme_crm {
+	background-image: url("../images/top_gamme_crm.png");
+}
+
+.sage_produits_pres {
+	display: block;
+	font-weight: bold; 
+	font-size: 30px; 
+	background-color: rgba(255,255,255,0.8); 
+	padding: 5px 5px 5px 5px; 
+	float: left;
+}
+
+.sage_produits_short_pres {
+	display: block;
+	font-size: 20px;
+	color: white;
+	background-color: rgba(0,161,80,0.6); 
+	padding: 5px 5px 5px 5px;
+	margin-right: 40px;
+	float: left;
+}
+
+.gamme_produits_pres {
+	display: block;
+	font-weight: bold; 
+	font-size: 30px; 
+	background-color: rgba(255,255,255,0.8); 
+	padding: 5px; 
+	color: #CB2222;
+	float: left;
+}
+
+.libelle_demo_produit_bg {
+	width: 860px;
+	height: 40px;
+	background-color: #00A150;
+	float: right;
+}
+
+.libelle_produit{
+	Font-size: 26px;
+	color: white;
+	font-weight: bold;
+	padding: 5px 5px 5px 10px;
+}
+
+.description_produit{
+	text-align: justify;
+	padding: 10px 10px 10px 10px;
+	width: 838px;
+	background-color: #edf9e9;
+	float: right;
+	border: 1px solid #067451;
+}
+
+.description_demo_produit{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	width: 840px;
+	background-color: #edf9e9;
+	float: right;
+}
+
+.description_gauche {
+	float: left;
+	width: 650px;
+	padding-right: 15px;
+}
+
+.description_droite {
+	color: white;
+	text-align: center;
+	padding: 5px;
+	float: right;
+	width: 163px;
+	min-height: 200px;
+	background-color: #00A150;
+	border-bottom: 5px solid #067451;
+}
+
+.description_droite:hover {
+	background-color: #CB2222;
+	border-bottom: 5px solid #600909;
+}
+
+.global_produit {
+	width: 838px;
+	color: #067451;
+	padding: 10px;
+	background-color: #f7f7f7;
+	float: right;
+	margin-bottom: 70px;
+	border: 1px solid #067451;
+	border-top: 0;
+}
+
+.produits_1,
+.produits_2,
+.produits_3 {
+	width: 276px;
+	float: left;
+}
+
+.produits_demi {
+	width: 414px;
+	float: left;
+}
+
+.produits_full {
+	width: 828px;
+	float: left;
+}
+
+.produits_12,
+.produits_23 {
+	width: 552px;
+	float: left;
+}
+
+.liste_produits li {
+	list-style-image: url("../images/arrow.png");
+}
+
+.liste_produits ul {
+	margin: 0;
+}
+
+#contenu_produits a,
+#demonstration_produits a {
+	color: #067451;
+	text-decoration: none;
+}
+
+#contenu_produits a:hover,
+#demonstration_produits a:hover {
+	color: red;
+}
+
+.produit_pdf {
+	color: white; 
+	float: left; 
+	width: 290px; 
+	height: 25px; 
+	background-color: #00A150; 
+	padding-top: 10px; 
+	text-align: center;
+	border-bottom: 5px solid #01795E;
+}
+
+.produit_pdf:hover {
+	background-color: #CB2222;
+	border-bottom: 5px solid #600909;
+}
+
+
+/* PARTIE contact du menu */
+
+#contactez_nous_produits {
+	margin: 35px 0 0 0;
+	padding: 5px 5px 5px 5px;
+	background-color: #F7F7F7;
+	height: 150px;
+}
+
+#top_contact_produit {
+	border-bottom: 1px solid #E3E3E3;
+	height: 25px;
+	padding: 0 0 3px 10px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18;
+	font-weight: bold;
+	color: #00a150;
+}
+
+#contact_produit {
+	padding: 15px 0 0 0;
+	font-size: 18;
+	text-align: center;
+	color: grey;
+}
+
+
+
+#top_produits {
+	margin: 20px 0 0 0;
+	padding: 5px 5px 5px 5px;
+	background-color: #F7F7F7;
+	text-align: center;
+	height: 17px;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN PRODUIT ======================================
+   ========================================================================================
+*/
+
+
+
+#contactez_nous {
+	margin: 35px 0 0 0;
+	padding: 5px 5px 5px 5px;
+	background-color: #F7F7F7;
+	height: 150px;
+	float: right;
+	width: 390px;
+}
+
+#top_contactez_nous {
+	border-bottom: 1px solid #E3E3E3;
+	height: 25px;
+	padding: 0 0 3px 10px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18;
+	font-weight: bold;
+	color: #00a150;
+}
+
+#aig_contactez_nous {
+	padding: 15px 0 0 0;
+	font-size: 18;
+	text-align: center;
+	color: grey;
+}
+
+
+/* 
+   ===============================================================================================
+   ===================================== CSS CONTACTEZ NOUS ======================================
+   ===============================================================================================
+*/
+
+
+/* 
+   ===============================================================================================
+   ===================================== FIN CONTACTEZ NOUS ======================================
+   ===============================================================================================
+*/
+
+
+
+
+
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS MENU ADMIN ===================================
+   ========================================================================================
+*/
+
+#menu_admin {
+	width: 100%;
+	background-color: #75a85a;
+	height: 54px;
+	margin-bottom: 20px;
+}
+
+#contenu_admin {
+	font-style: justify;
+	width: 1180px;
+	min-height: 100%;
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+}
+
+.bouton_menu_admin {
+	color: #ffffff;
+	text-decoration: none;
+	float: left;
+	height: 54px;
+	width: 143.5px;
+	background-color: #75a85a;
+	text-align: center;
+	padding-top: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.bouton_menu_admin:hover {
+	color: green;
+	background-color: #4d8330;
+}
+
+.btn_nouvelles {
+	float: left;
+	width: 143.5px;
+	height: 35px;
+	padding-top: 15px;
+	background-color: #93d272;
+}
+
+.btn_carousel {
+	float: left;
+	height: 35px;
+	padding-top: 15px;
+	width: 143.5px;
+	background-color: #93d272;
+}
+
+.btn_pages {
+	float: left;
+	height: 35px;
+	padding-top: 15px;
+	width: 143.5px;
+	background-color: #93d272;
+}
+
+.sous_titre_admin {
+	background-color: #017939;
+	width: 100%;
+	height: 5px;
+	display: block;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN MENU ADMIN ===================================
+   ========================================================================================
+*/
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS NOUVELLE ADMIN ===============================
+   ========================================================================================
+*/
+
+#admin_nouvelle {
+	min-height: 100%;
+	width: 100%;
+	float: left;
+}
+
+#admin_nouvelle_titre {
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+
+#admin_nouvelle_categ {
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+
+#admin_nouvelle_periode {
+	width: 50%;
+	height: 100px;
+	float: right;
+}
+
+#admin_nouvelle_contenu {
+	width: 100%;
+	float: left;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN NOUVELLE ADMIN ===============================
+   ========================================================================================
+*/
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS CAROUSEL ADMIN ===============================
+   ========================================================================================
+*/
+
+#admin_carousel_upload {
+	width: 33%;
+	height: 100px;
+	float: left;
+}
+
+#admin_carousel_lien {
+	width: 33%;
+	height: 100px;
+	float: left;
+}
+
+#admin_carousel_ajout {
+	width: 33%;
+	height: 100px;
+	float: left;
+}
+
+
+	/* 
+	   ========================================================================================
+	   ===================================== CSS CAROUSEL MODIF ===============================
+	   ========================================================================================
+	*/
+
+	.modif_carousel_ligne {
+		width: 100%;
+		height: 275px;
+		float: right;
+	}
+
+	.modif_carousel {
+		width: 25%;
+		height: 125px;
+		float: left;
+	}
+
+	.modif_carousel_top .inputspecial {
+		width: 35px;
+	}
+
+	.modif_carousel_top {
+		width: 50%;
+		height: 62px;
+	}
+
+	.modif_carousel_image {
+		width: 75%;
+		height: 150px;
+		float: left;
+	}
+
+	.modif_carousel_interligne {
+		width: 100%;
+		height: 2px;
+		background-color: #000000;
+		float: right; 
+	}
+
+/* 
+========================================================================================
+===================================== FIN CAROUSEL ADMIN ===============================
+========================================================================================
+*/
+
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS CONTACT ======================================
+   ========================================================================================
+*/
+   
+#contenu textarea { 
+    min-width: 700px;
+	max-width: 700px; 
+    height: 150px; 
+    line-height: 150%; 
+    } 
+   
+#contenu .form label { 
+    margin-left: 10px; 
+    color: #999999; 
+    } 
+   
+	
+#contenu .contact_left {
+	width: 50%;
+	float: left;
+}
+
+#contenu .contact_right{
+	width: 50%;
+	float: left;
+}
+
+#contenu #agences {
+	width: 740px;
+	float: left;
+}
+
+#contenu #agence_nancy {
+	width: 40%;
+	float: left;
+}
+
+#contenu #agence_lille {
+	width: 30%;
+	float: right;
+}
+
+#contenu #agence_metz {
+	width: 30%;
+	float: left;
+}
+
+#contenu  #formulaire {
+	width: 740px;
+	float: right;
+}
+
+.interligne_contact{
+	background-color: #ebebeb;
+	margin-top: 10px;
+	height : 1px;
+	width: 100%;
+	float: right;
+}
+
+
+/* 
+   ========================================================================================
+   ===================================== FIN CONTACT ======================================
+   ========================================================================================
+*/
+
+
+/* 
+   ========================================================================================
+   ===================================== CSS PRODUITS ADMIN ===============================
+   ========================================================================================
+*/
+
+#admin_produits {
+	min-height: 100%;
+	width: 100%;
+	float: left;
+}
+
+#admin_produits a {
+	text-decoration: none;
+	color: #00883f;
+}
+
+#admin_produits a:hover {
+	text-decoration: none;
+	color: #8ec641;
+}
+
+.admin_produit_titre {
+	width: 33%;
+	float: left;
+}
+
+.admin_produit_lien_edit {
+	width: 30%;
+	float: right;
+}
+
+.image_gallerie {
+	width: 225px; 
+	height: 129px;
+	border: 5px solid rgba(53,53,53,0.5); /* gris à 50% */
+	opacity: 0.5;
+	transition: opacity 0.5s ease-in-out,
+				border 0.5s ease-in-out,
+				width 0.5s ease-in-out,
+				height 0.5s ease-in-out;
+}
+
+.image_gallerie:hover {
+	opacity: 1;
+	border: 5px solid rgba(0,161,80,1); /* vert à 100% */
+	width: 350px;
+	height: 197px;
+}
+
+/* 
+   ========================================================================================
+   ===================================== FIN PRODUITS ADMIN ===============================
+   ========================================================================================
+*/
+
+
+
+
+/* 
+   ========================================================================================
+   ===================================== STYLE EN GENERAL =================================
+   ========================================================================================
+*/
+
+.Bold {
+	font-weight: bold;
+}
+
+.Italic {
+	font-style: italic;
+}
+
+.FloatRight {
+	float: right;
+}
+
+.FloatLeft {
+	float: left;
+}
+
+.50percent {
+	width: 50%;
+}
+
+.MarginTop-60-px {
+	Margin-top: 60px;
+}
+
+.MarginTop-10-px {
+	Margin-top: 10px;
+}
+
+.MarginTop-70-px {
+	Margin-top: 70px;
+}
+
+.MarginBot-30-px {
+	Margin-bottom: 30px;
+}
+
+.MarginTop-30-px {
+	Margin-top: 30px;
+}
+
+.NoMarginRight {
+	Margin-right: 0px;
+}
+
+.NoMargin {
+	Margin: 0;
+}
+
+.PaddinLeftRight-2-px {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.PaddinLeftRight-10-px {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.PaddingTop-5 {
+	padding: 5px 0 0 0;
+}
+
+.PaddingTop-7 {
+	padding: 7px 0 0 0;
+}
+
+.FontEnVert {
+	color: #00883f;
+}
+
+.FontEnBlanc{
+	color: #ffffff;
+}
+
+.FontEnVertClair {
+	color: #8ec641;
+}
+
+.FontEnBlanc {
+	color: #ffffff;
+}
+
+.BgEnVert {
+	background-color: #00A150;
+}
+
+.BgEnGris {
+	background-color: #F2F2F2;
+}
+
+.class_pour_centrer {
+	margin: 0 auto;
+}
+
