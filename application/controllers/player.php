@@ -2,6 +2,7 @@
 
 class Player extends MY_Controller {
 	
+	//Constructor
 	public function __construct()
 	{
 		parent::__construct();

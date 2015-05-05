@@ -26,8 +26,11 @@
 			</header>
 			<nav id="menu_bg">
 				<div id="menu">
-					<a href="<?php echo base_url(); ?>">
+					<a href="<?php echo site_url('home'); ?>">
 						<div class="menu_bouton menu_accueil">ACCUEIL</div>
+					</a>
+					<a href="<?php echo site_url('player'); ?>">
+						<div class="menu_bouton menu_accueil">PLAYER</div>
 					</a>
 				</div>
 			</nav>
