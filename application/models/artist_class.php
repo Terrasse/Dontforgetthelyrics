@@ -43,4 +43,22 @@ class Artist_class extends CI_Model
 								");
 	}
 	
+	/**
+	 *	Search an artist in the db
+	 */
+	public function artist_exist($name, $firstname)
+	{
+		$query = $this->db->query("
+						SELECT *
+						FROM ".$this->tArtist." 
+						WHERE name = ".$name."
+						AND firstname = ".$firstname."
+						");
+		
+		if ($query->num_rows() > 0)
+			return TRUE;
+		else
+			return FALSE;
+	}
+	
 }

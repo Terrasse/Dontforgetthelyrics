@@ -43,4 +43,22 @@ class Album_class extends CI_Model
 								");
 	}
 	
+	/**
+	 *	Search an album in the db
+	 */
+	public function album_exist($album_name, $release_date)
+	{
+		$query = $this->db->query("
+						SELECT *
+						FROM ".$this->tAlbum." 
+						WHERE album_name = ".$album_name."
+						AND release_date = ".$release_date."
+						");
+		
+		if ($query->num_rows() > 0)
+			return TRUE;
+		else
+			return FALSE;
+	}
+	
 }
