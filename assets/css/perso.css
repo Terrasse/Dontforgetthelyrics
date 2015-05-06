@@ -1,10 +1,10 @@
 body {
-	margin : 0px;
+	margin: 0px;
 	padding: 0px;
-	font-family : Calibri, Arial, Verdana, sans-serif;
-	background-color : white/*#e3e3e3*/;
-	width : 100%;
-	height : 100%;
+	font-family: Calibri, Arial, Verdana, sans-serif;
+	background-image: #272727/*#e3e3e3*/;
+	width: 100%;
+	height: 100%;
 }
 
 input, textarea { 
@@ -100,7 +100,7 @@ a {
 	width: 240px;
 	vertical-align: middle;
 	background: #1EAEDB;
-	border-bottom: 4px solid #012477;
+	border-bottom: 4px solid #0062bd;
 }
 
 .bouton_contact:hover {
@@ -228,7 +228,7 @@ a {
 	color : white; 
 	height : 36px;
 	background-color: #1EAEDB;
-	border-bottom: 4px solid #012477;
+	border-bottom: 4px solid #0062bd;
 	margin : auto;
 }
 
@@ -238,7 +238,7 @@ a {
 	width : 1200px;
 	margin : auto;
 	background-color: #1EAEDB;
-	border-bottom: 4px solid #012477;
+	border-bottom: 4px solid #0062bd;
 }
 
 .menu_bouton {
@@ -249,9 +249,9 @@ a {
 	float : left;
 	color: white;
 	text-decoration: none;
-	border-bottom: 4px solid #012477;
+	border-bottom: 4px solid #0062bd;
 	border-left: 1px solid #00CE9E;
-	border-right: 1px solid #012477;
+	border-right: 1px solid #0062bd;
 }
 
 .menu_bouton:hover {
@@ -300,14 +300,14 @@ a {
 */
 
 #header {
-	background-color: #484747;
+	background-color: #767676;
 }
 
 #logo_partenaire{
 	margin : auto;
 	width : 1200px;
 	height: 150px;
-	background-color: #484747;
+	background-color: #767676;
 }
 
 #logo {
@@ -409,7 +409,7 @@ a {
 	margin-left : 20px;
 	width : 400px;
 	height: 250px;
-	background-color: #012477;
+	background-color: #0062bd;
 }
 
 #recompenses img {
@@ -795,7 +795,7 @@ a {
 #agence_logo_navigation_contact_bg {
 	height: 300px;
 	width: 100%;
-	background-color : #3e3e3e;
+	background-color : #616161;
 }
 
 #agence_logo_navigation_contact {
@@ -1273,7 +1273,7 @@ a {
   right: 0;
   padding: 15px;
   text-align: center;
-  background: #012477;
+  background: #0062bd;
   background: rgba(1,121,94, .8);
   color: #fff;
   font-size: 22px;
@@ -1538,7 +1538,7 @@ a {
 	background-color: #1EAEDB; 
 	padding-top: 10px; 
 	text-align: center;
-	border-bottom: 5px solid #012477;
+	border-bottom: 5px solid #0062bd;
 }
 
 .produit_pdf:hover {
