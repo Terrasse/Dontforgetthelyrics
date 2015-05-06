@@ -27,7 +27,7 @@
 		<div id="site">
 			<header id="header">
 				<div id="logo_partenaire">
-					<div id="logo"><a href="<?php echo base_url(); ?>"><img alt="logo_aig" src="<?php echo base_url();?>/assets/images/logo_aig.png" /></a></div>
+					<div id="logo"><a href="<?php echo base_url(); ?>"><img alt="logo" src="<?php echo base_url();?>/assets/images/logo.jpg" /></a></div>
 				</div>
 			</header>
 			<nav id="menu_bg">
