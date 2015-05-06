@@ -16,8 +16,12 @@
 		
 		<script src="<?php echo base_url();?>/assets/js/jquery-1.11.1.js"></script>
 		<script src="<?php echo base_url();?>/assets/js/jquery-ui.js"></script>
-		<script src="<?php echo base_url();?>/assets/js/menu_produits.js"></script>
 		<script src="<?php echo base_url();?>/assets/js/responsiveslides.min.js"></script>
+		
+		<!--PLAYER-->
+		<script src="<?php echo base_url();?>assets/audio/build/jquery.js"></script>	
+		<script src="<?php echo base_url();?>assets/audio/build/mediaelement-and-player.min.js"></script>
+		<link rel="stylesheet" href="<?php echo base_url();?>assets/audio/build/mediaelementplayer.min.css" />
 	</head>
 	<body>
 		<div id="site">
