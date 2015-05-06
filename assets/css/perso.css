@@ -65,7 +65,7 @@ a {
 .btn_ok:hover{
 	padding: 8px 14px;
 	border: 1px solid #067451;
-	background: #00A150;
+	background: #1EAEDB;
 }
 
 .btn_delete { 
@@ -99,8 +99,8 @@ a {
 	text-align: center;
 	width: 240px;
 	vertical-align: middle;
-	background: #00a150;
-	border-bottom: 4px solid #01795e;
+	background: #1EAEDB;
+	border-bottom: 4px solid #012477;
 }
 
 .bouton_contact:hover {
@@ -227,8 +227,8 @@ a {
 #menu_bg {
 	color : white; 
 	height : 36px;
-	background-color: #00A150;
-	border-bottom: 4px solid #01795E;
+	background-color: #1EAEDB;
+	border-bottom: 4px solid #012477;
 	margin : auto;
 }
 
@@ -237,8 +237,8 @@ a {
 	height: 36px;
 	width : 1200px;
 	margin : auto;
-	background-color: #00A150;
-	border-bottom: 4px solid #01795E;
+	background-color: #1EAEDB;
+	border-bottom: 4px solid #012477;
 }
 
 .menu_bouton {
@@ -249,9 +249,9 @@ a {
 	float : left;
 	color: white;
 	text-decoration: none;
-	border-bottom: 4px solid #01795E;
+	border-bottom: 4px solid #012477;
 	border-left: 1px solid #00CE9E;
-	border-right: 1px solid #01795E;
+	border-right: 1px solid #012477;
 }
 
 .menu_bouton:hover {
@@ -383,7 +383,7 @@ a {
 #top_main {
 	width: 1200px;
 	height: 10px;
-	background-color : #00a150;
+	background-color : #1EAEDB;
 	margin : auto;
 }
 
@@ -409,7 +409,7 @@ a {
 	margin-left : 20px;
 	width : 400px;
 	height: 250px;
-	background-color: #01795e;
+	background-color: #012477;
 }
 
 #recompenses img {
@@ -572,7 +572,7 @@ a {
 	color: #FFFFFF;
 	height: 25px;
 	width: 760px;
-	background-color : #00a150;
+	background-color : #1EAEDB;
 	border-bottom: 5px solid #006b46;
 }
 
@@ -667,7 +667,7 @@ a {
 	color: #FFFFFF;
 	height: 25px;
 	width: 400px;
-	background-color : #00a150;
+	background-color : #1EAEDB;
 	border-bottom: 5px solid #006b46;
 }
 
@@ -740,7 +740,7 @@ a {
 	color: #FFFFFF;
 	height: 25px;
 	width: 400px;
-	background-color : #00a150;
+	background-color : #1EAEDB;
 	float: right;
 	border-bottom: 2px solid #006b46;
 }
@@ -950,7 +950,7 @@ a {
 	
 	#navigation a {
 		text-decoration: none;
-		color: #00a150;
+		color: #1EAEDB;
 	}
 	
 	#navigation a:hover {
@@ -1085,7 +1085,7 @@ a {
 #top_references {
 	padding: 0 0 10px 0;
 	float : left; 
-	color : #00a150; 
+	color : #1EAEDB; 
 	height : 42px;
 	width : 100%;
 }
@@ -1116,7 +1116,7 @@ a {
 }
 
 .topbot_contenu_references {
-	background-color: #00a150;
+	background-color: #1EAEDB;
 	float: left;
 	height: 28px;
 	width : 100%;
@@ -1273,7 +1273,7 @@ a {
   right: 0;
   padding: 15px;
   text-align: center;
-  background: #01795E;
+  background: #012477;
   background: rgba(1,121,94, .8);
   color: #fff;
   font-size: 22px;
@@ -1427,7 +1427,7 @@ a {
 .libelle_demo_produit_bg {
 	width: 860px;
 	height: 40px;
-	background-color: #00A150;
+	background-color: #1EAEDB;
 	float: right;
 }
 
@@ -1468,7 +1468,7 @@ a {
 	float: right;
 	width: 163px;
 	min-height: 200px;
-	background-color: #00A150;
+	background-color: #1EAEDB;
 	border-bottom: 5px solid #067451;
 }
 
@@ -1535,10 +1535,10 @@ a {
 	float: left; 
 	width: 290px; 
 	height: 25px; 
-	background-color: #00A150; 
+	background-color: #1EAEDB; 
 	padding-top: 10px; 
 	text-align: center;
-	border-bottom: 5px solid #01795E;
+	border-bottom: 5px solid #012477;
 }
 
 .produit_pdf:hover {
@@ -1564,7 +1564,7 @@ a {
 	vertical-align: middle;
 	font-size: 18;
 	font-weight: bold;
-	color: #00a150;
+	color: #1EAEDB;
 }
 
 #contact_produit {
@@ -1609,7 +1609,7 @@ a {
 	vertical-align: middle;
 	font-size: 18;
 	font-weight: bold;
-	color: #00a150;
+	color: #1EAEDB;
 }
 
 #aig_contactez_nous {
@@ -2057,7 +2057,7 @@ a {
 }
 
 .BgEnVert {
-	background-color: #00A150;
+	background-color: #1EAEDB;
 }
 
 .BgEnGris {

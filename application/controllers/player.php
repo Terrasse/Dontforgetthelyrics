@@ -32,7 +32,6 @@ class Player extends MY_Controller {
 		$query_player = $this->player_class->getPlayer($id_player);
 		if ($query_player->num_rows() > 0)
 		{
-			$premiereboucle = true;
 			foreach($query_player->result() as $row)
 			{
 				$datas_player['username'] = $row->username;

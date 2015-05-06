@@ -6,6 +6,8 @@
 		<meta name="description" content="" />
 		<!-- CSS AIG -->
 		<link href="<?php echo base_url();?>/assets/css/perso.css" rel="stylesheet" media="screen">
+		<link href="<?php echo base_url();?>/assets/css/normalize.css" rel="stylesheet" media="screen">
+		<link href="<?php echo base_url();?>/assets/css/skeleton.css" rel="stylesheet" media="screen">
 		<link href="<?php echo base_url();?>/assets/css/ui-lightness/jquery-ui.css" rel="stylesheet" media="screen">
 		<link href="<?php echo base_url();?>/assets/css/ui-lightness/jquery-ui.theme.css" rel="stylesheet" media="screen">
 		<link href="<?php echo base_url();?>/assets/css/ui-lightness/jquery-ui.structure.css" rel="stylesheet" media="screen">
