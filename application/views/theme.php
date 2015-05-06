@@ -26,18 +26,7 @@
 			</header>
 			<nav id="menu_bg">
 				<div id="menu">
-					<a href="<?php echo site_url('home'); ?>">
-						<div class="menu_bouton menu_accueil">ACCUEIL</div>
-					</a>
-					<a href="<?php echo site_url('profile/1'); ?>">
-						<div class="menu_bouton menu_accueil">PLAYER</div>
-					</a>
-					<a href="<?php echo site_url('connection'); ?>">
-						<div class="menu_bouton menu_accueil">SE CONNECTER</div>
-					</a>
-					<a href="<?php echo site_url('connection/logout'); ?>">
-						<div class="menu_bouton menu_accueil">SE DECONNECTER</div>
-					</a>
+					<?php require 'application/views/menu.php'; ?>
 				</div>
 			</nav>
 			<div id="main">

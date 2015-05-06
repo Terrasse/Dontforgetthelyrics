@@ -14,8 +14,6 @@ class Connection extends MY_Controller {
 		
 		//	Chargement de la bibliothèque
 		$this->load->library('form_validation');
-		
-		$this->output->enable_profiler(TRUE);
 	}
 	
 	public function index()
