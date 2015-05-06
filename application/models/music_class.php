@@ -7,12 +7,14 @@ class Music_class extends CI_Model
 	/**
 	 *	Add a music to the db
 	 */
-	public function add_music($path, $title, $lyrics)
+	public function add_music($path, $title, $lyrics, $id_artist, $id_album)
 	{
 		//	Ces données seront automatiquement échappées
 		$this->db->set('title', $title);
 		$this->db->set('path', $path);
 		$this->db->set('lyrics', $lyrics);
+		$this->db->set('id_artist', $id_artist);
+		$this->db->set('id_album', $id_album);
 		
 		//	Ces données ne seront pas échappées
 		// $this->db->set('date', 'NOW()', false);
@@ -21,28 +23,6 @@ class Music_class extends CI_Model
 		$this->db->insert($this->tMusic);
 		
 		return $this->db->insert_id();
-	}
-	
-	public function update_music($id_music, $path = null, $title = null)
-	{
-		//	Il n'y a rien à éditer
-		if($path == null AND $title == null)
-		{
-			return false;
-		}
-		
-		if($path != null)
-			$this->db->set('path', $path);
-		
-		if($lien_fiche != null)
-		{
-			$this->db->set('lien_fiche', $lien_fiche);
-		}
-		
-		//	La condition
-		$this->db->where('id_produit', (int) $id_produit);
-		
-		return $this->db->update($this->produits);
 	}
 	
 	/**
