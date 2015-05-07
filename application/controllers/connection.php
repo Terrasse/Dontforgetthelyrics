@@ -61,6 +61,28 @@ class Connection extends MY_Controller {
 		$this->session->sess_destroy();
 		redirect();
 	}
+	
+	
+	public function register()
+	{
+		$this->form_validation->set_rules('username', '"Aka"', 'trim|required|min_length[5]|max_length[52]|alpha_dash|encode_php_tags|xss_clean');
+		$this->form_validation->set_rules('password',    '"Password"',       'trim|required|min_length[5]|max_length[52]|alpha_dash|encode_php_tags|xss_clean');
+		$this->form_validation->set_rules('passwordCheck',    '"Password check"',       'trim|required|min_length[5]|max_length[52]|alpha_dash|encode_php_tags|xss_clean');
+		
+		$username = $this->input->post('username');
+		$password = $this->input->post('password');
+		
+		if($this->form_validation->run())
+		{
+			$this->connection_class->register($username, $password);
+			redirect('game');
+		}
+		else
+		{
+			//	Le formulaire est invalide ou vide
+			$this->layout->view('connection/connection');
+		}
+	}
 }
 
 ?>

@@ -3,6 +3,8 @@
 class Music_class extends CI_Model
 {
 	protected $tMusic = 'music';
+	protected $tArtist = 'artist';
+	protected $tAlbum = 'album';
 	
 	/**
 	 *	Add a music to the db
@@ -42,6 +44,8 @@ class Music_class extends CI_Model
 		return $this->db->query("
 								SELECT *
 								FROM ".$this->tMusic." 
+								INNER JOIN ".$this->tArtist." ON ".$this->tArtist.".id_artist = ".$this->tMusic.".id_artist
+								INNER JOIN ".$this->tAlbum." ON ".$this->tAlbum.".id_album = ".$this->tMusic.".id_album
 								WHERE id_music = ".$id_music."
 								");
 	}

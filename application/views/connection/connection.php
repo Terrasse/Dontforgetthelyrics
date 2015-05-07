@@ -1,14 +1,27 @@
-<section id="contenu">
-		<span class="titre_nouvelle">Connection</span>
-		<div class="sous_titre"></div>
-		<form style="margin-top: 20px;" action="<?php echo base_url().'connection/login/4545'; ?>" method="post">
-			<input style="height: 20px; width: 30%" name="username" type="text" placeholder="Username" value="<?php echo set_value('username'); ?>" />
-			<input style="height: 20px; width: 40%" name="password" type="password" placeholder="Password" />
+<section id="row">
+	<div class="six columns" style="padding-bottom: 5%">
+		<h4>Connection</h4>
+		<form name="connection_form" style="margin-top: 2%;" action="<?php echo base_url().'connection/login'; ?>" method="post">
+			<input name="username" type="text" placeholder="Username" value="<?php echo set_value('username'); ?>" />
+			<input name="password" type="password" placeholder="Password" />
 			<br />
-			<?php echo hash ('sha256', 'password', false); ?>
-			<br />
-			<input style="height: 30px; width: 15%" name="form_sent" value="Sign in" type="submit"/>
+			<input name="form_sent" value="Sign in" type="submit"/>
 		</form>
 		<?php echo form_error('username'); ?>
 		<?php echo form_error('password'); ?>
+	</div>
+	<div class="six columns" style="padding-bottom: 5%">
+		<h4>Are you registered?</h4>
+		<form name="register_form" style="margin-top: 2%;" action="<?php echo base_url().'connection/register'; ?>" method="post">
+			<input name="username" type="text" placeholder="Username" value="<?php echo set_value('username'); ?>" />
+			<input name="password" type="password" placeholder="Password" />
+			<br />
+			<input name="passwordCheck" type="password" placeholder="Confirm password" />
+			<br />
+			<input name="form_sent" value="Sign up" type="submit"/>
+		</form>
+		<?php echo form_error('username'); ?>
+		<?php echo form_error('password'); ?>
+		<?php echo form_error('passwordCheck'); ?>
+	</div>
 </section>

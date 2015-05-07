@@ -113,14 +113,16 @@ a {
 #site {
 	/*background : url("../images/bg.png") top center no-repeat;
 	*/
-	min-height : 800px;
+	min-height : 100%;
 	margin : auto;
 }
 
 #main {
 	background-color: white;
 	margin : auto;
+	min-height: 100%;
 	width: 1200px;
+	padding: 5% 0 5% 0;
 }
 
 
@@ -790,6 +792,7 @@ a {
 	float : left; 
 	height: 360px;
 	min-width: 100%;
+	bottom: 0;
 }
 
 #agence_logo_navigation_contact_bg {

@@ -12,6 +12,10 @@
 		<link href="<?php echo base_url();?>/assets/css/ui-lightness/jquery-ui.theme.css" rel="stylesheet" media="screen">
 		<link href="<?php echo base_url();?>/assets/css/ui-lightness/jquery-ui.structure.css" rel="stylesheet" media="screen">
 		
+		<!-- FONT –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+		
 		<link rel="icon" href="<?php echo base_url();?>/assets/images/favicon.png" />
 		
 		<script src="<?php echo base_url();?>/assets/js/jquery-1.11.1.js"></script>

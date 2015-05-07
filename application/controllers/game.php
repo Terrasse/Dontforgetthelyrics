@@ -41,6 +41,9 @@ class Game extends MY_Controller {
 				$datas_music['id_music'] = $row->id_music;
 				$datas_music['title'] = $row->title;
 				$datas_music['lyrics'] = $row->lyrics;
+				$datas_music['album_name'] = $row->album_name;
+				$datas_music['name'] = $row->name;
+				$datas_music['firstname'] = $row->firstname;
 			}
 		}
 			
