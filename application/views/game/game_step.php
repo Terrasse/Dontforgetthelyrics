@@ -12,7 +12,7 @@
 			<?php echo $name; ?>
 		</div>
 	</div>
-	<div class="eight columns">
+	<div class="eight columns" style="text-align: justify">
 		<?php
 			echo $lyrics;
 		?>
