@@ -59,6 +59,7 @@ class Player extends MY_Controller {
 			{
 				$datas_player['result'][$j]['music'] = "/";
 				$datas_player['result'][$j]['result'] = "/";
+				$datas_player['result'][$j]['name'] = "/";
 			}
 		}
 		else
