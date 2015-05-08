@@ -45,15 +45,15 @@ class Game extends MY_Controller {
 				$lyrics = explode(' ', $row->lyrics);
 				foreach($lyrics as $word){
 					$hole = rand(0, 9);
-					if($hole == 9){
+					if(($hole == 9) && ($i<=30)){
 						$datas_music['lyrics'][] = '<input placeholder="Complete the field" name="word'.$i.'">';
-						$datas_music['word'][$i] = $word;
+						$datas_music['lyrics'][] = '<input type="hidden" placeholder="Complete the field" value="'.$word.'" name="solution'.$i.'">';
+						$i++;
 					}
 					else
 					{
 						$datas_music['lyrics'][] = $word;
 					}
-					$i++;
 				}
 				
 				$datas_music['album_name'] = $row->album_name;
@@ -82,5 +82,10 @@ class Game extends MY_Controller {
 			$this->game_step($id_music_selected);
 		
 		}
+	}
+	
+	public function result()
+	{
+		
 	}
 }

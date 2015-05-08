@@ -13,11 +13,14 @@
 		</div>
 	</div>
 	<div class="eight columns" style="text-align: justify">
-		<form action="" method="post">
-		<?php
-			foreach($lyrics as $word)
-				echo $word.' ';
-		?>
+		<form action="<?php echo base_url(); ?>game/result" method="post">
+			<?php
+				foreach($lyrics as $word)
+					echo $word.' ';
+			?>
+			<br />
+			<br />
+			<input type="submit" value="Send my lyrics" />
 		</form>
 	</div>
 </div>
