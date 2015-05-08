@@ -26,6 +26,9 @@
 		<script src="<?php echo base_url();?>assets/audio/build/jquery.js"></script>	
 		<script src="<?php echo base_url();?>assets/audio/build/mediaelement-and-player.min.js"></script>
 		<link rel="stylesheet" href="<?php echo base_url();?>assets/audio/build/mediaelementplayer.min.css" />
+	
+		<link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+		<script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
 	</head>
 	<body>
 		<div id="site">

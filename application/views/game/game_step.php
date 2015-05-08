@@ -14,12 +14,15 @@
 	</div>
 	<div class="eight columns" style="text-align: justify">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
+			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
 			<?php
 				foreach($lyrics as $word)
 					echo $word.' ';
 			?>
 			<br />
+			<?php echo $nb_words_form_hidden; ?>
 			<br />
+			<input type="hidden" value="<?php echo $id_music; ?>" name="id_music" />
 			<input type="submit" value="Send my lyrics" />
 		</form>
 	</div>

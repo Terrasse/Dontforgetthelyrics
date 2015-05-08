@@ -3,6 +3,7 @@
 class Result_class extends CI_Model
 {
 	protected $tResult = 'result';
+	protected $tMusic = 'music';
 	
 	/**
 	 *	Add a result to the db
@@ -73,6 +74,20 @@ class Result_class extends CI_Model
 								AND r.id_music = m.id_music
 								ORDER BY result DESC
 								LIMIT 5
+								");
+	}
+	
+	/**
+	 *	Return rank of the result u gave
+	 */
+	public function getRankResult($id_music, $score)
+	{
+		return $this->db->query("
+								SELECT DISTINCT *
+								FROM ".$this->tResult." r, ".$this->tMusic." m
+								WHERE r.id_music = ".$id_music."
+								AND r.id_music = m.id_music
+								ORDER BY result DESC
 								");
 	}
 }

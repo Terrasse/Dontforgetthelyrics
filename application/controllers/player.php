@@ -43,6 +43,7 @@ class Player extends MY_Controller {
 		$query_result = $this->result_class->getBestResult($id_player);
 		if ($query_result->num_rows() > 0)
 		{
+			$datas_player['empty_result'] = false;
 			foreach($query_result->result() as $row)
 			{
 				$datas_player['result'][$i]['music'] = $row->title;
@@ -58,6 +59,10 @@ class Player extends MY_Controller {
 				$datas_player['result'][$j]['music'] = "/";
 				$datas_player['result'][$j]['result'] = "/";
 			}
+		}
+		else
+		{
+			$datas_player['empty_result'] = true;
 		}
 			
 		$this->layout->view('profile/player_profile', $datas_player);
