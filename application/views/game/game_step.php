@@ -12,6 +12,7 @@
 			<?php echo $name; ?>
 		</div>
 	</div>
+<<<<<<< HEAD
 	<div class="eight columns" style="text-align: justify; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
@@ -25,6 +26,13 @@
 			<input type="hidden" value="<?php echo $id_music; ?>" name="id_music" />
 			<input type="submit" value="Send my lyrics" />
 		</form>
+=======
+	<div class="eight columns" style="text-align: justify">
+		<?php
+			echo $lyrics;
+		?>
+		<iframe src="https://embed.spotify.com/?uri=spotify:track:539HpTjkmnhbPn3p7mjByN" frameborder="0" allowtransparency="true"></iframe>'
+>>>>>>> API spotify with bug
 	</div>
 </div>
 
