@@ -38,6 +38,19 @@ class Music_class extends CI_Model {
 	}
 
 	/**
+	 *	Return datas from a music
+	 */
+	public function getMusic($id_music) {
+		return $this -> db -> query("
+								SELECT *
+								FROM " . $this -> tMusic . " 
+								INNER JOIN " . $this -> tArtist . " ON " . $this -> tArtist . ".id_artist = " . $this -> tMusic . ".id_artist
+								INNER JOIN " . $this -> tAlbum . " ON " . $this -> tAlbum . ".id_album = " . $this -> tMusic . ".id_album
+								WHERE id_music = " . $id_music . "
+								");
+	}
+
+	/**
 	 *	Return datas from all musics
 	 */
 	public function getMusics() {
@@ -109,7 +122,6 @@ class Music_class extends CI_Model {
 		// start wamp-server
 		//
 		// enjoy exec() and co.
-
 		var_dump($jsonData);
 		// exec_shell('curl -X GET "' . $apiCall . '" -H "Accept: application/json" >>' . base_url() . 'application\logs\log_curl.php ');
 		return $jsonData;
