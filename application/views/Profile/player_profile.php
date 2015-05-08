@@ -26,19 +26,19 @@
 			{
 			?>
 				<div id="row">
-					<h5 class="one columns">1</h5><h5 class="ten columns"><?php echo $result[1]['music']; ?></h5><h5 class="one columns"><?php echo $result[1]['result']; ?>%</h5>
+					<h5 class="one columns">1</h5><h5 class="ten columns"><?php echo $result[1]['name'].' - '.$result[1]['music']; ?></h5><h5 class="one columns"><?php echo $result[1]['result']; ?>%</h5>
 				</div>
 				<div id="row">
-					<h5 class="one columns">2</h5><h5 class="ten columns"><?php echo $result[2]['music']; ?></h5><h5 class="one columns"><?php echo $result[2]['result']; ?>%</h5>
+					<h5 class="one columns">2</h5><h5 class="ten columns"><?php echo $result[2]['name'].' - '.$result[2]['music']; ?></h5><h5 class="one columns"><?php echo $result[2]['result']; ?>%</h5>
 				</div>
 				<div id="row">
-					<h5 class="one columns">3</h5><h5 class="ten columns"><?php echo $result[3]['music']; ?></h5><h5 class="one columns"><?php echo $result[3]['result']; ?>%</h5>
+					<h5 class="one columns">3</h5><h5 class="ten columns"><?php echo $result[3]['name'].' - '.$result[3]['music']; ?></h5><h5 class="one columns"><?php echo $result[3]['result']; ?>%</h5>
 				</div>
 				<div id="row">
-					<h5 class="one columns">4</h5><h5 class="ten columns"><?php echo $result[4]['music']; ?></h5><h5 class="one columns"><?php echo $result[4]['result']; ?>%</h5>
+					<h5 class="one columns">4</h5><h5 class="ten columns"><?php echo $result[4]['name'].' - '.$result[4]['music']; ?></h5><h5 class="one columns"><?php echo $result[4]['result']; ?>%</h5>
 				</div>
 				<div id="row">
-					<h5 class="one columns">5</h5><h5 class="ten columns"><?php echo $result[5]['music']; ?></h5><h5 class="one columns"><?php echo $result[5]['result']; ?>%</h5>
+					<h5 class="one columns">5</h5><h5 class="ten columns"><?php echo $result[5]['name'].' - '.$result[5]['music'];; ?></h5><h5 class="one columns"><?php echo $result[5]['result']; ?>%</h5>
 				</div>
 			<?php
 			}

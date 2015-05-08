@@ -48,6 +48,7 @@ class Player extends MY_Controller {
 			{
 				$datas_player['result'][$i]['music'] = $row->title;
 				$datas_player['result'][$i]['result'] = $row->result;
+				$datas_player['result'][$i]['name'] = $row->name;
 				$i++;
 				
 				if ($i > 5)

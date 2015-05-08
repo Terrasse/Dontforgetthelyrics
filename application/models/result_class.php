@@ -4,6 +4,7 @@ class Result_class extends CI_Model
 {
 	protected $tResult = 'result';
 	protected $tMusic = 'music';
+	protected $tArtist = 'artist';
 	
 	/**
 	 *	Add a result to the db
@@ -69,9 +70,10 @@ class Result_class extends CI_Model
 	{
 		return $this->db->query("
 								SELECT *
-								FROM ".$this->tResult." r, music m
+								FROM ".$this->tResult." r, ".$this->tMusic." m, ".$this->tArtist." a
 								WHERE id_player = ".$id_player."
 								AND r.id_music = m.id_music
+								AND m.id_artist = a.id_artist
 								ORDER BY result DESC
 								LIMIT 5
 								");
