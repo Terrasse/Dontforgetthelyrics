@@ -11,10 +11,9 @@ class Music_spotify extends MY_Controller {
 		$this->output->enable_profiler(TRUE);
 		
 		// Modeles
-		$this->load->model('music_class');
-		$this->music_class->test();
-		$this->music_class->autorization();
-		$this->music_class->searchMusic("Muse",10,0);
+		$this->load->model('spotifyAPI_class');
+		$musiques= $this->spotifyAPI_class->searchMusics("in da club",0);
+		var_dump($musiques);
 	}
 	
 	public function index()
