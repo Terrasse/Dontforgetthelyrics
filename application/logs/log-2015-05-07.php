@@ -20139,3 +20139,1594 @@ DEBUG - 2015-05-07 18:47:30 --> UTF-8 Support Enabled
 DEBUG - 2015-05-07 18:47:30 --> URI Class Initialized
 DEBUG - 2015-05-07 18:47:30 --> Router Class Initialized
 ERROR - 2015-05-07 18:47:30 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:41 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:41 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:41 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:41 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:41 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:41 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 18:48:41 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:41 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 18:48:41 --> Helper loaded: text_helper
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:41 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 18:48:41 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:41 --> Total execution time: 0.0392
+DEBUG - 2015-05-07 18:48:41 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:41 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:41 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:41 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:42 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:42 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:42 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:42 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:42 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-07 18:48:42 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:42 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:42 --> Total execution time: 0.0424
+DEBUG - 2015-05-07 18:48:42 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:42 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:42 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:42 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:42 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:42 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:42 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:42 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:42 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:42 --> Helper loaded: form_helper
+DEBUG - 2015-05-07 18:48:42 --> Form Validation Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:43 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 18:48:43 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:43 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:43 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:43 --> A session cookie was not found.
+DEBUG - 2015-05-07 18:48:43 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:43 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 18:48:43 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:43 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 18:48:43 --> Helper loaded: text_helper
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:43 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 18:48:43 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:43 --> Total execution time: 0.1495
+DEBUG - 2015-05-07 18:48:43 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:43 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:43 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:43 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:44 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:44 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:44 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:44 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:44 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:44 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:44 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:44 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:44 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:44 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Helper loaded: form_helper
+DEBUG - 2015-05-07 18:48:44 --> Form Validation Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> File loaded: application/views/connection/connection.php
+DEBUG - 2015-05-07 18:48:44 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:44 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:44 --> Total execution time: 0.0840
+DEBUG - 2015-05-07 18:48:44 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:44 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:44 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:44 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:46 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:46 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:46 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:46 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:46 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:46 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Helper loaded: form_helper
+DEBUG - 2015-05-07 18:48:46 --> Form Validation Class Initialized
+DEBUG - 2015-05-07 18:48:46 --> Language file loaded: language/french/form_validation_lang.php
+DEBUG - 2015-05-07 18:48:46 --> XSS Filtering completed
+DEBUG - 2015-05-07 18:48:46 --> XSS Filtering completed
+DEBUG - 2015-05-07 18:48:47 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:47 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 18:48:47 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:47 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:47 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:47 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:47 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 18:48:47 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:47 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 18:48:47 --> Helper loaded: text_helper
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:47 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 18:48:47 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:47 --> Total execution time: 0.0385
+DEBUG - 2015-05-07 18:48:47 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:47 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:47 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:47 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:49 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:49 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:49 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:49 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:49 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:49 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:49 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:49 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:49 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:49 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 18:48:49 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:49 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 18:48:49 --> Helper loaded: text_helper
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:49 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 18:48:49 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:49 --> Total execution time: 0.0433
+DEBUG - 2015-05-07 18:48:49 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:49 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:49 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:49 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 18:48:52 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:52 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Router Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 18:48:52 --> Output Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Security Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Input Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 18:48:52 --> Language Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Loader Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 18:48:52 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Session Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 18:48:52 --> Session routines successfully run
+DEBUG - 2015-05-07 18:48:52 --> Controller Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Model Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 18:48:52 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 18:48:52 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 18:48:52 --> Helper loaded: text_helper
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 18:48:52 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 18:48:52 --> Final output sent to browser
+DEBUG - 2015-05-07 18:48:52 --> Total execution time: 0.0417
+DEBUG - 2015-05-07 18:48:52 --> Config Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Hooks Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 18:48:52 --> URI Class Initialized
+DEBUG - 2015-05-07 18:48:52 --> Router Class Initialized
+ERROR - 2015-05-07 18:48:52 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 19:58:16 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:16 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:16 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:16 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:16 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:17 --> Session garbage collection performed.
+DEBUG - 2015-05-07 19:58:17 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:17 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:17 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:17 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:17 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:17 --> Session garbage collection performed.
+DEBUG - 2015-05-07 19:58:17 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:17 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 19:58:17 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 19:58:17 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 19:58:17 --> Helper loaded: text_helper
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:17 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 19:58:17 --> Final output sent to browser
+DEBUG - 2015-05-07 19:58:17 --> Total execution time: 0.0589
+DEBUG - 2015-05-07 19:58:17 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:17 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:17 --> Router Class Initialized
+ERROR - 2015-05-07 19:58:17 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 19:58:18 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:18 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:18 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:18 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:18 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:18 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 19:58:18 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 19:58:18 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 19:58:18 --> Helper loaded: text_helper
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:18 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 19:58:18 --> Final output sent to browser
+DEBUG - 2015-05-07 19:58:18 --> Total execution time: 0.2063
+DEBUG - 2015-05-07 19:58:18 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:18 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:18 --> Router Class Initialized
+ERROR - 2015-05-07 19:58:18 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 19:58:20 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:20 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:20 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:20 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:20 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:20 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:20 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:20 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:20 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:20 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:20 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 19:58:20 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 19:58:20 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 19:58:20 --> Helper loaded: text_helper
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:20 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 19:58:20 --> Final output sent to browser
+DEBUG - 2015-05-07 19:58:20 --> Total execution time: 0.0468
+DEBUG - 2015-05-07 19:58:20 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:20 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:20 --> Router Class Initialized
+ERROR - 2015-05-07 19:58:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 19:58:26 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:26 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Router Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Output Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Security Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Input Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 19:58:26 --> Language Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Loader Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 19:58:26 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Session Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 19:58:26 --> Session routines successfully run
+DEBUG - 2015-05-07 19:58:26 --> Controller Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Model Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 19:58:26 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 19:58:26 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 19:58:26 --> Helper loaded: text_helper
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 19:58:26 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 19:58:26 --> Final output sent to browser
+DEBUG - 2015-05-07 19:58:26 --> Total execution time: 0.0402
+DEBUG - 2015-05-07 19:58:26 --> Config Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Hooks Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 19:58:26 --> URI Class Initialized
+DEBUG - 2015-05-07 19:58:26 --> Router Class Initialized
+ERROR - 2015-05-07 19:58:26 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:46:31 --> Config Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:46:31 --> URI Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Router Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Output Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Security Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Input Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:46:31 --> Language Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:46:31 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Session Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:46:31 --> Session routines successfully run
+DEBUG - 2015-05-07 20:46:31 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Model Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> Model Class Initialized
+DEBUG - 2015-05-07 20:46:31 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:46:31 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:46:31 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:46:31 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:46:31 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:46:31 --> Final output sent to browser
+DEBUG - 2015-05-07 20:46:31 --> Total execution time: 0.4731
+DEBUG - 2015-05-07 20:46:32 --> Config Class Initialized
+DEBUG - 2015-05-07 20:46:32 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:46:32 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:46:32 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:46:32 --> URI Class Initialized
+DEBUG - 2015-05-07 20:46:32 --> Router Class Initialized
+ERROR - 2015-05-07 20:46:32 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:49:34 --> Config Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:49:34 --> URI Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Router Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Output Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Security Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Input Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:49:34 --> Language Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:49:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Session Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:49:34 --> Session routines successfully run
+DEBUG - 2015-05-07 20:49:34 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Model Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Model Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Config Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:49:34 --> URI Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Router Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Output Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Security Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Input Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:49:34 --> Language Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:49:34 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Session Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:49:34 --> Session routines successfully run
+DEBUG - 2015-05-07 20:49:34 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Model Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Model Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 20:49:34 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:49:34 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:49:34 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:49:34 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:49:34 --> Final output sent to browser
+DEBUG - 2015-05-07 20:49:34 --> Total execution time: 0.0581
+DEBUG - 2015-05-07 20:49:34 --> Config Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:49:34 --> URI Class Initialized
+DEBUG - 2015-05-07 20:49:34 --> Router Class Initialized
+ERROR - 2015-05-07 20:49:34 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:50:06 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:06 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 20:50:06 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:06 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:06 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:06 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:06 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:06 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:50:06 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:50:06 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:50:06 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:06 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:50:06 --> Final output sent to browser
+DEBUG - 2015-05-07 20:50:06 --> Total execution time: 0.0413
+DEBUG - 2015-05-07 20:50:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Router Class Initialized
+ERROR - 2015-05-07 20:50:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:50:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:07 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:07 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:07 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:08 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:08 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:08 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:08 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:08 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 20:50:08 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:50:08 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:50:08 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:08 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:50:08 --> Final output sent to browser
+DEBUG - 2015-05-07 20:50:08 --> Total execution time: 0.0396
+DEBUG - 2015-05-07 20:50:08 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:08 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:08 --> Router Class Initialized
+ERROR - 2015-05-07 20:50:08 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:50:20 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:20 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:20 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:20 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:20 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:20 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:50:20 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:50:20 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:50:20 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:20 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:50:20 --> Final output sent to browser
+DEBUG - 2015-05-07 20:50:20 --> Total execution time: 0.0446
+DEBUG - 2015-05-07 20:50:20 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:20 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:20 --> Router Class Initialized
+ERROR - 2015-05-07 20:50:20 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:50:21 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:21 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 20:50:21 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:21 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:21 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:21 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:21 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:50:21 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:50:21 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:50:21 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:21 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:50:21 --> Final output sent to browser
+DEBUG - 2015-05-07 20:50:21 --> Total execution time: 0.0438
+DEBUG - 2015-05-07 20:50:21 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:21 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:21 --> Router Class Initialized
+ERROR - 2015-05-07 20:50:21 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:50:23 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:23 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:23 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:23 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:23 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:23 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:23 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Router Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Output Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Security Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Input Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:50:23 --> Language Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:50:23 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Session Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:50:23 --> Session routines successfully run
+DEBUG - 2015-05-07 20:50:23 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 20:50:23 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:50:23 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:50:23 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:50:23 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:50:23 --> Final output sent to browser
+DEBUG - 2015-05-07 20:50:23 --> Total execution time: 0.0421
+DEBUG - 2015-05-07 20:50:23 --> Config Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:50:23 --> URI Class Initialized
+DEBUG - 2015-05-07 20:50:23 --> Router Class Initialized
+ERROR - 2015-05-07 20:50:23 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:52:05 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:05 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Router Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Output Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Security Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Input Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:52:05 --> Language Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:52:05 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Session Class Initialized
+DEBUG - 2015-05-07 20:52:05 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:52:06 --> Session routines successfully run
+DEBUG - 2015-05-07 20:52:06 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:52:06 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:52:06 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:52:06 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:06 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:52:06 --> Final output sent to browser
+DEBUG - 2015-05-07 20:52:06 --> Total execution time: 0.1996
+DEBUG - 2015-05-07 20:52:06 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:06 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:06 --> Router Class Initialized
+ERROR - 2015-05-07 20:52:06 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:52:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Router Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Output Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Security Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Input Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:52:07 --> Language Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:52:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Session Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:52:07 --> Session routines successfully run
+DEBUG - 2015-05-07 20:52:07 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Router Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Output Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Security Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Input Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:52:07 --> Language Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:52:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Session Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:52:07 --> Session routines successfully run
+DEBUG - 2015-05-07 20:52:07 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 20:52:07 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:52:07 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:52:07 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:07 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:52:07 --> Final output sent to browser
+DEBUG - 2015-05-07 20:52:07 --> Total execution time: 0.0421
+DEBUG - 2015-05-07 20:52:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:07 --> Router Class Initialized
+ERROR - 2015-05-07 20:52:07 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:52:40 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:40 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Router Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> No URI present. Default controller set.
+DEBUG - 2015-05-07 20:52:40 --> Output Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Security Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Input Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:52:40 --> Language Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:52:40 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Session Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:52:40 --> Session routines successfully run
+DEBUG - 2015-05-07 20:52:40 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Model Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:52:40 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:52:40 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:52:40 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:52:40 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:52:40 --> Final output sent to browser
+DEBUG - 2015-05-07 20:52:40 --> Total execution time: 0.0436
+DEBUG - 2015-05-07 20:52:40 --> Config Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:52:40 --> URI Class Initialized
+DEBUG - 2015-05-07 20:52:40 --> Router Class Initialized
+ERROR - 2015-05-07 20:52:40 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:07 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:07 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:07 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:07 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:07 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:08 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:08 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-07 20:53:08 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:08 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:08 --> Total execution time: 0.1081
+DEBUG - 2015-05-07 20:53:08 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:08 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:08 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:08 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:09 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:09 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:09 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:09 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:09 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:09 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:53:09 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:09 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:53:09 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:09 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:53:09 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:09 --> Total execution time: 0.0635
+DEBUG - 2015-05-07 20:53:09 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:09 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:09 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:09 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:10 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:10 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:10 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:10 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:10 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:10 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:10 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-07 20:53:10 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:10 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:10 --> Total execution time: 0.0422
+DEBUG - 2015-05-07 20:53:11 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:11 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:11 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:11 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:11 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:11 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:11 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:12 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:12 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:12 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:12 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:12 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:12 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:53:12 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:12 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:53:12 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:12 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:53:12 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:12 --> Total execution time: 0.0407
+DEBUG - 2015-05-07 20:53:12 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:12 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:12 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:12 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:13 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:13 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:13 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:13 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:13 --> Session garbage collection performed.
+DEBUG - 2015-05-07 20:53:13 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:13 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:13 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:13 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:13 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:13 --> Session garbage collection performed.
+DEBUG - 2015-05-07 20:53:13 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:13 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> File loaded: application/views/game/game_step.php
+DEBUG - 2015-05-07 20:53:13 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:13 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:53:13 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:13 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:53:13 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:13 --> Total execution time: 0.0410
+DEBUG - 2015-05-07 20:53:13 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:13 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:13 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:13 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:23 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:23 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:23 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:23 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:23 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:23 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> File loaded: application/views/game/launch_game.php
+DEBUG - 2015-05-07 20:53:23 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:23 --> Language file loaded: language/french/profiler_lang.php
+DEBUG - 2015-05-07 20:53:23 --> Helper loaded: text_helper
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_headers"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_session_data"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_config"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_hide"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+ERROR - 2015-05-07 20:53:23 --> Could not find the language line "profiler_section_show"
+DEBUG - 2015-05-07 20:53:23 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:23 --> Total execution time: 0.0402
+DEBUG - 2015-05-07 20:53:23 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:23 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:23 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:23 --> 404 Page Not Found --> assets
+DEBUG - 2015-05-07 20:53:24 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:24 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Router Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Output Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Security Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Input Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-05-07 20:53:24 --> Language Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Loader Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Helper loaded: url_helper
+DEBUG - 2015-05-07 20:53:24 --> Database Driver Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Session Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Helper loaded: string_helper
+DEBUG - 2015-05-07 20:53:24 --> Session routines successfully run
+DEBUG - 2015-05-07 20:53:24 --> Controller Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Model Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> File loaded: application/views/profile/player_profile.php
+DEBUG - 2015-05-07 20:53:24 --> File loaded: application/views/../views/theme.php
+DEBUG - 2015-05-07 20:53:24 --> Final output sent to browser
+DEBUG - 2015-05-07 20:53:24 --> Total execution time: 0.0409
+DEBUG - 2015-05-07 20:53:24 --> Config Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Hooks Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Utf8 Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> UTF-8 Support Enabled
+DEBUG - 2015-05-07 20:53:24 --> URI Class Initialized
+DEBUG - 2015-05-07 20:53:24 --> Router Class Initialized
+ERROR - 2015-05-07 20:53:24 --> 404 Page Not Found --> assets
