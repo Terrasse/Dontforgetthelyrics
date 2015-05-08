@@ -12,12 +12,11 @@ class SpotifyAPI_class extends CI_Model {
 		$output = self::_callAPI('/search', array('q' => $name_musique, 'type' => "track", 'market' => "US", 'limit' => 50, 'offset' => $offset));
 		if ($output != 0) {
 			foreach ($output['tracks']['items'] as $key => $tracks_values) {
-				$current_tracks = $output['tracks']['items'][$key];
-				if ($current_tracks['explicit'] == TRUE) {
-					$musics[$current_tracks['name']]["spotify_id"] = $current_tracks['uri'];
-					$musics[$current_tracks['name']]["album"] = $current_tracks['album']['name'];
-					foreach($current_tracks['artists'] as $key_artist => $artiste_values){
-						$musics[$current_tracks['name']]['artists'][$key_artist]= $artiste_values['name'];
+				if ($tracks_values['explicit'] == TRUE) {
+					$musics[$tracks_values['uri']]['name'] = $tracks_values['name'];
+					$musics[$tracks_values['uri']]['album'] = $tracks_values['album']['name'];
+					foreach($tracks_values['artists'] as $key_artist => $artiste_values){
+						$musics[$tracks_values['uri']]['artists'][$key_artist]= $artiste_values['name'];
 					}
 				}
 				
@@ -25,7 +24,6 @@ class SpotifyAPI_class extends CI_Model {
 			return $musics;
 		} else
 			return array();
-
 	}
 
 	/**
