@@ -1,1 +1,35 @@
-<?php echo $username.' '.$password; ?>
+<section id="row">
+	<div class="six columns" style="padding-bottom: 5%">
+		<div id="row">
+			<h4>My profile</h4>
+		</div>
+		<div id="row">
+			<h5 class="six columns">Username</h5><span class="result"><h5 class="six columns"><?php echo $username; ?></h5></span>
+		</div>
+	</div>
+	<div class="six columns" style="padding-bottom: 5%">
+		<div id="row">
+			<h4>My best result</h4>
+		</div>
+		<div id="row">
+			<h5 class="one columns">N°</h5><h5 class="ten columns">Music title</h5><h5 class="one columns">Result</h5>
+		</div>
+		<div class="result">
+			<div id="row">
+				<h5 class="one columns">1</h5><h5 class="ten columns"><?php echo $result[1]['music']; ?></h5><h5 class="one columns"><?php echo $result[1]['result']; ?></h5>
+			</div>
+			<div id="row">
+				<h5 class="one columns">2</h5><h5 class="ten columns"><?php echo $result[2]['music']; ?></h5><h5 class="one columns"><?php echo $result[2]['result']; ?></h5>
+			</div>
+			<div id="row">
+				<h5 class="one columns">3</h5><h5 class="ten columns"><?php echo $result[3]['music']; ?></h5><h5 class="one columns"><?php echo $result[3]['result']; ?></h5>
+			</div>
+			<div id="row">
+				<h5 class="one columns">4</h5><h5 class="ten columns"><?php echo $result[4]['music']; ?></h5><h5 class="one columns"><?php echo $result[4]['result']; ?></h5>
+			</div>
+			<div id="row">
+				<h5 class="one columns">5</h5><h5 class="ten columns"><?php echo $result[5]['music']; ?></h5><h5 class="one columns"><?php echo $result[5]['result']; ?></h5>
+			</div>
+		</div>
+	</div>
+</section>

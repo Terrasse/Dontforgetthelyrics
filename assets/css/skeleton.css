@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Skeleton V2.0.4
 * Copyright 2014, Dave Gamache
 * www.getskeleton.com
@@ -417,3 +417,10 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+/* Us
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.result h5
+{
+	color: black;
+}

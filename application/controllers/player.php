@@ -12,6 +12,7 @@ class Player extends MY_Controller {
 		
 		// Modeles
 		$this->load->model('player_class');
+		$this->load->model('result_class');
 	}
 	
 	public function index()
@@ -27,7 +28,6 @@ class Player extends MY_Controller {
 	{	
 		
 		// Modeles
-		// $this->load->model('nouvelles/modnouvelles');
 		
 		$query_player = $this->player_class->getPlayer($id_player);
 		if ($query_player->num_rows() > 0)
@@ -35,8 +35,28 @@ class Player extends MY_Controller {
 			foreach($query_player->result() as $row)
 			{
 				$datas_player['username'] = $row->username;
-				$datas_player['password'] = $row->password;
-				$datas_player['best_result'] = $row->best_result;
+			}
+		}
+		
+		$i = 1;
+		
+		$query_result = $this->result_class->getBestResult($id_player);
+		if ($query_result->num_rows() > 0)
+		{
+			foreach($query_result->result() as $row)
+			{
+				$datas_player['result'][$i]['music'] = $row->title;
+				$datas_player['result'][$i]['result'] = $row->result;
+				$i++;
+				
+				if ($i > 5)
+					break;
+			}
+			
+			for ($j = $i ; $j <= 5 ; $j++)
+			{
+				$datas_player['result'][$j]['music'] = "/";
+				$datas_player['result'][$j]['result'] = "/";
 			}
 		}
 			

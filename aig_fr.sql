@@ -1,13 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 3.5.1
+-- version 4.1.14
 -- http://www.phpmyadmin.net
 --
--- Client: localhost
--- Généré le: Jeu 07 Mai 2015 à 18:38
--- Version du serveur: 5.5.24-log
--- Version de PHP: 5.3.13
+-- Client :  127.0.0.1
+-- Généré le :  Ven 08 Mai 2015 à 12:46
+-- Version du serveur :  5.6.17
+-- Version de PHP :  5.5.12
 
-SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de données: `aig_fr`
+-- Base de données :  `aig_fr`
 --
 
 -- --------------------------------------------------------
@@ -87,7 +87,7 @@ CREATE TABLE IF NOT EXISTS `ci_sessions` (
 --
 
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
-('73d447c938ccef9fd8df247475ad25e7', '127.0.0.1', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0', 1431023124, 'a:3:{s:9:"user_data";s:0:"";s:9:"id_player";s:1:"2";s:9:"connected";b:1;}');
+('94fd3c3c81d654a966f14547fd61ca6b', '127.0.0.1', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0', 1431081749, 'a:3:{s:9:"user_data";s:0:"";s:9:"id_player";s:1:"1";s:9:"connected";b:1;}');
 
 -- --------------------------------------------------------
 
@@ -138,6 +138,28 @@ INSERT INTO `player` (`id_player`, `username`, `best_result`, `password`) VALUES
 (1, 'Choudoor', 50, '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8'),
 (2, 'hAppywAy', 0, 'f7c38e1502a5575d9a0bbe75de436d72cbf7819860eaa2c53a09e887bca88b66');
 
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `result`
+--
+
+CREATE TABLE IF NOT EXISTS `result` (
+  `id_player` int(11) NOT NULL,
+  `id_music` int(11) NOT NULL,
+  `result` int(11) DEFAULT '0',
+  KEY `id_musique` (`id_music`),
+  KEY `id_player` (`id_player`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Contenu de la table `result`
+--
+
+INSERT INTO `result` (`id_player`, `id_music`, `result`) VALUES
+(1, 2, 50),
+(1, 3, 150);
+
 --
 -- Contraintes pour les tables exportées
 --
@@ -148,6 +170,13 @@ INSERT INTO `player` (`id_player`, `username`, `best_result`, `password`) VALUES
 ALTER TABLE `music`
   ADD CONSTRAINT `music_album` FOREIGN KEY (`id_album`) REFERENCES `album` (`id_album`),
   ADD CONSTRAINT `music_artist` FOREIGN KEY (`id_artist`) REFERENCES `artist` (`id_artist`);
+
+--
+-- Contraintes pour la table `result`
+--
+ALTER TABLE `result`
+  ADD CONSTRAINT `result_music` FOREIGN KEY (`id_music`) REFERENCES `music` (`id_music`),
+  ADD CONSTRAINT `result_player` FOREIGN KEY (`id_player`) REFERENCES `player` (`id_player`);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
