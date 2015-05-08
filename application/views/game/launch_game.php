@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<div class="two columns">&nbsp;</div>
-		<div class="eight columns"><h4>Your favorite english music teaching game</h4></div>
+		<div class="eight columns"><h4>Start a new game is the best way to improve your english !</h4></div>
 		<div class="two columns">&nbsp;</div>
 	</div>
 	<div class="row">

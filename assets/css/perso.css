@@ -3,7 +3,7 @@ body {
 	padding: 0px;
 	background-image: #272727/*#e3e3e3*/;
 	width: 100%;
-	height: 100%;
+	min-height: 100%;
 }
 
 input, textarea { 
@@ -85,7 +85,7 @@ a {
 
 .floatable {
 	position: fixed;
-	top: 0;
+	top: 20px;
 }
 
 .bouton_contact {
@@ -118,7 +118,7 @@ a {
 #main {
 	background-color: white;
 	margin : auto;
-	min-height: 100%;
+	min-height: 500px;
 	width: 1200px;
 	padding: 5% 0 5% 0;
 }
@@ -239,6 +239,7 @@ a {
 	margin : auto;
 	background-color: #1EAEDB;
 	border-bottom: 4px solid #0062bd;
+	font-size: 1.8rem;
 }
 
 .menu_bouton {
@@ -300,14 +301,14 @@ a {
 */
 
 #header {
-	background-color: #767676;
+	background-color: #E2E4E4;
+	min-height: 100%;
 }
 
 #logo_partenaire{
 	margin : auto;
 	width : 1200px;
 	height: 150px;
-	background-color: #767676;
 }
 
 #logo {
@@ -788,9 +789,9 @@ a {
 
 #footer {
 	float : left; 
-	height: 360px;
+	height: 60px;
 	min-width: 100%;
-	bottom: 0;
+	background-color : #272727;
 }
 
 #agence_logo_navigation_contact_bg {
@@ -986,10 +987,12 @@ a {
 	   ========================================================================================
 	*/
 
-	#tous_droits_aig_bg {
+	#tous_droits_reserves {
 		height: 60px;
 		width: 100%;
-		background-color : #272727;
+		color: white;
+		text-align: right;
+		font-size: 1.2rem;
 	}
 
 	#tous_droits_aig {

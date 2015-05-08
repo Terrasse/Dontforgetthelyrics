@@ -14,7 +14,7 @@ class Game extends MY_Controller {
 		$this->load->model('music_class');
 		$this->load->model('result_class');
 		
-		$this->output->enable_profiler(TRUE);
+		// $this->output->enable_profiler(TRUE);
 	}
 	
 	public function index()

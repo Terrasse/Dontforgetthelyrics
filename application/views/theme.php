@@ -38,7 +38,7 @@
 				</div>
 			</header>
 			<nav id="menu_bg">
-				<div id="menu">
+				<div style="margin:0px auto" id="menu">
 					<?php require 'application/views/menu.php'; ?>
 				</div>
 			</nav>
@@ -46,14 +46,10 @@
 				<?php echo $output; ?>
 			</div>
 			<footer id="footer">
-				<div id="agence_logo_navigation_contact_bg">
-					<div id="agence_logo_navigation_contact">
-					</div>
-				</div>
-				<div id="tous_droits_aig_bg">
-					<div id="tous_droits_aig">
-						TOUS DROITS RESERVES 2015 © OSEF<br/>
-						DEVELOPPEMENT ET DESIGN PAR OSEF
+				<div id="tous_droits_reserves" class="container">
+					<div class="twelve columns" style="margin: 10px 0 0 0;">
+						TOUS DROITS RESERVES 2015 © LTMIYE<br/>
+						DEVELOPPEMENT ET DESIGN PAR LTMIYE
 					</div>
 				</div>
 			</footer>

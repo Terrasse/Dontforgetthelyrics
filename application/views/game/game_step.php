@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="four columns">
+	<div id="music_player" class="four columns">
 		<div style="margin-bottom: 4%">
 			<audio style="margin: 1% 0 2% 0" id="player2" src="<?php echo base_url(); ?>assets/musiques/<?php echo $id_music; ?>.mp3" type="audio/mp3" controls="controls"></audio>
 		</div>
@@ -12,7 +12,7 @@
 			<?php echo $name; ?>
 		</div>
 	</div>
-	<div class="eight columns" style="text-align: justify">
+	<div class="eight columns" style="text-align: justify; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
 			<?php
@@ -29,5 +29,18 @@
 </div>
 
 <script>
-$('audio,video').mediaelementplayer();
+	var positionElementInPage = $('#music_player').offset().top;
+	$(window).scroll(
+		function() {
+			if ($(window).scrollTop() >= positionElementInPage) {
+				// fixed
+				$('#music_player').addClass("floatable");
+			} else {
+				// relative
+				$('#music_player').removeClass("floatable");
+			}
+		}
+	)
+	
+	$('audio,video').mediaelementplayer();
 </script>
