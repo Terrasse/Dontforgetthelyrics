@@ -1,6 +1,7 @@
 <div class="row">
 	<div id="music_player" class="four columns">
 		<div style="margin-bottom: 4%">
+			<iframe src="https://embed.spotify.com/?uri=spotify:track:539HpTjkmnhbPn3p7mjByN" frameborder="0" allowtransparency="true"></iframe>
 			<audio style="margin: 1% 0 2% 0" id="player2" src="<?php echo base_url(); ?>assets/musiques/<?php echo $id_music; ?>.mp3" type="audio/mp3" controls="controls"></audio>
 		</div>
 		<div>
@@ -12,7 +13,6 @@
 			<?php echo $name; ?>
 		</div>
 	</div>
-<<<<<<< HEAD
 	<div class="eight columns" style="text-align: justify; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
@@ -24,15 +24,8 @@
 			<?php echo $nb_words_form_hidden; ?>
 			<br />
 			<input type="hidden" value="<?php echo $id_music; ?>" name="id_music" />
-			<input type="submit" value="Send my lyrics" />
+			<input style="float: right;" class="button-primary" type="submit" value="Send my lyrics" />
 		</form>
-=======
-	<div class="eight columns" style="text-align: justify">
-		<?php
-			echo $lyrics;
-		?>
-		<iframe src="https://embed.spotify.com/?uri=spotify:track:539HpTjkmnhbPn3p7mjByN" frameborder="0" allowtransparency="true"></iframe>'
->>>>>>> API spotify with bug
 	</div>
 </div>
 

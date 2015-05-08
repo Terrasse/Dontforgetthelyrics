@@ -22,11 +22,16 @@ class Game extends MY_Controller {
 		$this->layout->view('game/launch_game');
 	}
 	
-	public function launch_game()
+	public function launch_game($mode = null)
 	{
 		if ($this->session->userdata('connected'))
 		{
-			redirect('game/randomMusic');
+			if($mode == "randompick")
+				redirect('game/randomMusic');
+			else if($mode == "pick")
+				redirect('game/chooseMusic');
+			else
+				$this->layout->view('game/game_choice');
 		}
 		else
 		{
@@ -90,6 +95,24 @@ class Game extends MY_Controller {
 		}
 	}
 	
+	public function chooseMusic()
+	{
+		
+		$this->form_validation->set_rules('track_name', '"Name of the track"', 'trim|required|min_length[1]|max_length[52]|alpha_dash|encode_php_tags|xss_clean');
+		$track_name = $this->input->post('track_name');
+		
+		if($this->form_validation->run())
+		{
+			//	Le formulaire est valide
+			$query_music = $this->music_class->searchMusic($track_name,9,0);
+		}
+		else
+		{
+			//	Le formulaire est invalide ou vide
+			$this->layout->view('game/game_music_pick');
+		}
+	}
+	
 	public function result()
 	{
 		$nb_words = $this->input->post('nb_words_form_hidden');
@@ -143,4 +166,5 @@ class Game extends MY_Controller {
 		
 		$this->layout->view('game/game_result', $data_result);
 	}
+	
 }
