@@ -23,7 +23,7 @@ class Game extends MY_Controller {
 	{
 		if ($this->session->userdata('connected'))
 		{
-			redirect('game/game_step/1');
+			redirect('game/randomMusic');
 		}
 		else
 		{
@@ -40,7 +40,12 @@ class Game extends MY_Controller {
 			{
 				$datas_music['id_music'] = $row->id_music;
 				$datas_music['title'] = $row->title;
-				$datas_music['lyrics'] = $row->lyrics;
+				
+				$lyrics = explode(' ', $row->lyrics);
+				foreach($lyrics as $word){
+					$datas_music['lyrics'][] = $word;
+				}
+				
 				$datas_music['album_name'] = $row->album_name;
 				$datas_music['name'] = $row->name;
 				$datas_music['firstname'] = $row->firstname;
@@ -48,5 +53,24 @@ class Game extends MY_Controller {
 		}
 			
 		$this->layout->view('game/game_step', $datas_music);
+	}
+	
+	public function randomMusic()
+	{
+		$query_music = $this->music_class->getMusics();
+		if ($query_music->num_rows() > 0)
+		{
+			foreach($query_music->result() as $row)
+			{
+				$id_musics[] = $row->id_music;
+			}
+			
+			$max = max($id_musics);
+			$min = min($id_musics);
+			$id_music_selected = rand($min, $max);
+
+			$this->game_step($id_music_selected);
+		
+		}
 	}
 }

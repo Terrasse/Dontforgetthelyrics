@@ -13,9 +13,12 @@
 		</div>
 	</div>
 	<div class="eight columns" style="text-align: justify">
+		<form action="" method="post">
 		<?php
-			echo $lyrics;
+			foreach($lyrics as $word)
+				echo $word;
 		?>
+		</form>
 	</div>
 </div>
 

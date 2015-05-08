@@ -50,4 +50,17 @@ class Music_class extends CI_Model
 								");
 	}
 	
+	/**
+	 *	Return datas from all musics
+	 */
+	public function getMusics()
+	{
+		return $this->db->query("
+								SELECT *
+								FROM ".$this->tMusic." 
+								INNER JOIN ".$this->tArtist." ON ".$this->tArtist.".id_artist = ".$this->tMusic.".id_artist
+								INNER JOIN ".$this->tAlbum." ON ".$this->tAlbum.".id_album = ".$this->tMusic.".id_album
+								");
+	}
+	
 }
