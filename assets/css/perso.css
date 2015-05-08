@@ -266,6 +266,17 @@ a {
 	border-left: 0;
 }
 
+.menu_first,
+.menu_first:hover {
+	border-left: 1px solid #0062bd;
+}
+
+.menu_last,
+.menu_last:hover {
+	float: right;
+	border-left: 1px solid #0062bd;
+}
+
 .menu_nos_competences {
 	width: 192px;
 }
