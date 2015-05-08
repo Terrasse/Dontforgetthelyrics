@@ -41,9 +41,19 @@ class Game extends MY_Controller {
 				$datas_music['id_music'] = $row->id_music;
 				$datas_music['title'] = $row->title;
 				
+				$i = 0;
 				$lyrics = explode(' ', $row->lyrics);
 				foreach($lyrics as $word){
-					$datas_music['lyrics'][] = $word;
+					$hole = rand(0, 9);
+					if($hole == 9){
+						$datas_music['lyrics'][] = '<input placeholder="Complete the field" name="word'.$i.'">';
+						$datas_music['word'][$i] = $word;
+					}
+					else
+					{
+						$datas_music['lyrics'][] = $word;
+					}
+					$i++;
 				}
 				
 				$datas_music['album_name'] = $row->album_name;

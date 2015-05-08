@@ -16,7 +16,7 @@
 		<form action="" method="post">
 		<?php
 			foreach($lyrics as $word)
-				echo $word;
+				echo $word.' ';
 		?>
 		</form>
 	</div>
