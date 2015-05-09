@@ -4,6 +4,10 @@
 		<div class="eight columns"><h4>Tip the name of the track you're searching for</h4></div>
 		<div class="two columns">&nbsp;</div>
 	</div>
+	<div class='fail reason'><?php
+	if (isset($reason)) { echo $reason;
+	}
+ ?></div>"
 	<form action="<?php echo base_url(); ?>game/chooseMusic" method="post">
 	<div class="row">
 		<div class="two columns">&nbsp;</div>

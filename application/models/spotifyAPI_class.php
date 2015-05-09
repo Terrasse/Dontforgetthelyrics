@@ -4,22 +4,22 @@ if (!defined('BASEPATH'))
 
 class SpotifyAPI_class extends CI_Model {
 	const API_URL = 'https://api.spotify.com/v1';
-	
-	/** 
+
+	/**
 	 * search musics on Spotify API
 	 */
 	public function searchMusics($name_musique, $offset) {
 		$output = self::_callAPI('/search', array('q' => $name_musique, 'type' => "track", 'market' => "US", 'limit' => 50, 'offset' => $offset));
-		if ($output != 0) {
+		if ($output['tracks']['total'] != 0) {
 			foreach ($output['tracks']['items'] as $key => $tracks_values) {
 				if ($tracks_values['explicit'] == TRUE) {
 					$musics[$tracks_values['uri']]['name'] = $tracks_values['name'];
 					$musics[$tracks_values['uri']]['album'] = $tracks_values['album']['name'];
-					foreach($tracks_values['artists'] as $key_artist => $artiste_values){
-						$musics[$tracks_values['uri']]['artists'][$key_artist]= $artiste_values['name'];
+					foreach ($tracks_values['artists'] as $key_artist => $artiste_values) {
+						$musics[$tracks_values['uri']]['artists'][$key_artist] = $artiste_values['name'];
 					}
 				}
-				
+
 			}
 			return $musics;
 		} else
