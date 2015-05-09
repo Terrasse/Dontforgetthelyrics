@@ -48,69 +48,78 @@ class Game extends MY_Controller {
 				$datas_music['title'] = $row -> title;
 
 				$i = 0;
-				$lyrics = explode(' ', $row -> lyrics);
-				
-				//Boolean
-				$boolNoLyrics = FALSE;
-				
-				if (count($lyrics) > 1)
+				$sentences = explode('<br>', $row -> lyrics);
+				if (count($sentences) > 1)
 				{
-					foreach ($lyrics as $word) {
-						$hole = rand(0, 8);
+					foreach($sentences as $sentence) {
+					
+						$lyrics = explode(' ', $sentence);
 						
-						//Length
-						$length = strlen($word);
+						//Boolean
+						$boolNoLyrics = FALSE;
 						
-						//Temporary
-						$tmpFirst = "";
-						$tmpLast = "";
-						
-						//First & Last character
-						$firstChar = $word[0];
-						$lastChar = substr($word, -1, 1);
-						
-						//To avoid [word] OR (word)
-						if ($firstChar == '[' || $firstChar == '(')
-							$boolNoLyrics = TRUE;
-						
-						if(($hole == 8) && ($i<35) && ($boolNoLyrics == FALSE)){
-							
-							//First character => , OR '
-							if ($firstChar == "'")
-							{
-								$word = substr($word, 1);
-								$tmpFirst = "'";
+						if (count($lyrics) > 1)
+						{
+							foreach ($lyrics as $word) {
+								$hole = rand(0, 8);
+								
+								//Length
+								$length = strlen($word);
+								
+								//Temporary
+								$tmpFirst = "";
+								$tmpLast = "";
+								
+								//First & Last character
+								$firstChar = $word[0];
+								$lastChar = substr($word, -1, 1);
+								
+								//To avoid [word] OR (word)
+								if ($firstChar == '[' || $firstChar == '(')
+									$boolNoLyrics = TRUE;
+								
+								if(($hole == 8) && ($i<35) && ($boolNoLyrics == FALSE)){
+									
+									//First character => , OR '
+									if ($firstChar == "'")
+									{
+										$word = substr($word, 1);
+										$tmpFirst = "'";
+									}
+									elseif ($firstChar == ",")
+									{
+										$word = substr($word, 1);
+										$tmpFirst = ",";
+									}
+									
+									//Last character => , OR '
+									if ($lastChar == "'")
+									{
+										$word = substr($word, 0, $length - 1);
+										$tmpLast = "'";
+									}
+									elseif ($lastChar == ",")
+									{
+										$word = substr($word, 0, $length - 1);
+										$tmpLast = ",";
+									}
+									
+									$datas_music['lyrics'][] = $tmpFirst.'<input type="text" placeholder="Complete the field" name="word' . $i . '">'.$tmpLast;
+									$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
+									
+									$i++;
+									
+								} else {
+									$datas_music['lyrics'][] = $word;
+								}
+								
+								//End of [Lyrics] OR (Lyrics)
+								if ($lastChar == ']' || $lastChar == ')')
+									$boolNoLyrics = FALSE;
 							}
-							elseif ($firstChar == ",")
-							{
-								$word = substr($word, 1);
-								$tmpFirst = ",";
-							}
 							
-							//Last character => , OR '
-							if ($lastChar == "'")
-							{
-								$word = substr($word, 0, $length - 1);
-								$tmpLast = "'";
-							}
-							elseif ($lastChar == ",")
-							{
-								$word = substr($word, 0, $length - 1);
-								$tmpLast = ",";
-							}
-							
-							$datas_music['lyrics'][] = $tmpFirst.'<input type="text" placeholder="Complete the field" name="word' . $i . '">'.$tmpLast;
-							$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
-							
-							$i++;
-							
-						} else {
-							$datas_music['lyrics'][] = $word;
+							$datas_music['lyrics'][] = '<br />';
 						}
-						
-						//End of [Lyrics] OR (Lyrics)
-						if ($lastChar == ']' || $lastChar == ')')
-							$boolNoLyrics = FALSE;
 					}
 				}
 
