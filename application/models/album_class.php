@@ -7,11 +7,10 @@ class Album_class extends CI_Model
 	/**
 	 *	Add an album to the db
 	 */
-	public function add_album($album_name, $release_date)
+	public function add_album($album_name)
 	{
 		//	Ces données seront automatiquement échappées
 		$this->db->set('album_name', $album_name);
-		$this->db->set('release_date', $release_date);
 		
 		//	Ces données ne seront pas échappées
 		// $this->db->set('date', 'NOW()', false);
@@ -51,8 +50,7 @@ class Album_class extends CI_Model
 		$query = $this->db->query("
 						SELECT *
 						FROM ".$this->tAlbum." 
-						WHERE album_name = ".$album_name."
-						AND release_date = ".$release_date."
+						WHERE album_name = '".$album_name."'
 						");
 		
 		if ($query->num_rows() > 0)

@@ -12,9 +12,12 @@ class Game extends MY_Controller {
 		
 		// Modeles
 		$this->load->model('music_class');
+		$this->load->model('album_class');
+		$this->load->model('artist_class');
 		$this->load->model('result_class');
+		$this->load->model('spotifyAPI_class');
 		
-		// $this->output->enable_profiler(TRUE);
+		$this->output->enable_profiler(TRUE);
 	}
 	
 	public function index()
@@ -98,13 +101,69 @@ class Game extends MY_Controller {
 	public function chooseMusic()
 	{
 		
-		$this->form_validation->set_rules('track_name', '"Name of the track"', 'trim|required|min_length[1]|max_length[52]|alpha_dash|encode_php_tags|xss_clean');
+		$this->form_validation->set_rules('track_name', '"Name of the track"', 'trim|required|min_length[1]|max_length[52]|encode_php_tags');
 		$track_name = $this->input->post('track_name');
 		
+		//	Le formulaire est valide
 		if($this->form_validation->run())
 		{
-			//	Le formulaire est valide
-			$query_music = $this->music_class->searchMusic($track_name,9,0);
+			$this->layout->views('game/game_music_choose_top');
+			
+			// Normal
+			$query_musics = $this->music_class->searchMusics($track_name);
+			if ($query_musics->num_rows() > 0)
+			{
+				foreach($query_musics->result() as $row)
+				{
+					$datas_info_musics['id_music'] = $row->id_music;
+					$datas_info_musics['title'] =	$row->title;
+					$datas_info_musics['album'] =	$row->album_name;
+					
+					$query_artists = $this->artist_class->getArtists($row->id_music);
+					if ($query_artists->num_rows() > 0)
+					{
+						foreach($query_artists->result() as $artist){
+							$datas_info_musics['artists'][] = $artist->name;
+						}
+					}
+					else
+					{
+						$datas_info_musics['artists'][] = 'Unknown';
+					}
+					
+					$this->layout->views('game/game_music_choose', $datas_info_musics);
+				}
+			}
+			else
+			{
+				// Spotify
+				$table_musics = $this->spotifyAPI_class->searchMusics($track_name,9);
+				foreach($table_musics as $key => $row)
+				{
+					$IDmusic = explode(':',$key);
+					
+					$datas_info_musics['id_spotify'] 	=	trim($IDmusic[2]);
+					$datas_info_musics['title'] 	=	trim($row['name']);
+					$datas_info_musics['album']		=	trim($row['album']);
+									
+					$id_album = $this->album_class->add_album(trim($row['album']));
+					$id_music = $this->music_class->add_music(trim($IDmusic[2]), '', trim($row['name']), '', $id_album);
+					// $this->artist_class->add_artist($id_music, trim($row['name']));
+					
+					$datas_info_musics['id_music'] 	=	$id_music;
+					
+					foreach($row['artists'] as $artist){
+						$datas_info_musics['artists'][] = $artist;
+						
+						// Insert SQl
+						$this->artist_class->add_artist_by_spotify($id_music, $artist);
+					}
+					
+					$this->layout->views('game/game_music_choose', $datas_info_musics);
+				}
+			}
+			
+			$this->layout->view('game/game_music_choose_bot');
 		}
 		else
 		{
