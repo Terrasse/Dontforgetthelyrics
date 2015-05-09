@@ -68,7 +68,7 @@ class Game extends MY_Controller {
 						$firstChar = $word[0];
 						$lastChar = substr($word, -1, 1);
 						
-						//To avoid [Lyrics] OR (Lyrics)
+						//To avoid [word] OR (word)
 						if ($firstChar == '[' || $firstChar == '(')
 							$boolNoLyrics = TRUE;
 						
