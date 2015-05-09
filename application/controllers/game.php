@@ -39,6 +39,7 @@ class Game extends MY_Controller {
 	}
 
 	public function game_step($id_music) {
+		$id_music = '1';
 		$query_music = $this -> music_class -> getMusic($id_music);
 		if ($query_music -> num_rows() > 0) {
 			foreach ($query_music->result() as $row) {
@@ -64,27 +65,35 @@ class Game extends MY_Controller {
 						$tmpFirst = "";
 						$tmpLast = "";
 						
-						if(($hole == 8) && ($i<35) && $boolNoLyrics == FALSE){
+						//First & Last character
+						$firstChar = $word[0];
+						$lastChar = substr($word, -1, 1);
+						
+						//To avoid [Lyrics] OR (Lyrics)
+						if ($firstChar == '[' || $firstChar == '(')
+							$boolNoLyrics = TRUE;
+						
+						if(($hole == 8) && ($i<35) && ($boolNoLyrics == FALSE)){
 							
 							//First character => , OR '
-							if ($word[0] == "'")
+							if ($firstChar == "'")
 							{
 								$word = substr($word, 1);
 								$tmpFirst = "'";
 							}
-							elseif ($word[0] == ",")
+							elseif ($firstChar == ",")
 							{
 								$word = substr($word, 1);
 								$tmpFirst = ",";
 							}
 							
 							//Last character => , OR '
-							if (substr($word, -1, 1) == "'")
+							if ($lastChar == "'")
 							{
 								$word = substr($word, 0, $length - 1);
 								$tmpLast = "'";
 							}
-							elseif (substr($word, -1, 1) == ",")
+							elseif ($lastChar == ",")
 							{
 								$word = substr($word, 0, $length - 1);
 								$tmpLast = ",";
@@ -98,6 +107,10 @@ class Game extends MY_Controller {
 						} else {
 							$datas_music['lyrics'][] = $word;
 						}
+						
+						//End of [Lyrics] OR (Lyrics)
+						if ($lastChar == ']' || $lastChar == ')')
+							$boolNoLyrics = FALSE;
 					}
 				}
 
