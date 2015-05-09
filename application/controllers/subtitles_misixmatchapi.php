@@ -17,8 +17,8 @@ class Subtitles_misixmatchapi extends MY_Controller {
 	}
 
 	public function index() {
-
-			
+		$output=$this -> misiXmatchAPI_class -> extractLyrics("https://www.musixmatch.com/lyrics/The-Beatles/Hey-Jude");
+		var_dump($output);
 	}
 
 }

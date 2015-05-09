@@ -107,6 +107,8 @@ class Game extends MY_Controller {
 									$datas_music['lyrics'][] = $tmpFirst.'<input type="text" placeholder="Complete the field" name="word' . $i . '">'.$tmpLast;
 									$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
 									
+									$_SESSION[$row->id_music .'answers'][$i] = $word;
+									
 									$i++;
 									
 								} else {
@@ -118,6 +120,7 @@ class Game extends MY_Controller {
 									$boolNoLyrics = FALSE;
 							}
 							
+							// Ajout BR dans Lyrics, à la fin d'une phrase
 							$datas_music['lyrics'][] = '<br />';
 						}
 					}
@@ -232,11 +235,16 @@ class Game extends MY_Controller {
 	}
 
 	public function result() {
+	
 		$nb_words = $this -> input -> post('nb_words_form_hidden');
 		$id_music = $this -> input -> post('id_music');
 
 		for ($i = 0; $i < $nb_words; $i++) {
-			$word[] = $this -> input -> post('word' . $i);
+			$i_session = $id_music.'_answers';
+			foreach($_SESSION as $key){
+				echo ${$i_session}:
+			}
+			$word[] = $_SESSION['$i_session'];
 			$solution[] = $this -> input -> post('solution' . $i);
 		}
 

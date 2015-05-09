@@ -5,8 +5,8 @@ if (!defined('BASEPATH'))
 class MisiXmatchAPI_class extends CI_Model {
 	const API_URL = 'http://api.musixmatch.com/ws/1.1';
 	const API_KEY = 'bc79e618625f18c0ae9ce6b71aeaa0f0';
-	const TRACKS_PER_PAGE = 2;
-	
+	const TRACKS_PER_PAGE = 10;
+
 	/**
 	 * search Lyrics on misiXmatchAPI
 	 * based on the most track rating
@@ -31,8 +31,7 @@ class MisiXmatchAPI_class extends CI_Model {
 				foreach ($output['message']['body']['track_list'] as $track_key => $track_value) {
 					if (isset($track_value['track']['track_spotify_id'])) {
 						if (strlen($track_value['track']['track_spotify_id']) == 22) {
-							$track_lyrics = $this -> extractLyrics($track_value['track']['track_name'], $track_value['track']['artist_name'], $track_value['track']['lyrics_id']);
-							
+							$track_lyrics = $this -> extractLyrics($track_value['track']['track_share_url']);
 							if ($track_lyrics != null && strlen($track_lyrics) > 600) $lyrics[$track_value['track']['track_spotify_id']]['lyrics']=$track_lyrics;
 						}
 					}
@@ -45,21 +44,13 @@ class MisiXmatchAPI_class extends CI_Model {
 	/**
 	 * Extract the lyrics from the mixiXmachAPI
 	 *
-	 * @param $title title of the music from misiXmachAPI
-	 * @param $artist artist of the music from misiXmachAPI
-	 * @param $lyrics_id of the music from misiXmachAPI
+	 * @param $subtitles_url subtitles url from mixiXmachAPI
 	 * @return lyrics lyrics of this title
 	 */
-	private function extractLyrics($title, $artist, $lyrics_id) {
-		$output = self::_callAPI('/matcher.lyrics.get', array('apikey' => self::API_KEY, 'q_track' => $title, 'q_artist' => $artist));
-		if (self::_verify($output)) {
-			foreach ($output['message']['body'] as $lyrics_key => $lyrics_value) {
-				if ($lyrics_id == $lyrics_value['lyrics_id']) {
-					return $lyrics_value['lyrics_body'];
-				}
-			}
-		}
-		return NULL;
+	public function extractLyrics($subtitles_url) {
+		$output = shell_exec('assets\scripts\misiXmatch_lyrics.sh "'.$subtitles_url.'"');
+		$output = substr($output, 158);
+		return $output;
 	}
 
 	/**
