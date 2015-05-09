@@ -25,7 +25,21 @@ class SpotifyAPI_class extends CI_Model {
 		} else
 			return array();
 	}
-
+	
+	/**
+	 * search musics details on Spotify API
+	 */
+	public function searchDetails($spotify_id) {
+		$output = self::_callAPI('/tracks/'.$spotify_id, array('market' => 'US'));
+		$music_details['name'] = $output['name'];
+		$music_details['album'] = $output['album']['name'];
+		foreach ($output['artists'] as $key_artist => $artiste_values) {
+			$music_details['artists'][$key_artist] = $artiste_values['name'];
+		}
+		return $music_details;
+	}
+	 
+	 
 	/**
 	 * call the Spotify API
 	 *

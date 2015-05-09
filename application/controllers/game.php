@@ -16,6 +16,7 @@ class Game extends MY_Controller {
 		$this -> load -> model('album_class');
 		$this -> load -> model('artist_class');
 		$this -> load -> model('result_class');
+		$this -> load -> model('misiXmatchAPI_class');
 		$this -> load -> model('spotifyAPI_class');
 
 		//$this -> output -> enable_profiler(TRUE);
@@ -171,20 +172,29 @@ class Game extends MY_Controller {
 				}
 			} else {
 				// Spotify
-				$table_musics = $this -> spotifyAPI_class -> searchMusics($track_name, 0);
+				$table_musics = $this -> misiXmatchAPI_class -> searchLyrics($track_name, 0);
+
 				if (count($table_musics) == 0) {
 					$fail['reason'] = "We don't have this track";
 				} else {
-					foreach ($table_musics as $key => $row) {
-						$IDmusic = explode(':', $key);
+					
+					foreach ($table_musics as $key => $value) {
+						$music_details = $this -> spotifyAPI_class -> searchDetails($key);
+						$table_musics[$key]['name'] = $music_details['name'];
+						$table_musics[$key]['album'] = $music_details['album'];
+						$table_musics[$key]['artists'] = $music_details['artists'];
+					}
 
-						$datas_info_musics['id_spotify'] = trim($IDmusic[2]);
+					foreach ($table_musics as $key => $row) {
+						
+						$datas_info_musics['id_spotify'] = trim($key);
 						$datas_info_musics['title'] = trim($row['name']);
 						$datas_info_musics['album'] = trim($row['album']);
-
+						$datas_info_musics['lyrics'] = trim($row['lyrics']);
 						$id_album = $this -> album_class -> add_album(trim($row['album']));
-						$id_music = $this -> music_class -> add_music(trim($IDmusic[2]), '', trim($row['name']), '', $id_album);
-						// $this->artist_class->add_artist($id_music, trim($row['name']));
+
+						// public function add_music($id_spotify, $path, $title, $lyrics, $id_album) {
+						$id_music = $this -> music_class -> add_music($datas_info_musics['id_spotify'], '', $datas_info_musics['title'], $datas_info_musics['lyrics'], $id_album);
 
 						$datas_info_musics['id_music'] = $id_music;
 
@@ -201,11 +211,11 @@ class Game extends MY_Controller {
 
 			}
 			if (isset($fail['reason'])) {
-				$this -> layout -> view('game/game_music_pick.php',$fail);
-			}else{
+				$this -> layout -> view('game/game_music_pick.php', $fail);
+			} else {
 				$this -> layout -> view('game/game_music_choose_bot');
 			}
-			
+
 		} else {
 			//	Le formulaire est invalide ou vide
 			$this -> layout -> view('game/game_music_pick');
