@@ -35,7 +35,7 @@ class SpotifyAPI_class extends CI_Model {
 	 */
 	private static function _callAPI($function, $params) {
 		$uri = self::_makeURI($function, $params);
-		$output = shell_exec('assets\scripts\curl.sh "' . $uri . '"');
+		$output = shell_exec('assets\scripts\SpotifyAPI_get.sh "' . $uri . '"');
 		if ($output != NULL) {
 			// delete git header
 			$output = substr($output, 158);
