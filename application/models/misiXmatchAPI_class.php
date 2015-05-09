@@ -5,7 +5,7 @@ if (!defined('BASEPATH'))
 class MisiXmatchAPI_class extends CI_Model {
 	const API_URL = 'http://api.musixmatch.com/ws/1.1';
 	const API_KEY = 'bc79e618625f18c0ae9ce6b71aeaa0f0';
-	const TRACKS_PER_PAGE = 10;
+	const TRACKS_PER_PAGE = 2;
 	/**
 	 * search Lyrics on misiXmatchAPI
 	 * based on the most track rating
@@ -31,7 +31,8 @@ class MisiXmatchAPI_class extends CI_Model {
 					if (isset($track_value['track']['track_spotify_id'])) {
 						if (strlen($track_value['track']['track_spotify_id']) == 22) {
 							$track_lyrics = $this -> extractLyrics($track_value['track']['track_name'], $track_value['track']['artist_name'], $track_value['track']['lyrics_id']);
-							if ($track_lyrics != null) $lyrics[$track_value['track']['track_spotify_id']]['lyrics']=$track_lyrics;
+							
+							if ($track_lyrics != null && strlen($track_lyrics) > 600) $lyrics[$track_value['track']['track_spotify_id']]['lyrics']=$track_lyrics;
 						}
 					}
 				}
@@ -79,7 +80,7 @@ class MisiXmatchAPI_class extends CI_Model {
 		if ($output != NULL) {
 			// delete git header
 			$output = substr($output, 158);
-
+			
 			// decode the string
 			$decoded = json_decode($output, true);
 			return $decoded;

@@ -9,4 +9,4 @@ fi
 current_date=`date +%Y-%m-%d_%H:%M:%S`
 echo "$current_date $1" >>application/logs/log_MisiXmatchAPI_get.php
 echo "current_date" >>application/logs/log_MisiXmatchAPI_get_dl.php
-curl -X GET "$1" -H "Accept: application/json" 2>>application/logs/log_MisiXmatchAPI_get_dl.php
+curl -X GET "$1" -H "Accept: application/json" 2>>application/logs/log_MisiXmatchAPI_get_dl.php | sed -e 's/\\n/[EOL]/g'
