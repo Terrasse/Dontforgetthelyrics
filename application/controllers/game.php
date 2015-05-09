@@ -47,14 +47,56 @@ class Game extends MY_Controller {
 
 				$i = 0;
 				$lyrics = explode(' ', $row -> lyrics);
-				foreach ($lyrics as $word) {
-					$hole = rand(0, 8);
-					if (($hole == 8) && ($i < 35)) {
-						$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" name="word' . $i . '">';
-						$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
-						$i++;
-					} else {
-						$datas_music['lyrics'][] = $word;
+				
+				//Boolean
+				$boolNoLyrics = FALSE;
+				
+				if (count($lyrics) > 1)
+				{
+					foreach ($lyrics as $word) {
+						$hole = rand(0, 8);
+						
+						//Length
+						$length = strlen($word);
+						
+						//Temporary
+						$tmpFirst = "";
+						$tmpLast = "";
+						
+						if(($hole == 8) && ($i<35) && $boolNoLyrics == FALSE){
+							
+							//First character => , OR '
+							if ($word[0] == "'")
+							{
+								$word = substr($word, 1);
+								$tmpFirst = "'";
+							}
+							elseif ($word[0] == ",")
+							{
+								$word = substr($word, 1);
+								$tmpFirst = ",";
+							}
+							
+							//Last character => , OR '
+							if (substr($word, -1, 1) == "'")
+							{
+								$word = substr($word, 0, $length - 1);
+								$tmpLast = "'";
+							}
+							elseif (substr($word, -1, 1) == ",")
+							{
+								$word = substr($word, 0, $length - 1);
+								$tmpLast = ",";
+							}
+							
+							$datas_music['lyrics'][] = $tmpFirst.'<input type="text" placeholder="Complete the field" name="word' . $i . '">'.$tmpLast;
+							$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
+							
+							$i++;
+							
+						} else {
+							$datas_music['lyrics'][] = $word;
+						}
 					}
 				}
 

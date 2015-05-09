@@ -17,14 +17,26 @@
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
 			<?php
-				foreach($lyrics as $word)
-					echo $word.' ';
+				if(isset($lyrics))
+				{
+					foreach($lyrics as $word)
+						echo $word.' ';
+				}
+				else
+				{
+					echo '<span style="color: red;">No lyrics !</span>';
+				}
 			?>
 			<br />
 			<?php echo $nb_words_form_hidden; ?>
 			<br />
 			<input type="hidden" value="<?php echo $id_music; ?>" name="id_music" />
-			<input style="float: right;" class="button-primary" type="submit" value="Send my lyrics" />
+			<?php
+				if (isset($lyrics))
+				{
+					echo '<input style="float: right;" class="button-primary" type="submit" value="Send my lyrics" />';
+				}
+			?>
 		</form>
 	</div>
 </div>
