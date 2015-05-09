@@ -43,6 +43,7 @@ class Game extends MY_Controller {
 		if ($query_music -> num_rows() > 0) {
 			foreach ($query_music->result() as $row) {
 				$datas_music['id_music'] = $row -> id_music;
+				$datas_music['id_spotify'] = $row ->id_spotify;
 				$datas_music['title'] = $row -> title;
 
 				$i = 0;

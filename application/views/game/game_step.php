@@ -1,7 +1,7 @@
 <div class="row">
 	<div id="music_player" class="four columns">
 		<div style="margin-bottom: 4%">
-			<iframe src="https://embed.spotify.com/?uri=spotify:track:539HpTjkmnhbPn3p7mjByN" frameborder="0" allowtransparency="true"></iframe>
+			<iframe src="https://embed.spotify.com/?uri=spotify:track:<?php echo $id_spotify; ?>" frameborder="0" allowtransparency="true"></iframe>
 			<audio style="margin: 1% 0 2% 0" id="player2" src="<?php echo base_url(); ?>assets/musiques/<?php echo $id_music; ?>.mp3" type="audio/mp3" controls="controls"></audio>
 		</div>
 		<div>
