@@ -18,7 +18,7 @@ class Game extends MY_Controller {
 		$this -> load -> model('result_class');
 		$this -> load -> model('spotifyAPI_class');
 
-		$this -> output -> enable_profiler(TRUE);
+		//$this -> output -> enable_profiler(TRUE);
 	}
 
 	public function index() {
@@ -39,7 +39,6 @@ class Game extends MY_Controller {
 	}
 
 	public function game_step($id_music) {
-		$id_music = '1';
 		$query_music = $this -> music_class -> getMusic($id_music);
 		if ($query_music -> num_rows() > 0) {
 			foreach ($query_music->result() as $row) {
