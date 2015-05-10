@@ -14,14 +14,23 @@ class Subtitles_misixmatchapi extends MY_Controller {
 		// models
 		$this -> load -> model('misiXmatchAPI_class');
 		$this -> load -> model('spotifyAPI_class');
+		$this -> load -> model('artist_class');
+		$this -> load -> model('album_class');
 	}
 
 	public function index() {
 		// $output=$this -> misiXmatchAPI_class -> extractLyrics("https://www.musixmatch.com/lyrics/The-Beatles/Hey-Jude");
 		// var_dump($output);
-		$result = $this -> spotifyAPI_class ->getToken();
-		var_dump($result);
-		var_dump($result['0']->expires_at);
+		// $result = $this -> spotifyAPI_class ->getToken();
+		// var_dump($result);
+		// var_dump($result['0']->expires_at);
+		
+		
+		// test bd artists
+		// var_dump($this->artist_class->getArtists('3'));
+		
+		// test bd album
+		// var_dump($this->album_class->getAlbumName('1'));
 	}
 
 }

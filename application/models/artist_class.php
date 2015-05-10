@@ -16,13 +16,13 @@ class Artist_class extends CI_Model
 		}
 		else
 		{
-			//	Ces données seront automatiquement échappées
+			//	Ces donnï¿½es seront automatiquement ï¿½chappï¿½es
 			$this->db->set('name', $name);
 			
-			//	Ces données ne seront pas échappées
+			//	Ces donnï¿½es ne seront pas ï¿½chappï¿½es
 			// $this->db->set('date', 'NOW()', false);
 
-			//	Une fois que tous les champs ont bien été définis, on "insert" le tout
+			//	Une fois que tous les champs ont bien ï¿½tï¿½ dï¿½finis, on "insert" le tout
 			$this->db->insert($this->tArtist);
 
 			$id_artist = $this->db->insert_id();
@@ -70,14 +70,27 @@ class Artist_class extends CI_Model
 	 */
 	public function getArtists($id_music)
 	{
-		return $this->db->query("
-								SELECT *
-								FROM ".$this->tArtist ." 
-								INNER JOIN ". $this->tMusic_Artist ." ON ". $this->tArtist.".id_artist = ".$this->tMusic_Artist .".id_artist
-								INNER JOIN ". $this->tMusic ." ON ". $this->tMusic .".id_music = ".$this->tMusic_Artist .".id_music
-								WHERE ". $this->tMusic .".id_music = ". $id_music ."
+		return $query = $this->db->query("
+								SELECT id_artist, name
+								FROM ".$this->tMusic ." NATURAL JOIN ".$this->tMusic_Artist." NATURAL JOIN ".$this->tArtist."
+								WHERE id_music = ". $id_music ."
 								");
 	}
+	
+	public function getArtistsName($id_music){
+		$query = $this->getArtists($id_music);
+		$artists=array();
+		if ($query -> num_rows() > 0) {
+			$artists=array();
+			foreach ( $query->result() as $value){
+				$artists[]=$value->name; 
+			}
+		} else {
+			$artists[]='Unknown';
+		}
+		return $artists;
+	}
+	
 	
 	/**
 	 *	Search an artist in the db

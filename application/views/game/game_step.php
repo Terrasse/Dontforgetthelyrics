@@ -10,32 +10,39 @@
 			<h5 style="margin-bottom:0;">Album</h5>
 			<?php echo $album_name; ?>
 			<h5 style="margin-bottom:0;">Artist</h5>
-			<?php echo $name; ?>
+			<?php
+			$i = 0;
+			foreach ($artists as $artist) {
+				if ($i != 0)
+					echo ', ' . $artist;
+				else
+					echo $artist;
+
+				$i++;
+			}
+			?>
 		</div>
 	</div>
 	<div class="eight columns" style="text-align: justify; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
-			<h5>You got <?php echo $nb_words; ?> holes through these lyrics. Complete them and get your result !</h5>
+			<h5>You got <?php echo $nb_words; ?>
+			holes through these lyrics. Complete them and get your result !</h5>
 			<?php
-				if(isset($lyrics))
-				{
-					foreach($lyrics as $word)
-						echo $word.' ';
-				}
-				else
-				{
-					echo '<span style="color: red;">No lyrics !</span>';
-				}
+			if (isset($lyrics)) {
+				foreach ($lyrics as $word)
+					echo $word . ' ';
+			} else {
+				echo '<span style="color: red;">No lyrics !</span>';
+			}
 			?>
 			<br />
 			<?php echo $nb_words_form_hidden; ?>
 			<br />
 			<input type="hidden" value="<?php echo $id_music; ?>" name="id_music" />
 			<?php
-				if (isset($lyrics))
-				{
-					echo '<input style="float: right;" class="button-primary" type="submit" value="Send my lyrics" />';
-				}
+			if (isset($lyrics)) {
+				echo '<input style="float: right;" class="button-primary" type="submit" value="Send my lyrics" />';
+			}
 			?>
 		</form>
 	</div>
@@ -43,17 +50,15 @@
 
 <script>
 	var positionElementInPage = $('#music_player').offset().top;
-	$(window).scroll(
-		function() {
-			if ($(window).scrollTop() >= positionElementInPage) {
-				// fixed
-				$('#music_player').addClass("floatable");
-			} else {
-				// relative
-				$('#music_player').removeClass("floatable");
-			}
+	$(window).scroll(function() {
+		if ($(window).scrollTop() >= positionElementInPage) {
+			// fixed
+			$('#music_player').addClass("floatable");
+		} else {
+			// relative
+			$('#music_player').removeClass("floatable");
 		}
-	)
-	
-	$('audio,video').mediaelementplayer();
+	})
+
+	$('audio,video').mediaelementplayer(); 
 </script>

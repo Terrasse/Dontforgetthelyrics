@@ -5,7 +5,7 @@ if (!defined('BASEPATH'))
 class MisiXmatchAPI_class extends CI_Model {
 	const API_URL = 'http://api.musixmatch.com/ws/1.1';
 	const API_KEY = 'bc79e618625f18c0ae9ce6b71aeaa0f0';
-	const TRACKS_PER_PAGE = 2;
+	const TRACKS_PER_PAGE = 5;
 
 	/**
 	 * search Lyrics on misiXmatchAPI

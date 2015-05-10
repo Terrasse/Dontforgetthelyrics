@@ -55,13 +55,11 @@ class Music_class extends CI_Model {
 	public function searchMusics($title) {
 		return $this -> db -> query("
 								SELECT *
-								FROM " . $this -> tMusic . " 
-								INNER JOIN " . $this -> tMusic_Artist . " ON " . $this -> tMusic . ".id_music = " . $this -> tMusic_Artist . ".id_music
-								INNER JOIN " . $this -> tArtist . " ON " . $this -> tArtist . ".id_artist = " . $this -> tMusic_Artist . ".id_artist
-								INNER JOIN " . $this -> tAlbum . " ON " . $this -> tAlbum . ".id_album = " . $this -> tMusic . ".id_album
+								FROM ".$this->tMusic."
 								WHERE " . $this -> tMusic . ".title = '" . $title . "'
 								");
 	}
+	
 
 	/**
 	 *	Return datas from all musics

@@ -128,7 +128,7 @@ class Game extends MY_Controller {
 				$datas_music['nb_words_form_hidden'] = '<input type="hidden" placeholder="Complete the field" value="' . $i . '" name="nb_words_form_hidden">';
 
 				$datas_music['album_name'] = $row -> album_name;
-				$datas_music['name'] = $row -> name;
+				$datas_music['artists'] = $this->artist_class->getArtistsName($row ->id_music);
 				$datas_music['firstname'] = $row -> firstname;
 			}
 		}
@@ -164,19 +164,18 @@ class Game extends MY_Controller {
 			// Normal
 			$query_musics = $this -> music_class -> searchMusics($track_name);
 			if ($query_musics -> num_rows() > 0) {
+				
+				// for each music 
 				foreach ($query_musics->result() as $row) {
+					
 					$datas_info_musics['id_music'] = $row -> id_music;
 					$datas_info_musics['title'] = $row -> title;
-					$datas_info_musics['album'] = $row -> album_name;
-
-					$query_artists = $this -> artist_class -> getArtists($row -> id_music);
-					if ($query_artists -> num_rows() > 0) {
-						foreach ($query_artists->result() as $artist) {
-							$datas_info_musics['artists'][] = $artist -> name;
-						}
-					} else {
-						$datas_info_musics['artists'][] = 'Unknown';
-					}
+					
+					// search it album name 
+					$datas_info_musics['album'] = $this->album_class-> getAlbumName($row ->id_album);
+				
+					// search it artists
+					$datas_info_musics['artists'] = $this->artist_class-> getArtistsName($row ->id_music);
 
 					$this -> layout -> views('game/game_music_choose', $datas_info_musics);
 				}
@@ -207,7 +206,10 @@ class Game extends MY_Controller {
 						$id_music = $this -> music_class -> add_music($datas_info_musics['id_spotify'], '', $datas_info_musics['title'], $datas_info_musics['lyrics'], $id_album);
 
 						$datas_info_musics['id_music'] = $id_music;
-
+						
+						// create an empty array
+						$datas_info_musics['artists']=array();
+						
 						foreach ($row['artists'] as $artist) {
 							$datas_info_musics['artists'][] = $artist;
 
