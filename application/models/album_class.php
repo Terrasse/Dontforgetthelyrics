@@ -7,18 +7,26 @@ class Album_class extends CI_Model
 	/**
 	 *	Add an album to the db
 	 */
-	public function add_album($album_name)
+	public function add_album($name)
 	{
-		//	Ces données seront automatiquement échappées
-		$this->db->set('album_name', $album_name);
+		$id_album = $this->album_exist($name);
+		if($id_album != FALSE){
+		}
+		else
+		{
+			//	Ces données seront automatiquement échappées
+			$this->db->set('album_name', $name);
+			
+			//	Ces données ne seront pas échappées
+			// $this->db->set('date', 'NOW()', false);
+			
+			//	Une fois que tous les champs ont bien été définis, on "insert" le tout
+			$this->db->insert($this->tAlbum);
+			
+			$id_album = $this->db->insert_id();
+		}
 		
-		//	Ces données ne seront pas échappées
-		// $this->db->set('date', 'NOW()', false);
-		
-		//	Une fois que tous les champs ont bien été définis, on "insert" le tout
-		$this->db->insert($this->tAlbum);
-		
-		return $this->db->insert_id();
+		return $id_album;
 	}
 	
 	/**
@@ -45,16 +53,22 @@ class Album_class extends CI_Model
 	/**
 	 *	Search an album in the db
 	 */
-	public function album_exist($album_name, $release_date)
+	public function album_exist($name)
 	{
 		$query = $this->db->query("
 						SELECT *
 						FROM ".$this->tAlbum." 
-						WHERE album_name = '".$album_name."'
+						WHERE album_name = '".$name."'
 						");
 		
-		if ($query->num_rows() > 0)
-			return TRUE;
+		if ($query->num_rows() > 0) {
+			foreach($query->result() as $row)
+			{
+				$id_album = $row->id_album;
+			}
+			
+			return $id_album;
+		}
 		else
 			return FALSE;
 	}
