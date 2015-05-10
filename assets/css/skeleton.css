@@ -424,3 +424,14 @@ there.
 {
 	color: black;
 }
+
+.word_result
+{
+	color: red;
+}
+
+
+.word_result_ok
+{
+	color: green;
+}
