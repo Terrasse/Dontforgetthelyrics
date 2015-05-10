@@ -11,16 +11,24 @@ class Artist_class extends CI_Model
 	*/
 	public function add_artist($name)
 	{
-		//	Ces données seront automatiquement échappées
-		$this->db->set('name', $name);
+		$id_artist = $this->artist_exist($name);
+		if($id_artist != FALSE){
+		}
+		else
+		{
+			//	Ces données seront automatiquement échappées
+			$this->db->set('name', $name);
+			
+			//	Ces données ne seront pas échappées
+			// $this->db->set('date', 'NOW()', false);
 
-		//	Ces données ne seront pas échappées
-		// $this->db->set('date', 'NOW()', false);
+			//	Une fois que tous les champs ont bien été définis, on "insert" le tout
+			$this->db->insert($this->tArtist);
 
-		//	Une fois que tous les champs ont bien été définis, on "insert" le tout
-		$this->db->insert($this->tArtist);
-
-		return $this->db->insert_id();
+			$id_artist = $this->db->insert_id();
+		}
+		
+		return $id_artist;
 	}
 
 	/**
@@ -28,16 +36,7 @@ class Artist_class extends CI_Model
 	 */
 	public function add_artist_by_spotify($id_music, $name)
 	{
-		//	Ces données seront automatiquement échappées
-		$this->db->set('name', $name);
-		
-		//	Ces données ne seront pas échappées
-		// $this->db->set('date', 'NOW()', false);
-		
-		//	Une fois que tous les champs ont bien été définis, on "insert" le tout
-		$this->db->insert($this->tArtist);
-		
-		$id_artist = $this->db->insert_id();
+		$id_artist = $this->add_artist($name);
 		
 		$this->db->set('id_music', $id_music);
 		$this->db->set('id_artist', $id_artist);
@@ -83,17 +82,22 @@ class Artist_class extends CI_Model
 	/**
 	 *	Search an artist in the db
 	 */
-	public function artist_exist($name, $firstname)
+	public function artist_exist($name)
 	{
 		$query = $this->db->query("
 						SELECT *
 						FROM ".$this->tArtist." 
-						WHERE name = ".$name."
-						AND firstname = ".$firstname."
+						WHERE name = '".addslashes($name)."'
 						");
 		
-		if ($query->num_rows() > 0)
-			return TRUE;
+		if ($query->num_rows() > 0){
+			foreach($query->result() as $row)
+			{
+				$id_artist = $row->id_artist;
+			}
+			
+			return $id_artist;
+		}
 		else
 			return FALSE;
 	}
