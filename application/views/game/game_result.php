@@ -22,10 +22,45 @@
 </div>
 <div style="margin: 5% 0 0 0" class="row">
 	<div class="three columns" style="text-align: justify">
-		<h5 style="margin-bottom:0;">My answers</h5>
+		<h5 style="margin-bottom:0;">Right answers</h5>
+		<?php 
+			for ($i = 0 ; $i < $nb_words ; $i++)
+			{
+				echo '<span class="solution_result">';
+				if ($solution[$i] == "")
+				{
+					echo '/-/';
+				}
+				else
+				{
+					echo $solution[$i];
+				}
+				echo '</span><br />';
+			}
+		?>
 	</div>
 	<div class="one column" style="text-align: justify"></div>
 	<div class="three columns" style="text-align: justify">
-		<h5 style="margin-bottom:0;">Right answers</h5>
+		<h5 style="margin-bottom:0;">My answers</h5>
+		<?php 
+			for ($i = 0 ; $i < $nb_words ; $i++)
+			{
+				echo '<span class="word_result';
+				
+				if ($word[$i] == $solution[$i])
+					echo '_ok';
+				
+				echo '">';
+				if ($word[$i] == "")
+				{
+					echo '/-/';
+				}
+				else
+				{
+					echo $word[$i];
+				}
+				echo '</span><br />';
+			}
+		?>
 	</div>
 </div>

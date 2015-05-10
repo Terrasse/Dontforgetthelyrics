@@ -248,7 +248,11 @@ class Game extends MY_Controller {
 				$numerateur++;
 			}
 		}
-
+		
+		$data_result['word'] = $word;
+		$data_result['solution'] = $solution;
+		$data_result['nb_words'] = $nb_words;
+		
 		$score = $numerateur / $nb_words;
 		$score = (int)($score * 100);
 
