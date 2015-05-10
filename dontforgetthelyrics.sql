@@ -19,7 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Base de données: `aig_fr`
 --
-
+create database `dontforgetthelyrics`;
+use `dontforgetthelyrics`;
 -- --------------------------------------------------------
 
 --
@@ -43,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `album` (
   `id_album` int(11) NOT NULL AUTO_INCREMENT,
   `album_name` varchar(50) NOT NULL,
   PRIMARY KEY (`id_album`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- Contenu de la table `album`
@@ -63,7 +64,7 @@ CREATE TABLE IF NOT EXISTS `artist` (
   `name` varchar(50) NOT NULL,
   `firstname` varchar(50) NOT NULL,
   PRIMARY KEY (`id_artist`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- Contenu de la table `artist`
@@ -111,14 +112,7 @@ CREATE TABLE IF NOT EXISTS `music` (
   `id_album` int(11) NOT NULL,
   PRIMARY KEY (`id_music`),
   KEY `music_album` (`id_album`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
-
---
--- Contenu de la table `music`
---
-
-INSERT INTO `music` (`id_music`, `id_spotify`, `title`, `path`, `lyrics`, `id_album`) VALUES
-(1, '7hBPm2JQwxHwMqw79MwWwm', 'Hey Jude', '', 'Hey Jude, don''t make it bad<br>Take a sad song and make it better<br>Remember to let her into your heart<br>Then you can start to make it better<br>Hey Jude, don''t be afraid<br>You were made to go out and get her<br>The minute you let her under your skin<br>Then you begin to make it better<br>And any time you feel the pain<br>Hey Jude, refrain<br>Don''t carry the world upon your shoulder<br>For well you know that it''s a fool<br>Who plays it cool<br>By making his world a little colder<br>Na na na naa-naa<br>na-na-naa naaa<br>Hey Jude, don''t let me down<br>You have found her, now go and get her<br>(Let it out and let it in)<br>Remember (hey Jude) to let her into your heart<br>Then you can start to make it better<br>So let it out and let it in<br>Hey Jude, begin<br>You''re waiting for someone to perform with<br>And don''t you know that it''s just you<br>Hey Jude, you''ll do<br>The movement you need is on your shoulder<br>Na na na naa-naa<br>na-na-naa naaa<br>Yeah<br>Hey, Jude, don''t make it bad<br>Take a sad song<br>And make it better<br>Remember to let her under your skin (got the wrong chord!)<br>Then you begin (fucking hell)<br>To make it better<br>Better, better, better, better, (I''m begging you) better<br>Whoa!<br>Yeah<br>Na na na na-na-na-naa (yeah, yeah, yeah, yeah, yeah, yeah)<br>Na-na-na-naa, hey, Jude<br>Na na na na-na-na-naa<br>Na-na-na-naa, hey, Jude<br>Na na na na-na-na-naa<br>Na-na-na-naa, hey, Jude<br>Na na na na-na-na-naa<br>Na-na-na-naa, hey, Jude<br>Jude, Judy, Judy, Judy, Judy, Judy<br>Ow! wow!<br>Na na na na-na-na-naa<br>Ow, ooh, my, my, my<br>Na-na-na-naa, hey, Jude<br>Jude, Jude, Jude, Jude, Jude<br>Na na na na-na-na-naa<br>Yeah, yeah, yeah<br>Na-na-na-naa, hey, Jude<br>Yeah, you know you can make it, Jude<br>Jude, you''re not gonna break it<br>Na na na (don''t make it bad, Jude) na-na-na-naa<br>Take a sad song and make it better<br>Na-na-na-naa, (oh, Jude) hey, (Jude) Jude<br>Hey, Jude, wo-o-ow!', 1);
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -132,13 +126,6 @@ CREATE TABLE IF NOT EXISTS `music_artist` (
   PRIMARY KEY (`id_music`,`id_artist`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Contenu de la table `music_artist`
---
-
-INSERT INTO `music_artist` (`id_music`, `id_artist`) VALUES
-(1, 1);
-
 -- --------------------------------------------------------
 
 --
@@ -151,7 +138,7 @@ CREATE TABLE IF NOT EXISTS `player` (
   `best_result` int(11) NOT NULL,
   `password` varchar(255) NOT NULL,
   PRIMARY KEY (`id_player`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- Contenu de la table `player`
