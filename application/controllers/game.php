@@ -265,7 +265,7 @@ class Game extends MY_Controller {
 			foreach ($query_music->result() as $row) {
 				$data_result['title'] = $row -> title;
 				$data_result['album_name'] = $row -> album_name;
-				$data_result['name'] = $row -> name;
+				$data_result['artists'] = $this->artist_class-> getArtistsName($row ->id_music);
 				$data_result['firstname'] = $row -> firstname;
 			}
 		}
