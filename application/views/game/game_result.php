@@ -28,11 +28,4 @@
 	<div class="three columns" style="text-align: justify">
 		<h5 style="margin-bottom:0;">Right answers</h5>
 	</div>
-	<div class="three columns" style="text-align: justify">
-		<h5 style="margin-bottom:0;">My answers</h5>
-	</div>
-	<div class="one column" style="text-align: justify"></div>
-	<div class="three columns" style="text-align: justify">
-		<h5 style="margin-bottom:0;">Right answers</h5>
-	</div>
 </div>

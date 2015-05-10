@@ -246,11 +246,6 @@ class Game extends MY_Controller {
 			
 			if ($word[$i] == $solution[$i]){
 				$numerateur++;
-				$data_result['right_answer'][] = $solution[$i];
-			}
-			else
-			{
-				$data_result['false_answer'][] = $word[$i];
 			}
 		}
 
