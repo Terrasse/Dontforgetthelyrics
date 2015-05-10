@@ -10,16 +10,18 @@ class Game extends MY_Controller {
 		// Bibliothèque de chargment des vues de template
 		$this -> load -> library('layout');
 		$this -> load -> library('form_validation');
+		
 
 		// Modeles
 		$this -> load -> model('music_class');
 		$this -> load -> model('album_class');
 		$this -> load -> model('artist_class');
+		$this -> load -> model('player_class');
 		$this -> load -> model('result_class');
 		$this -> load -> model('misiXmatchAPI_class');
 		$this -> load -> model('spotifyAPI_class');
-
-		//$this -> output -> enable_profiler(TRUE);
+		$this-> load -> model('lyrics_masking_class');
+		// $this -> output -> enable_profiler(TRUE);
 	}
 
 	public function index() {
@@ -46,86 +48,12 @@ class Game extends MY_Controller {
 				$datas_music['id_music'] = $row -> id_music;
 				$datas_music['id_spotify'] = $row ->id_spotify;
 				$datas_music['title'] = $row -> title;
-
-				$i = 0;
-				$sentences = explode('<br>', $row -> lyrics);
-				if (count($sentences) > 1)
-				{
-					foreach($sentences as $sentence) {
-					
-						$lyrics = explode(' ', $sentence);
-						
-						//Boolean
-						$boolNoLyrics = FALSE;
-						
-						if (count($lyrics) > 1)
-						{
-							foreach ($lyrics as $word) {
-								$hole = rand(0, 8);
-								
-								//Length
-								$length = strlen($word);
-								
-								//Temporary
-								$tmpFirst = "";
-								$tmpLast = "";
-								
-								//First & Last character
-								$firstChar = $word[0];
-								$lastChar = substr($word, -1, 1);
-								
-								//To avoid [word] OR (word)
-								if ($firstChar == '[' || $firstChar == '(')
-									$boolNoLyrics = TRUE;
-								
-								if(($hole == 8) && ($i<35) && ($boolNoLyrics == FALSE)){
-									
-									//First character => , OR '
-									if ($firstChar == "'")
-									{
-										$word = substr($word, 1);
-										$tmpFirst = "'";
-									}
-									elseif ($firstChar == ",")
-									{
-										$word = substr($word, 1);
-										$tmpFirst = ",";
-									}
-									
-									//Last character => , OR '
-									if ($lastChar == "'")
-									{
-										$word = substr($word, 0, $length - 1);
-										$tmpLast = "'";
-									}
-									elseif ($lastChar == ",")
-									{
-										$word = substr($word, 0, $length - 1);
-										$tmpLast = ",";
-									}
-									
-									$datas_music['lyrics'][] = $tmpFirst.'<input type="text" placeholder="Complete the field" name="word' . $i . '">'.$tmpLast;
-									$datas_music['lyrics'][] = '<input type="text" placeholder="Complete the field" value="' . $word . '" name="solution' . $i . '">';
-									
-									$i++;
-									
-								} else {
-									$datas_music['lyrics'][] = $word;
-								}
-								
-								//End of [Lyrics] OR (Lyrics)
-								if ($lastChar == ']' || $lastChar == ')')
-									$boolNoLyrics = FALSE;
-							}
-							
-							// Ajout BR dans Lyrics, à la fin d'une phrase
-							$datas_music['lyrics'][] = '<br />';
-						}
-					}
-				}
-
-				$datas_music['nb_words'] = $i;
-				$datas_music['nb_words_form_hidden'] = '<input type="hidden" placeholder="Complete the field" value="' . $i . '" name="nb_words_form_hidden">';
+	
+				$player_level=$this->player_class->getLevelPlayer($this -> session -> userdata('id_player'));
+				$datas_music['lyrics']=$this->lyrics_masking_class->lyricsMasking($row ->lyrics,$player_level);
+				
+				$datas_music['nb_words'] = $this->lyrics_masking_class->getNbWords(); 
+				$datas_music['nb_words_form_hidden'] = $this->lyrics_masking_class->getFormNbHidden();
 
 				$datas_music['album_name'] = $row -> album_name;
 				$datas_music['artists'] = $this->artist_class->getArtistsName($row ->id_music);

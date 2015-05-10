@@ -23,7 +23,7 @@
 			?>
 		</div>
 	</div>
-	<div class="eight columns" style="text-align: justify; float: right;">
+	<div class="eight columns lyrics" style="text-align: justify; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?>
 			holes through these lyrics. Complete them and get your result !</h5>

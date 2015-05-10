@@ -132,21 +132,22 @@ CREATE TABLE IF NOT EXISTS `music_artist` (
 -- Structure de la table `player`
 --
 
-CREATE TABLE IF NOT EXISTS `player` (
-  `id_player` int(11) NOT NULL AUTO_INCREMENT,
-  `username` varchar(50) NOT NULL,
-  `best_result` int(11) NOT NULL,
-  `password` varchar(255) NOT NULL,
-  PRIMARY KEY (`id_player`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+CREATE TABLE `player` (
+ `id_player` int(11) NOT NULL AUTO_INCREMENT,
+ `username` varchar(50) NOT NULL,
+ `best_result` int(11) NOT NULL,
+ `password` varchar(255) NOT NULL,
+ `level` int(11) NOT NULL DEFAULT '0',
+ PRIMARY KEY (`id_player`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 --
 -- Contenu de la table `player`
 --
 
-INSERT INTO `player` (`id_player`, `username`, `best_result`, `password`) VALUES
-(1, 'Choudoor', 50, '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8'),
-(2, 'hAppywAy', 0, 'f7c38e1502a5575d9a0bbe75de436d72cbf7819860eaa2c53a09e887bca88b66');
+INSERT INTO `player` (`id_player`, `username`, `best_result`, `password`, `level`) VALUES
+(1, 'Choudoor', 50, '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8',3),
+(2, 'hAppywAy', 0, 'f7c38e1502a5575d9a0bbe75de436d72cbf7819860eaa2c53a09e887bca88b66',3);
 
 -- --------------------------------------------------------
 

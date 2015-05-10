@@ -1,71 +1,78 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php
+if (!defined('BASEPATH'))
+	exit('No direct script access allowed');
 
-class Player_class extends CI_Model
-{
+class Player_class extends CI_Model {
 	protected $tPlayer = 'player';
-	
+
 	/**
 	 *	Add a player to the db
 	 */
-	public function addPlayer($username, $password)
-	{
-		//	Ces données seront automatiquement échappées
-		$this->db->set('username', $username);
-		$this->db->set('password', $password);
-		
-		//	Ces données ne seront pas échappées
+	public function addPlayer($username, $password) {
+		//	Ces donnï¿½es seront automatiquement ï¿½chappï¿½es
+		$this -> db -> set('username', $username);
+		$this -> db -> set('password', $password);
+
+		//	Ces donnï¿½es ne seront pas ï¿½chappï¿½es
 		// $this->db->set('date', 'NOW()', false);
-		
-		//	Une fois que tous les champs ont bien été définis, on "insert" le tout
-		$this->db->insert($this->tPlayer);
-		
-		return $this->db->insert_id();
+
+		//	Une fois que tous les champs ont bien ï¿½tï¿½ dï¿½finis, on "insert" le tout
+		$this -> db -> insert($this -> tPlayer);
+
+		return $this -> db -> insert_id();
 	}
-	
+
 	/**
-	 *	Édite une produit déjà existante
+	 *	ï¿½dite une produit dï¿½jï¿½ existante
 	 */
-	 
-	public function updatePlayer($id_player, $password = null, $username = null, $bestResult = null)
-	{
-		//	Il n'y a rien à éditer
-		if($password == null AND $username == null AND $bestResult == null)
-		{
+
+	public function updatePlayer($id_player, $password = null, $username = null, $bestResult = null) {
+		//	Il n'y a rien ï¿½ ï¿½diter
+		if ($password == null AND $username == null AND $bestResult == null) {
 			return false;
 		}
-		
-		//	Ces données seront échappées
-		if($password != null)
-			$this->db->set('password', $password);
-		if($username != null)	
-			$this->db->set('username', $username);
-		if($bestResult != null)
-			$this->db->set('bestResult', $bestResult);
-		
+
+		//	Ces donnï¿½es seront ï¿½chappï¿½es
+		if ($password != null)
+			$this -> db -> set('password', $password);
+		if ($username != null)
+			$this -> db -> set('username', $username);
+		if ($bestResult != null)
+			$this -> db -> set('bestResult', $bestResult);
+
 		//	La condition
-		$this->db->where('id_player', (int) $id_player);
-		
-		return $this->db->update($this->tPlayer);
+		$this -> db -> where('id_player', (int)$id_player);
+
+		return $this -> db -> update($this -> tPlayer);
 	}
-	
+
 	/**
 	 *	Remove a player from the db
 	 */
-	public function removePlayer($id_music)
-	{
-		return $this->db->where('id_player', $id_player)
-						->delete($this->tPlayer);
+	public function removePlayer($id_music) {
+		return $this -> db -> where('id_player', $id_player) -> delete($this -> tPlayer);
 	}
-	
+
+	public function getLevelPlayer($id_player) {
+		$query = $this -> getPlayer($id_player);
+		$player_level = array();
+		if ($query -> num_rows() > 0) {
+			foreach ($query->result() as $value) {
+				return $value -> level;
+			}
+		} 
+		return 0;
+	}
+
 	/**
 	 *	Return datas from a player
 	 */
-	public function getPlayer($id_player)
-	{
-		return $this->db->query("
+	public function getPlayer($id_player) {
+		return $this -> db -> query("
 								SELECT *
-								FROM ".$this->tPlayer." 
-								WHERE id_player = ".$id_player."
+								FROM " . $this -> tPlayer . " 
+								WHERE id_player = " . $id_player . "
 								");
 	}
+
 }

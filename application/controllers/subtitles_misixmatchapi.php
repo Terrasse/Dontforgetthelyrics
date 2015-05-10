@@ -16,6 +16,7 @@ class Subtitles_misixmatchapi extends MY_Controller {
 		$this -> load -> model('spotifyAPI_class');
 		$this -> load -> model('artist_class');
 		$this -> load -> model('album_class');
+		$this -> load -> model('music_class');
 	}
 
 	public function index() {
@@ -31,6 +32,8 @@ class Subtitles_misixmatchapi extends MY_Controller {
 		
 		// test bd album
 		// var_dump($this->album_class->getAlbumName('1'));
+		$ex=explode('<br>','salutsalut salutsalut<br>laalakaklalala<br>');
+		var_dump(5000==null);
 	}
 
 }
