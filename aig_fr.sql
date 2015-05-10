@@ -23,6 +23,19 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Structure de la table `spotify`
+--
+
+CREATE TABLE `spotify` (
+ `id_spotify` int(11) NOT NULL AUTO_INCREMENT,
+ `access_token` text NOT NULL,
+ `expires_at` int(11) NOT NULL,
+ PRIMARY KEY (`id_spotify`)
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8
+
+-- --------------------------------------------------------
+
+--
 -- Structure de la table `album`
 --
 
