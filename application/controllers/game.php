@@ -243,8 +243,15 @@ class Game extends MY_Controller {
 
 		$numerateur = 0;
 		for ($i = 0; $i < $nb_words; $i++) {
-			if ($word[$i] == $solution[$i])
+			
+			if ($word[$i] == $solution[$i]){
 				$numerateur++;
+				$data_result['right_answer'][] = $solution[$i];
+			}
+			else
+			{
+				$data_result['false_answer'][] = $word[$i];
+			}
 		}
 
 		$score = $numerateur / $nb_words;
