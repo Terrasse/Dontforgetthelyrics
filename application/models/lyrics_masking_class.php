@@ -189,7 +189,7 @@ class Lyrics_masking_class extends CI_Model {
 		// To avoid masking [word] OR (word)
 		if ($firstChar == '[' || $firstChar == '(') {
 			$this -> addAsUnmaskedLyrics();
-			$this -> index_words++;
+			
 			$length = strlen($this -> words[$this -> index_words]);
 			$lastChar = $this -> words[$this -> index_words][($length - 1)];
 			if ($firstChar == '(' && $lastChar != ')') {
@@ -198,6 +198,7 @@ class Lyrics_masking_class extends CI_Model {
 			if ($firstChar == '[' && $lastChar != ']') {
 				$this -> mode_no_lyrics = TRUE;
 			}
+			$this -> index_words++;
 			return "passed";
 		}
 
@@ -218,8 +219,8 @@ class Lyrics_masking_class extends CI_Model {
 			// avoid ] )
 			if ($lastChar == ']' || $lastChar == ')') {
 				$this -> addAsUnmaskedLyrics();
-				$this -> index_words++;
 				$this -> mode_no_lyrics = FALSE;
+				$this -> index_words++;
 				return "passed";
 			}
 			return "passed";
