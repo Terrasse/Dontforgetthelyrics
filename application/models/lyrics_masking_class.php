@@ -39,6 +39,7 @@ class Lyrics_masking_class extends CI_Model {
 	private $buffer_end_word;
 
 	private $mode_combo;
+	private $mode_no_lyrics;
 
 	/**
 	 * Apply the right algorithme according to player level
@@ -66,6 +67,7 @@ class Lyrics_masking_class extends CI_Model {
 		$this -> addAsUnmaskedLyrics();
 		$this -> nb_words = 1;
 		$this -> nb_masking_words = 0;
+		$this -> mode_no_lyrics = FALSE;
 
 		// set algorithme param
 		switch ($this->level) {
@@ -121,17 +123,20 @@ class Lyrics_masking_class extends CI_Model {
 	 * Mask the next word on the lyrics_output
 	 */
 	private function addAsMaskedLyrics() {
-		$this -> nb_masking_words++; 
-		
+		$this -> nb_masking_words++;
+
 		// if combo adapt size
-		$prop="height";
-		if($this->mode_combo) $prop="width: 10%;height: 10%;";
-		
-		$this -> output_lyrics[] = '<input type="text"  style="'.$prop.'" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
-		$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
-		if (isset($this -> buffer_end_word)) {
-			$this -> output_lyrics[] = $this -> buffer_end_word;
-			$this -> buffer_end_word = null;
+		$prop = "height";
+		if ($this -> mode_combo)
+			$prop = "width: 10%;height: 10%;";
+		if ($this -> index_words < $this -> size_words) {
+
+			$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
+			$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
+			if (isset($this -> buffer_end_word)) {
+				$this -> output_lyrics[] = $this -> buffer_end_word;
+				$this -> buffer_end_word = null;
+			}
 		}
 	}
 
@@ -139,10 +144,12 @@ class Lyrics_masking_class extends CI_Model {
 	 * add the next word on the lyrics_output
 	 */
 	private function addAsUnmaskedLyrics() {
-		$this -> output_lyrics[] = $this -> words[$this -> index_words];
-		if (isset($this -> buffer_end_word)) {
-			$this -> output_lyrics[] = $this -> buffer_end_word;
-			$this -> buffer_end_word = null;
+		if ($this -> index_words < $this -> size_words) {
+			$this -> output_lyrics[] = $this -> words[$this -> index_words];
+			if (isset($this -> buffer_end_word)) {
+				$this -> output_lyrics[] = $this -> buffer_end_word;
+				$this -> buffer_end_word = null;
+			}
 		}
 	}
 
@@ -163,26 +170,35 @@ class Lyrics_masking_class extends CI_Model {
 
 		// if we are at the end of line
 		$this -> index_words++;
-
 		if ($this -> index_words >= $this -> size_words) {
-
 			$next_line = $this -> nextLine();
 			if (isset($next_line)) {
 				$this -> words = explode(' ', $next_line);
-				if($this->words['0'] == '') return null;
+				if ($this -> words['0'] == '')
+					return null;
 				$this -> index_words = '0';
 				$this -> size_words = count($this -> words);
-				
+
 			} else {
 				return null;
 			}
 		}
+
 		$firstChar = $this -> words[$this -> index_words]['0'];
 
 		// To avoid masking [word] OR (word)
 		if ($firstChar == '[' || $firstChar == '(') {
 			$this -> addAsUnmaskedLyrics();
-			return $this->nextWord();
+			$this -> index_words++;
+			$length = strlen($this -> words[$this -> index_words]);
+			$lastChar = $this -> words[$this -> index_words][($length - 1)];
+			if ($firstChar == '(' && $lastChar != ')') {
+				$this -> mode_no_lyrics = TRUE;
+			}
+			if ($firstChar == '[' && $lastChar != ']') {
+				$this -> mode_no_lyrics = TRUE;
+			}
+			return "passed";
 		}
 
 		//First character => , OR '
@@ -197,6 +213,30 @@ class Lyrics_masking_class extends CI_Model {
 
 		$length = strlen($this -> words[$this -> index_words]);
 		$lastChar = $this -> words[$this -> index_words][($length - 1)];
+	
+		if ($this -> mode_no_lyrics) {
+			// avoid ] )
+			if ($lastChar == ']' || $lastChar == ')') {
+				$this -> addAsUnmaskedLyrics();
+				$this -> index_words++;
+				$this -> mode_no_lyrics = FALSE;
+				return "passed";
+			}
+			return "passed";
+		}
+		
+		// avail refrain
+		if ($this -> words[$this -> index_words] == "refrain"){
+			$this -> output_lyrics[] = '<br />';
+			$this -> output_lyrics[] = '<br />';
+			$this -> output_lyrics[] = '<br />';
+			$this -> output_lyrics[] = ' REFRAIN ' ; 
+			$this -> output_lyrics[] = '<br />';
+			$this -> output_lyrics[] = '<br />';
+			$this -> output_lyrics[] = '<br />';
+			return "passed";
+		}
+
 		//Last character => , OR '
 		if ($lastChar == "'") {
 			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 0, $length - 1);

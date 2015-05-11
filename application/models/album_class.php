@@ -56,12 +56,13 @@ class Album_class extends CI_Model {
 
 	/**
 	 *	Search an album in the db
+	 * TMP
 	 */
 	public function album_exist($name) {
 		$query = $this -> db -> query("
 						SELECT *
 						FROM " . $this -> tAlbum . " 
-						WHERE album_name = '" . $name . "'
+						WHERE album_name = '" .preg_replace("#'#", "\'", $name) . "'
 						");
 
 		if ($query -> num_rows() > 0) {
