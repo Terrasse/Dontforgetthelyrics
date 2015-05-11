@@ -8,7 +8,7 @@ class Lyrics_masking_class extends CI_Model {
 	const LEVEL_LOW = 1;
 
 	const MASKING_HIGH = 4;
-	const MASKING_MEDUIM = 6;
+	const MASKING_MEDIUM = 6;
 	const MASKING_LOW = 8;
 
 	const COMBO_HIGH = 10;

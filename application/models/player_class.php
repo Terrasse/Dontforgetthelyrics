@@ -26,9 +26,9 @@ class Player_class extends CI_Model {
 	 *	�dite une produit d�j� existante
 	 */
 
-	public function updatePlayer($id_player, $password = null, $username = null, $bestResult = null) {
+	public function updatePlayer($id_player, $password = null, $username = null, $bestResult = null, $level = null) {
 		//	Il n'y a rien � �diter
-		if ($password == null AND $username == null AND $bestResult == null) {
+		if ($password == null AND $username == null AND $bestResult == null AND $level == null) {
 			return false;
 		}
 
@@ -39,6 +39,10 @@ class Player_class extends CI_Model {
 			$this -> db -> set('username', $username);
 		if ($bestResult != null)
 			$this -> db -> set('bestResult', $bestResult);
+			
+		// non échappés
+		if ($level != null)
+			$this -> db -> set('level', $level, false);
 
 		//	La condition
 		$this -> db -> where('id_player', (int)$id_player);

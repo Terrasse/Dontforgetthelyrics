@@ -6,6 +6,18 @@
 		<div id="row">
 			<h5 class="six columns">Username</h5><span class="result"><h5 class="six columns"><?php echo $username; ?></h5></span>
 		</div>
+		<div id="row">
+			<h5 class="six columns">My level</h5>
+			<span class="result">			
+				<form action="<?php echo base_url(); ?>player/set_level" method="post">
+					<select name="level">
+					<?php echo $level; ?>
+					</select>
+					<br />
+					<input class="button-primary"name="form_sent" value="Update my level" type="submit"/>
+				</form>
+			</span>
+		</div>
 	</div>
 	<div class="six columns" style="padding-bottom: 5%">
 		<div id="row">

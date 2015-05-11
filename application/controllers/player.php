@@ -9,6 +9,7 @@ class Player extends MY_Controller {
 	
 		// Bibliothèque de chargment des vues de template
 		$this->load->library('layout');
+		$this -> load -> library('form_validation');
 		
 		// Modeles
 		$this->load->model('player_class');
@@ -24,10 +25,13 @@ class Player extends MY_Controller {
 		// $this->layout->view('profile/player_profile');
 	}
 	
-	public function profile($id_player)
+	public function profile()
 	{	
 		
+		$id_player = $this->session->userdata('id_player');
+		
 		// Modeles
+		$level_name = array ("Low", "Mid", "High");
 		
 		$query_player = $this->player_class->getPlayer($id_player);
 		if ($query_player->num_rows() > 0)
@@ -35,6 +39,25 @@ class Player extends MY_Controller {
 			foreach($query_player->result() as $row)
 			{
 				$datas_player['username'] = $row->username;
+				if($row->level == 1){
+					$opt1 = 2;
+					$opt2 = 3;
+				}
+				else if($row->level == 2){
+					$opt1 = 3;
+					$opt2 = 1;
+				}
+				else
+				{
+					$opt1 = 2;
+					$opt2 = 1;
+				}
+				
+				$datas_player['level'] = '
+					<option value="'.$row->level .'">'.$level_name[$row->level - 1] .'</option>
+					<option value="'.$opt1.'">'.$level_name[$opt1 - 1].'</option>
+					<option value="'.$opt2.'">'.$level_name[$opt2 - 1].'</option>
+					';
 			}
 		}
 		
@@ -68,5 +91,24 @@ class Player extends MY_Controller {
 		}
 			
 		$this->layout->view('profile/player_profile', $datas_player);
+	}
+	
+	public function set_level()
+	{
+		$this->form_validation->set_rules('level', '"Level "', 'required|min_length[1]|max_length[1]');
+		
+		$level = $this->input->post('level');
+		$id_player = $this->session->userdata('id_player');
+		
+		if($this->form_validation->run())
+		{
+			//	Le formulaire est valide
+			if($this->player_class->updatePlayer($id_player, null, null, null, $level)){}
+			else
+			{
+				redirect('profile/'.$id_player);
+			}
+		}
+		redirect('profile/'.$id_player);
 	}
 }

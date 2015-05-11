@@ -5,7 +5,7 @@
 <?php if($this->session->userdata('connected')) 
 {
 ?>
-	<a href="<?php echo site_url('profile/'.$this->session->userdata('id_player')); ?>">
+	<a href="<?php echo site_url('player/profile'); ?>">
 		<div class="menu_bouton menu_accueil">My profile</div>
 	</a>
 	<a href="<?php echo site_url('connection/logout'); ?>">
