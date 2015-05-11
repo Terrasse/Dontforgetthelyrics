@@ -1,6 +1,6 @@
 <?php
 
-function PreviewNews($contenu, $lgMax) 
+function Preview($contenu, $lgMax) 
 {
 	$contenu = strip_tags($contenu);
 	$contenuTab = array(); $contenuTab = explode(' ', $contenu);

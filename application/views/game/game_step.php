@@ -2,7 +2,7 @@
 	<div id="music_player" class="four columns">
 		<div>
 			<iframe src="https://embed.spotify.com/?uri=spotify:track:<?php echo $id_spotify; ?>" frameborder="0" allowtransparency="true"></iframe>
-			<!--<audio style="margin: 1% 0 2% 0" id="player2" src="<?php echo base_url(); ?>assets/musiques/<?php echo $id_music; ?>.mp3" type="audio/mp3" controls="controls"></audio>-->
+			<!--<audio style="margin: 1% 0 2% 0" id="player2" src="<?php // echo base_url(); ?>assets/musiques/<?php echo $id_music; ?>.mp3" type="audio/mp3" controls="controls"></audio>-->
 		</div>
 		<div>
 			<h5 style="margin-bottom:0;">Title</h5>
@@ -23,7 +23,7 @@
 			?>
 		</div>
 	</div>
-	<div class="eight columns lyrics" style="text-align: justify; float: right;">
+	<div class="eight columns lyrics" style="text-align: center; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
 			<h5>You got <?php echo $nb_words; ?>
 			holes through these lyrics. Complete them and get your result !</h5>

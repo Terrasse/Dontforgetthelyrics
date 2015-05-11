@@ -2083,3 +2083,6 @@ a {
 	margin: 0 auto;
 }
 
+/* LYRICS */
+.lyrics input{
+	width: 150px; }
