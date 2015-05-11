@@ -164,24 +164,24 @@ class Lyrics_masking_class extends CI_Model {
 		// if we are at the end of line
 		$this -> index_words++;
 
-		if ($this -> index_words == $this -> size_words) {
+		if ($this -> index_words >= $this -> size_words) {
 
 			$next_line = $this -> nextLine();
 			if (isset($next_line)) {
 				$this -> words = explode(' ', $next_line);
+				if($this->words['0'] == '') return null;
 				$this -> index_words = '0';
 				$this -> size_words = count($this -> words);
+				
 			} else {
 				return null;
 			}
 		}
-
 		$firstChar = $this -> words[$this -> index_words]['0'];
 
 		// To avoid masking [word] OR (word)
 		if ($firstChar == '[' || $firstChar == '(') {
-			$this -> addAsMaskedLyrics();
-			$this -> index_words++;
+			$this -> addAsUnmaskedLyrics();
 			return $this->nextWord();
 		}
 
@@ -218,7 +218,7 @@ class Lyrics_masking_class extends CI_Model {
 	private function nextLine() {
 		$this -> output_lyrics[] = '<br />';
 		$this -> index_sentences++;
-		if ($this -> index_sentences == $this -> size_sentences) {
+		if ($this -> index_sentences >= $this -> size_sentences) {
 			return null;
 		} else {
 			// enable/disable the combo mode
