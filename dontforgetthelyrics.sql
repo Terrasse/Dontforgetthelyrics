@@ -137,7 +137,7 @@ CREATE TABLE `player` (
  `username` varchar(50) NOT NULL,
  `best_result` int(11) NOT NULL,
  `password` varchar(255) NOT NULL,
- `level` int(11) NOT NULL DEFAULT '0',
+ `level` int(11) NOT NULL DEFAULT '1',
  PRIMARY KEY (`id_player`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 

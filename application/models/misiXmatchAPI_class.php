@@ -25,20 +25,35 @@ class MisiXmatchAPI_class extends CI_Model {
 		//
 		// '4RY96Asd9IefaL3X4LOLZ8','USUM71211793', 'Diamonds', 'Rihanna', 'Unapologetic (Deluxe Explicit Version)'
 		// spotify:track:1mwt9hzaH7idmC5UCoOUkz
-		$lyrics=array();
+
+		// init
+		$lyrics = array();
+		$spotify_id = "";
+		$lyrics_url = "";
+		$lyrics_id = "";
 		if (self::_verify($output)) {
 			if (($output['message']['header']['available'] / self::TRACKS_PER_PAGE) >= $page) {
 				foreach ($output['message']['body']['track_list'] as $track_key => $track_value) {
 					if (isset($track_value['track']['track_spotify_id'])) {
 						if (strlen($track_value['track']['track_spotify_id']) == 22) {
-							$track_lyrics = $this -> extractLyrics($track_value['track']['track_share_url']);
-							if ($track_lyrics != null && strlen($track_lyrics) > 600) $lyrics[$track_value['track']['track_spotify_id']]['lyrics']=$track_lyrics;
+							if (isset($track_value['track']['lyrics_id'])) {
+								// avoid first space
+								if ($spotify_id != "") {
+									$spotify_id = $spotify_id . " ";
+									$lyrics_url = $lyrics_url . " ";
+									$lyrics_id = $lyrics_id . " ";
+								}
+								// prepare request to download lyrics
+								$spotify_id = $spotify_id . $track_value['track']['track_spotify_id'];
+								$lyrics_url = $lyrics_url . $track_value['track']['track_share_url'];
+								$lyrics_id = $lyrics_id . $track_value['track']['lyrics_id'];
+							}
 						}
 					}
 				}
 			}
 		}
-		return $lyrics;
+		return $this -> extractLyrics_v2($lyrics_url, $lyrics_id, $spotify_id);
 	}
 
 	/**
@@ -48,9 +63,49 @@ class MisiXmatchAPI_class extends CI_Model {
 	 * @return lyrics lyrics of this title
 	 */
 	public function extractLyrics($subtitles_url) {
-		$output = shell_exec('assets\scripts\misiXmatch_lyrics.sh "'.$subtitles_url.'"');
+		$output = shell_exec('assets\scripts\misiXmatch_lyrics.sh "' . $subtitles_url . '"');
 		$output = substr($output, 158);
 		return $output;
+	}
+
+	/**
+	 * Extract the lyrics from the mixiXmachAPI
+	 * priority : crowd lyrics
+	 * @param $lyrics_url subtitles url from mixiXmachAPI => "url1 url2 .. urln"
+	 * @param $lyrics_id from misiXmachAPI => "id1 id2 .. idn"
+	 * @param $spotify_id from misiXmachAPI => "id1 id2 .. idn"
+	 * @return mixed
+	 */
+	public function extractLyrics_v2($lyrics_url, $lyrics_id, $spotify_id) {
+		$output = shell_exec('assets\scripts\misiXmatch_lyrics_v2.sh ' . $lyrics_url);
+		// delete git header + first ' EOR '
+		$output = substr($output, 163);
+		$output = explode(' EOR ', $output);
+		$right_lyrics_id = explode(' ', $lyrics_id);
+		$spotify_id = explode(' ', $spotify_id);
+		$lyrics = array();
+
+		foreach ($output as $key => $record) {
+			$record = json_decode($record, true);
+			$lyrics[$spotify_id[$key]] = array();
+			if (isset($record['track'])) {
+				if (isset($record['track']['crowdLyrics'])) {
+					if ($record['track']['crowdLyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
+						$lyrics[$spotify_id[$key]]['lyrics'] = $record['track']['crowdLyrics']['attributes']['lyrics_body'];
+				}
+				if (isset($record['track']['lyrics']) && ! isset($lyrics[$spotify_id[$key]]['lyrics'])) {
+					if ($record['track']['lyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
+						$lyrics[$spotify_id[$key]]['lyrics'] = $record['track']['lyrics']['attributes']['lyrics_body'];
+				}
+			}
+			if (! isset($lyrics[$spotify_id[$key]]['lyrics']) && isset($record['lyrics'])) {
+				if ($record['lyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
+					$lyrics[$spotify_id[$key]]['lyrics'] = $record['lyrics']['attributes']['lyrics_body'];
+			}
+			// format lyrics
+			$lyrics[$spotify_id[$key]]['lyrics'] = str_replace("\n", "<br>", $lyrics[$spotify_id[$key]]['lyrics']);
+		}
+		return $lyrics;
 	}
 
 	/**
@@ -72,7 +127,7 @@ class MisiXmatchAPI_class extends CI_Model {
 		if ($output != NULL) {
 			// delete git header
 			$output = substr($output, 158);
-			
+
 			// decode the string
 			$decoded = json_decode($output, true);
 			return $decoded;

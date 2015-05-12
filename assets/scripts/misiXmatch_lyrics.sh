@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -f "application/logs/log_MisiXmatchAPI_get.php" ];then 
+if [ -f "application/logs/log_MisiXmatchAPI_lyrics.php" ];then 
 	`touch application/logs/log_MisiXmatchAPI_lyrics.php`
 fi
 

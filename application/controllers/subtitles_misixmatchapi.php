@@ -32,8 +32,8 @@ class Subtitles_misixmatchapi extends MY_Controller {
 		
 		// test bd album
 		// var_dump($this->album_class->getAlbumName('1'));
-		$ex=explode('<br>','salutsalut salutsalut<br>laalakaklalala<br>');
-		var_dump(5000==null);
+		
+		$output = $this->misiXmatchAPI_class->extractLyrics_v2("https://www.musixmatch.com/lyrics/Rihanna/American-Oxygen https://www.musixmatch.com/lyrics/Deorro-Chris-Brown/Five-More-Hours","11168642 10976958","kikukykulom2uknfyhfhhU 1qSQ8ivU7OPqFcEO1D99vU");
 	}
 
 }
