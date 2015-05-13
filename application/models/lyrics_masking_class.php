@@ -183,7 +183,7 @@ class Lyrics_masking_class extends CI_Model {
 				return null;
 			}
 		}
-
+		
 		$firstChar = $this -> words[$this -> index_words]['0'];
 
 		// To avoid masking [word] OR (word)
@@ -262,7 +262,8 @@ class Lyrics_masking_class extends CI_Model {
 		if ($this -> index_sentences >= $this -> size_sentences) {
 			return null;
 		} else {
-			while(! strlen($this->sentences[$this->index_sentences])){
+			$this->sentences[$this->index_sentences]=trim($this->sentences[$this->index_sentences]);
+			while((strlen($this->sentences[$this->index_sentences]))==0){
 				return $this->nextLine();
 			}
 			// enable/disable the combo mode
