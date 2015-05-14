@@ -104,6 +104,7 @@ class MisiXmatchAPI_class extends CI_Model {
 			}
 			// format lyrics
 			$lyrics[$spotify_id[$key]]['lyrics'] = str_replace("\n", "<br>", $lyrics[$spotify_id[$key]]['lyrics']);
+
 		}
 		return $lyrics;
 	}

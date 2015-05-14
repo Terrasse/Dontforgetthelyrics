@@ -90,23 +90,7 @@ class Lyrics_masking_class extends CI_Model {
 		$this -> mode_combo = false;
 
 		// making algorithme
-		while (TRUE) {
-			$word = $this -> nextWord();
-			if (isset($word)) {
-				$this -> nb_words++;
-				if ($this -> mode_combo) {
-					$this -> addAsMaskedLyrics();
-				} else {
-
-					$hole = rand(0, $this -> percent_masking);
-					if ($hole == $this -> percent_masking)
-						$this -> addAsMaskedLyrics();
-					else
-						$this -> addAsUnmaskedLyrics();
-				}
-			} else
-				break;
-		}
+		$this -> runMasking();
 
 		return $this -> output_lyrics;
 	}
@@ -119,12 +103,41 @@ class Lyrics_masking_class extends CI_Model {
 		return '<input type="hidden" placeholder="Complete the field" value="' . $this -> nb_masking_words . '" name="nb_words_form_hidden">';
 	}
 
+	public function runMasking() {
+		while (TRUE) {
+			$word = $this -> nextWord();
+			if (isset($word)) {
+				$this -> nb_words++;
+				switch ($word) {
+					case 'STOP_MODE_NO_LYRICS' :
+						$this -> mode_no_lyrics = FALSE;
+					case 'EMPTY_LINE':
+					case 'USELESS_WORD' :
+						$this -> addAsUnmaskedLyrics();
+						break;
+					default :
+						if ($this -> mode_combo) {
+							$this -> addAsMaskedLyrics();
+						} else {
+							if (!$this -> mode_no_lyrics) {
+								$hole = rand(0, $this -> percent_masking);
+								if ($hole == $this -> percent_masking)
+									$this -> addAsMaskedLyrics();
+								else
+									$this -> addAsUnmaskedLyrics();
+							}
+						}
+				}
+			} else
+				break;
+		}
+	}
+
 	/**
 	 * Mask the next word on the lyrics_output
 	 */
 	private function addAsMaskedLyrics() {
 		$this -> nb_masking_words++;
-
 		// if combo adapt size
 		$prop = "height";
 		if ($this -> mode_combo)
@@ -175,7 +188,7 @@ class Lyrics_masking_class extends CI_Model {
 			if (isset($next_line)) {
 				$this -> words = explode(' ', $next_line);
 				if ($this -> words['0'] == '')
-					return null;
+					return "EMPTY_LINE";
 				$this -> index_words = '0';
 				$this -> size_words = count($this -> words);
 
@@ -183,23 +196,35 @@ class Lyrics_masking_class extends CI_Model {
 				return null;
 			}
 		}
-		
+
 		$firstChar = $this -> words[$this -> index_words]['0'];
 
 		// To avoid masking [word] OR (word)
 		if ($firstChar == '[' || $firstChar == '(') {
-			$this -> addAsUnmaskedLyrics();
-			
+
 			$length = strlen($this -> words[$this -> index_words]);
 			$lastChar = $this -> words[$this -> index_words][($length - 1)];
 			if ($firstChar == '(' && $lastChar != ')') {
 				$this -> mode_no_lyrics = TRUE;
-			}
-			if ($firstChar == '[' && $lastChar != ']') {
+			} elseif ($firstChar == '[' && $lastChar != ']') {
 				$this -> mode_no_lyrics = TRUE;
 			}
-			$this -> index_words++;
-			return "passed";
+			return "USELESS_WORD";
+		}
+
+		$length = strlen($this -> words[$this -> index_words]);
+		$lastChar = $this -> words[$this -> index_words][($length - 1)];
+
+		if ($this -> mode_no_lyrics) {
+			// avoid ] )
+			if ($lastChar == ']' || $lastChar == ')') {
+				return "STOP_MODE_NO_LYRICS";
+			}
+			return "USELESS_WORD";
+		}
+		
+		if ($this -> words[$this -> index_words] == "Woah" || $this -> words[$this -> index_words] == "Yeh"){
+			return "USELESS_WORD";
 		}
 
 		//First character => , OR '
@@ -212,30 +237,9 @@ class Lyrics_masking_class extends CI_Model {
 			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 1);
 		}
 
-		$length = strlen($this -> words[$this -> index_words]);
-		$lastChar = $this -> words[$this -> index_words][($length - 1)];
-	
-		if ($this -> mode_no_lyrics) {
-			// avoid ] )
-			if ($lastChar == ']' || $lastChar == ')') {
-				$this -> mode_no_lyrics = FALSE;
-			}
-			$this -> addAsUnmaskedLyrics();
-			$this -> index_words++;
-			return "passed";
-		}
-		
 		// avail refrain
-		if ($this -> words[$this -> index_words] == "refrain"){
-			$this -> output_lyrics[] = '<br />';
-			$this -> output_lyrics[] = '<br />';
-			$this -> output_lyrics[] = '<br />';
-			$this -> output_lyrics[] = '-- refrain -- ' ; 
-			$this -> output_lyrics[] = '<br />';
-			$this -> output_lyrics[] = '<br />';
-			$this -> output_lyrics[] = '<br />';
-			$this -> index_words++;
-			return "passed";
+		if ($this -> words[$this -> index_words] == "refrain") {
+			return "USELESS_WORD";
 		}
 
 		//Last character => , OR '
@@ -262,9 +266,9 @@ class Lyrics_masking_class extends CI_Model {
 		if ($this -> index_sentences >= $this -> size_sentences) {
 			return null;
 		} else {
-			$this->sentences[$this->index_sentences]=trim($this->sentences[$this->index_sentences]);
-			while((strlen($this->sentences[$this->index_sentences]))==0){
-				return $this->nextLine();
+			$this -> sentences[$this -> index_sentences] = trim($this -> sentences[$this -> index_sentences]);
+			while ((strlen($this -> sentences[$this -> index_sentences])) == 0) {
+				return $this -> nextLine();
 			}
 			// enable/disable the combo mode
 			$hole = rand(0, $this -> percent_combo);
