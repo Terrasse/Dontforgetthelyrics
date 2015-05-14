@@ -16,7 +16,7 @@ class SpotifyAPI_class extends CI_Model {
 	 * search musics on Spotify API
 	 */
 	public function searchMusics($name_musique, $offset) {
-		$output = $this->callAPI('/search', array('q' => $name_musique, 'type' => "track", 'market' => "US", 'limit' => 50, 'offset' => $offset));
+		$output = $this->callAPI('/search', array('q' => $name_musique, 'type' => "track", 'limit' => 25, 'offset' => $offset));
 		if ($output['tracks']['total'] != 0) {
 			foreach ($output['tracks']['items'] as $key => $tracks_values) {
 				if ($tracks_values['explicit'] == TRUE) {

@@ -88,22 +88,26 @@ class MisiXmatchAPI_class extends CI_Model {
 		foreach ($output as $key => $record) {
 			$record = json_decode($record, true);
 			$lyrics[$spotify_id[$key]] = array();
+			$lyrics[$spotify_id[$key]]['lyrics'] = "";
 			if (isset($record['track'])) {
 				if (isset($record['track']['crowdLyrics'])) {
 					if ($record['track']['crowdLyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
 						$lyrics[$spotify_id[$key]]['lyrics'] = $record['track']['crowdLyrics']['attributes']['lyrics_body'];
 				}
-				if (isset($record['track']['lyrics']) && ! isset($lyrics[$spotify_id[$key]]['lyrics'])) {
+				if (strlen($lyrics[$spotify_id[$key]]['lyrics']) == 0  && isset($record['track']['lyrics'])) {
 					if ($record['track']['lyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
 						$lyrics[$spotify_id[$key]]['lyrics'] = $record['track']['lyrics']['attributes']['lyrics_body'];
 				}
 			}
-			if (! isset($lyrics[$spotify_id[$key]]['lyrics']) && isset($record['lyrics'])) {
+			if (strlen($lyrics[$spotify_id[$key]]['lyrics']) == 0 && isset($record['lyrics'])) {
 				if ($record['lyrics']['attributes']['lyrics_id'] == $right_lyrics_id[$key])
 					$lyrics[$spotify_id[$key]]['lyrics'] = $record['lyrics']['attributes']['lyrics_body'];
 			}
-			// format lyrics
-			$lyrics[$spotify_id[$key]]['lyrics'] = str_replace("\n", "<br>", $lyrics[$spotify_id[$key]]['lyrics']);
+			//  if we don't have enough subtitles then delete else replace \n by <br>
+			if (strlen($lyrics[$spotify_id[$key]]['lyrics']) < 200)
+				unset($lyrics[$spotify_id[$key]]);
+			else
+				$lyrics[$spotify_id[$key]]['lyrics'] = str_replace("\n", "<br>", $lyrics[$spotify_id[$key]]['lyrics']);
 
 		}
 		return $lyrics;
