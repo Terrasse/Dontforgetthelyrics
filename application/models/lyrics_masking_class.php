@@ -111,7 +111,7 @@ class Lyrics_masking_class extends CI_Model {
 				switch ($word) {
 					case 'STOP_MODE_NO_LYRICS' :
 						$this -> mode_no_lyrics = FALSE;
-					case 'EMPTY_LINE':
+					case 'EMPTY_LINE' :
 					case 'USELESS_WORD' :
 						$this -> addAsUnmaskedLyrics();
 						break;
@@ -143,13 +143,8 @@ class Lyrics_masking_class extends CI_Model {
 		if ($this -> mode_combo)
 			$prop = "width: 10%;height: 10%;";
 		if ($this -> index_words < $this -> size_words) {
-
 			$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
 			$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
-			if (isset($this -> buffer_end_word)) {
-				$this -> output_lyrics[] = $this -> buffer_end_word;
-				$this -> buffer_end_word = null;
-			}
 		}
 	}
 
@@ -159,10 +154,6 @@ class Lyrics_masking_class extends CI_Model {
 	private function addAsUnmaskedLyrics() {
 		if ($this -> index_words < $this -> size_words) {
 			$this -> output_lyrics[] = $this -> words[$this -> index_words];
-			if (isset($this -> buffer_end_word)) {
-				$this -> output_lyrics[] = $this -> buffer_end_word;
-				$this -> buffer_end_word = null;
-			}
 		}
 	}
 
@@ -180,6 +171,13 @@ class Lyrics_masking_class extends CI_Model {
 
 		// private $words;
 		// private $index_words;
+
+		// we add the buffer into the output lyrics
+		if (isset($this -> buffer_end_word)) {
+			$last_insert_word = count($this->output_lyrics) -1;
+			$this -> output_lyrics[$last_insert_word] = $this -> output_lyrics[$last_insert_word].$this -> buffer_end_word;
+			$this -> buffer_end_word = null;
+		}
 
 		// if we are at the end of line
 		$this -> index_words++;
@@ -222,8 +220,8 @@ class Lyrics_masking_class extends CI_Model {
 			}
 			return "USELESS_WORD";
 		}
-		
-		if ($this -> words[$this -> index_words] == "Woah" || $this -> words[$this -> index_words] == "Yeh"){
+
+		if ($this -> words[$this -> index_words] == "Woah" || $this -> words[$this -> index_words] == "Yeh") {
 			return "USELESS_WORD";
 		}
 
@@ -242,14 +240,23 @@ class Lyrics_masking_class extends CI_Model {
 			return "USELESS_WORD";
 		}
 
-		//Last character => , OR '
-		if ($lastChar == "'") {
+		//End of the world is ... (we have to do this before Last character , ' ? ! .)
+		$length = strlen($this -> words[$this -> index_words]);
+		if ($length > 3) {
+			$result = preg_replace('/(\\w+)\.\.\./i', '\\1', $this -> words[$this -> index_words], -1, $count);
+			if ($count > 0) {
+				$this -> words[$this -> index_words] = $result;
+				$this -> buffer_end_word = "...";
+				return $this -> words[$this -> index_words];
+			}
+			
+		}
+
+		//Last character => , OR ' ? !
+		$length = strlen($this -> words[$this -> index_words]);
+		if ($lastChar == "'" || $lastChar == "," || $lastChar == "?" || $lastChar == "!" || $lastChar == ".") {
 			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 0, $length - 1);
-			$this -> buffer_end_word = "'";
-		} elseif ($lastChar == ",") {
-			$length = strlen($this -> words[$this -> index_words]);
-			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 0, $length - 1);
-			$this -> buffer_end_word = ",";
+			$this -> buffer_end_word = $lastChar;
 		}
 
 		return $this -> words[$this -> index_words];
