@@ -1,3 +1,5 @@
 Enlever l'erreur lorsqu'il n'y a pas de résultat à la recherche
-Enlever les nanananananannana
-Supprimer l'ajout des musiques qui n'ont pas de lyrics
+Ajouter un bouton sur chaque icon	(font-awesome)
+Ajouter le rang sur le nombre de résultat total (ex : 3eme/200)
+Optimiser la récupération des lyrics
+More result en ajax (sauvegarde les résultats des pages en bdd)

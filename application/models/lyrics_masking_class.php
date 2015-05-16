@@ -142,19 +142,15 @@ class Lyrics_masking_class extends CI_Model {
 		$prop = "height";
 		if ($this -> mode_combo)
 			$prop = "width: 10%;height: 10%;";
-		if ($this -> index_words < $this -> size_words) {
-			$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
-			$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
-		}
+		$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
+		$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
 	}
 
 	/**
 	 * add the next word on the lyrics_output
 	 */
 	private function addAsUnmaskedLyrics() {
-		if ($this -> index_words < $this -> size_words) {
-			$this -> output_lyrics[] = $this -> words[$this -> index_words];
-		}
+		$this -> output_lyrics[] = $this -> words[$this -> index_words];
 	}
 
 	/**
@@ -174,8 +170,8 @@ class Lyrics_masking_class extends CI_Model {
 
 		// we add the buffer into the output lyrics
 		if (isset($this -> buffer_end_word)) {
-			$last_insert_word = count($this->output_lyrics) -1;
-			$this -> output_lyrics[$last_insert_word] = $this -> output_lyrics[$last_insert_word].$this -> buffer_end_word;
+			$last_insert_word = count($this -> output_lyrics) - 1;
+			$this -> output_lyrics[$last_insert_word] = $this -> output_lyrics[$last_insert_word] . $this -> buffer_end_word;
 			$this -> buffer_end_word = null;
 		}
 
@@ -221,10 +217,6 @@ class Lyrics_masking_class extends CI_Model {
 			return "USELESS_WORD";
 		}
 
-		if ($this -> words[$this -> index_words] == "Woah" || $this -> words[$this -> index_words] == "Yeh") {
-			return "USELESS_WORD";
-		}
-
 		//First character => , OR '
 		if ($firstChar == "'") {
 			$this -> output_lyrics[] = "'";
@@ -233,11 +225,6 @@ class Lyrics_masking_class extends CI_Model {
 		} elseif ($firstChar == ",") {
 			$this -> output_lyrics[] = ",";
 			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 1);
-		}
-
-		// avail refrain
-		if ($this -> words[$this -> index_words] == "refrain") {
-			return "USELESS_WORD";
 		}
 
 		//End of the world is ... (we have to do this before Last character , ' ? ! .)
@@ -249,15 +236,52 @@ class Lyrics_masking_class extends CI_Model {
 				$this -> buffer_end_word = "...";
 				return $this -> words[$this -> index_words];
 			}
-			
 		}
 
 		//Last character => , OR ' ? !
 		$length = strlen($this -> words[$this -> index_words]);
-		if ($lastChar == "'" || $lastChar == "," || $lastChar == "?" || $lastChar == "!" || $lastChar == ".") {
+		if ( $lastChar == "," || $lastChar == "?" || $lastChar == "!" || $lastChar == ".") {
 			$this -> words[$this -> index_words] = substr($this -> words[$this -> index_words], 0, $length - 1);
 			$this -> buffer_end_word = $lastChar;
 		}
+		
+		// avoid word'
+		if( $lastChar == "'"){
+			return "USELESS_WORD";
+		}
+
+				
+		
+
+		// avoid naa?
+		if(preg_match('/^naa?/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// avoid na-.?
+		if(preg_match('/na-.?/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// avoid whoa.?
+		if(preg_match('/whoa.?/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// avoid yeah.?
+		if(preg_match('/yeah.?/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// avoid o*h
+		if(preg_match('/oo?h/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// // avoid oh
+		if(preg_match('/^ow$/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+		// avoid wo-.?
+		if(preg_match('/^wo-.*/i',$this -> words[$this -> index_words],$matches,0)){
+			return "USELESS_WORD";
+		}
+
 
 		return $this -> words[$this -> index_words];
 	}
