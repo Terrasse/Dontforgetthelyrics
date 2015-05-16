@@ -49,7 +49,7 @@
 	<div class="three columns" style="text-align: justify">
 		<h5 style="margin-bottom:0;">My answers</h5>
 		<?php
-		for ($i = 1; $i < $nb_words; $i++) {
+		for ($i = 0; $i < $nb_words; $i++) {
 			echo '<span class="word_result';
 
 			if (strtolower($word[$i]) == strtolower($solution[$i])){

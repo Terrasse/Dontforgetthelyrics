@@ -172,19 +172,19 @@ class Game extends MY_Controller {
 		$nb_words = $this -> input -> post('nb_words_form_hidden');
 		$id_music = $this -> input -> post('id_music');
 
-		for ($i = 0; $i < $nb_words; $i++) {
+		for ($i = 1; $i <= $nb_words; $i++) {
 			$word[] = $this -> input -> post('word' . $i);
 			$solution[] = $this -> input -> post('solution' . $i);
 		}
 
 		$numerateur = 0;
-		for ($i = 1; $i < $nb_words; $i++) {
+		for ($i = 0; $i < $nb_words; $i++) {
 
 			if (strtolower($word[$i]) == strtolower($solution[$i])) {
 				$numerateur++;
 			}
 		}
-
+	
 		$data_result['word'] = $word;
 		$data_result['solution'] = $solution;
 		$data_result['nb_words'] = $nb_words;
