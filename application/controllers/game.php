@@ -178,9 +178,9 @@ class Game extends MY_Controller {
 		}
 
 		$numerateur = 0;
-		for ($i = 0; $i < $nb_words; $i++) {
+		for ($i = 1; $i < $nb_words; $i++) {
 
-			if ($word[$i] == $solution[$i]) {
+			if (strtolower($word[$i]) == strtolower($solution[$i])) {
 				$numerateur++;
 			}
 		}

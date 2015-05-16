@@ -34,10 +34,10 @@
 	<div class="three columns" style="text-align: justify">
 		<h5 style="margin-bottom:0;">Right answers</h5>
 		<?php
-		for ($i = 0; $i < $nb_words; $i++) {
+		for ($i = 1; $i < $nb_words; $i++) {
 			echo '<span class="solution_result">';
 			if ($solution[$i] == "") {
-				echo '/-/';
+				echo '&times';
 			} else {
 				echo $solution[$i];
 			}
@@ -49,15 +49,18 @@
 	<div class="three columns" style="text-align: justify">
 		<h5 style="margin-bottom:0;">My answers</h5>
 		<?php
-		for ($i = 0; $i < $nb_words; $i++) {
+		for ($i = 1; $i < $nb_words; $i++) {
 			echo '<span class="word_result';
 
-			if ($word[$i] == $solution[$i])
+			if (strtolower($word[$i]) == strtolower($solution[$i])){
 				echo '_ok';
+				$word[$i] = $solution[$i];
+			}
+				
 
 			echo '">';
 			if ($word[$i] == "") {
-				echo '/-/';
+				echo '&times';
 			} else {
 				echo $word[$i];
 			}
