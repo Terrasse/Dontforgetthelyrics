@@ -142,7 +142,7 @@ class Lyrics_masking_class extends CI_Model {
 		$prop = "height";
 		if ($this -> mode_combo)
 			$prop = "width: 10%;height: 10%;";
-		$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Complete the field" name="word' . $this -> nb_masking_words . '">';
+		$this -> output_lyrics[] = '<input type="text"  style="' . $prop . '" placeholder="Fill in !" name="word' . $this -> nb_masking_words . '">';
 		$this -> output_lyrics[] = '<input type="hidden" placeholder="Complete the field" value="' . $this -> words[$this -> index_words] . '" name="solution' . $this -> nb_masking_words . '">';
 	}
 

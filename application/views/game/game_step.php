@@ -25,8 +25,8 @@
 	</div>
 	<div class="eight columns lyrics" style="text-align: center; float: right;">
 		<form action="<?php echo base_url(); ?>game/result" method="post">
-			<h5>You got <?php echo $nb_words; ?>
-			holes through these lyrics. Complete them and get your result !</h5>
+			<h5>Below in this lyrics' form, you got <?php echo $nb_words; ?>
+			blank spaces. Fill in them and get your result !</h5>
 			<?php
 			if (isset($lyrics)) {
 				foreach ($lyrics as $word)
