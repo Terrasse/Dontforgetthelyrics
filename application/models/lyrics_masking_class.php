@@ -246,7 +246,7 @@ class Lyrics_masking_class extends CI_Model {
 		}
 		
 		// avoid word'
-		if( $lastChar == "'"){
+		if(preg_match('/\'/i',$this -> words[$this -> index_words],$matches,0)){
 			return "USELESS_WORD";
 		}
 
