@@ -1,4 +1,4 @@
-﻿
+
 package htmlelements
 {
 	import flash.events.Event;

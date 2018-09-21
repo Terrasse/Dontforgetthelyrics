@@ -1,0 +1,7 @@
+---
+applications:
+- name: dontforgetthelyrics
+  memory: 850M
+  buildpack: https://github.com/dmikusa-pivotal/cf-php-build-pack.git
+service:
+- dontforgetthelyrics

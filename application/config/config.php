@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://127.0.0.1/dontforgetthelyrics/';
+$config['base_url']	= 'http://dontforgetthelyrics.cfapps.io/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,8 +224,8 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '38bb81e72ef654cb526058dae5731817841e60f9';
-
+# $config['encryption_key'] = '38bb81e72ef654cb526058dae5731817841e60f9';
+$config['encryption_key'] = '';
 /*
 |--------------------------------------------------------------------------
 | Session Variables
